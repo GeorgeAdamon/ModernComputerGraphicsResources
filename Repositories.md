@@ -12,3 +12,7 @@ _: The famous Unity Job System cookbook by Stella Cannefax._
 
 * [Lotte Makes Stuff](https://github.com/LotteMakesStuff)
 _: Unity3d gems by Lotte Makes Stuff._
+
+* [Geometry 3 Sharp](https://github.com/gradientspace/geometry3Sharp)
+_: Extensive state-of-the-art computational geometry libraries by GradientSpace._
+
