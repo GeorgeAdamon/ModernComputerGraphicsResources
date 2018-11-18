@@ -10,3 +10,5 @@ _: State-of-the-art computational geometry algorithms implemented in Unity3d by 
 * [Stella Cannefax - stella3d](https://github.com/stella3d)
 _: The famous Unity Job System cookbook by Stella Cannefax._
 
+* [Lotte Makes Stuff](https://github.com/LotteMakesStuff)
+_: Unity3d gems by Lotte Makes Stuff._
