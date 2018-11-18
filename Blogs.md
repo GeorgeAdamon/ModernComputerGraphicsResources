@@ -6,3 +6,8 @@ _: Graphics Programming Weekly. The latest hot developments in Computer Graphics
 
 * [Ronja's Shader Tutorials](https://www.ronja-tutorials.com/)
 _: Modern Cg/HLSL shader tutorials implemented in Unity3d._
+
+* [Alan Zucconi](https://www.alanzucconi.com/)
+_: Multi-part advanced shader tutorials and frequent shader showcases by Alan Zucconi._
+
+
