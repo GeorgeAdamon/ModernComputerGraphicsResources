@@ -33,3 +33,6 @@ _: Advanced tutorials and comparisons between Game Engines, Graphics APIs and Pr
 
 * [Benedikt Bitterli](https://benedikt-bitterli.me/portfolio.html)
 _: Personal portfolio of Benedikt Bitterli, with in-depth explanations of his experiments in realistic path-tracing and light simulation._
+
+* [A Random Walk Through Geek-Space - Sebastian Sylvan](https://www.sebastiansylvan.com/)
+_:  Brain dumps and other ramblings from Sebastian Sylvan._
