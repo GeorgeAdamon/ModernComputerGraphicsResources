@@ -6,3 +6,7 @@ _: State-of-the-art, high-performance creative coding tools and effects implemen
 
 * [Scrawk](https://github.com/Scrawk)
 _: State-of-the-art computational geometry algorithms implemented in Unity3d by Scrawk._
+
+* [Stella Cannefax - stella3d](https://github.com/stella3d)
+_: The famous Unity Job System cookbook by Stella Cannefax._
+
