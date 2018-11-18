@@ -1,4 +1,4 @@
-Blogs & Bloggers 
+Blogs & Websites
 ======
 
 * [Jendrik Illner](https://www.jendrikillner.com/post/)
@@ -22,5 +22,6 @@ _: Accesible, easy-to-follow shader tutorials for Unity3d by Harry Alisavakis._
 * [Kyle Halladay](http://kylehalladay.com/archive.html)
 _: Advanced shader tutorials covering Unity and Vulkan shaders by Kyle Halladay._
 
-
+* [Holistic 3D](https://holistic3d.com/)
+_: Comprehensive curriculum of artificial intelligences, interface design, animation, networking and procedural content generation by Dr Penny and Daniel de Byl._
 
