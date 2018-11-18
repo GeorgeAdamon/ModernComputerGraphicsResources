@@ -30,3 +30,6 @@ _: Probably the best Unity3D open source search engine._
 
 * [Alain Galván](https://alain.xyz/blog)
 _: Advanced tutorials and comparisons between Game Engines, Graphics APIs and Programming Languages by Alain Galván._
+
+* [Benedikt Bitterli](https://benedikt-bitterli.me/portfolio.html)
+_: Personal portfolio of Benedikt Bitterli, with in-depth explanations of his experiments in realistic path-tracing and light simulation._
