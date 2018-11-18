@@ -8,6 +8,9 @@ _: Graphics Programming Weekly. The latest hot developments in Computer Graphics
 _: Modern Cg/HLSL shader tutorials implemented in Unity3d._
 
 * [Alan Zucconi](https://www.alanzucconi.com/)
-_: Multi-part advanced shader tutorials and frequent shader showcases by Alan Zucconi._
+_: Multi-part advanced coding tutorials (Unity, HLSL shaders and beyond) & frequent shader showcases by Alan Zucconi._
+
+* [Jasper Flick-Catlike Coding](https://catlikecoding.com/)
+_: Extensive step-by-step Unity3d tutorial by Jasper Flick._
 
 
