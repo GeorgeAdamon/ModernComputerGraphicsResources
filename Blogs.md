@@ -36,3 +36,9 @@ _: Personal portfolio of Benedikt Bitterli, with in-depth explanations of his ex
 
 * [A Random Walk Through Geek-Space - Sebastian Sylvan](https://www.sebastiansylvan.com/)
 _:  Brain dumps and other ramblings from Sebastian Sylvan._
+
+* [Aras Pranckevičius](https://aras-p.info/)
+_: Excellent blog by Unity's Aras Pranckevičius. Among others, he builds a pathtracer from scratch for the CPU, the GPU, Unity, in C++, in C#, for iOS, you name it._
+
+* [Matt Phar](https://pharr.org/matt/blog/)
+_: Matt Phar writing in-depth about path-tracing, computer graphics and hardware optimizations._
