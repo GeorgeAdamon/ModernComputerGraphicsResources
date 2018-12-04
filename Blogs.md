@@ -1,4 +1,4 @@
-Blogs & Websites
+Weblogs & Devlogs
 ======
 
 * [Jendrik Illner](https://www.jendrikillner.com/post/)
@@ -45,4 +45,7 @@ _: Matt Phar writing in-depth about path-tracing, computer graphics and hardware
 
 * [Paul Bourke](http://paulbourke.net/)
 _: A magic world of geometry, fractals, patterns, file-format specifications and papers by Paul Bourke._
+
+* [Adam Samson](https://twitter.com/adamshmamshon)
+_: Highly aesthetic interactive experiments in Adam Samson's twitter account._
 
