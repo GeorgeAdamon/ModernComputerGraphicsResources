@@ -42,3 +42,7 @@ _: Excellent blog by Unity's Aras Pranckevičius. Among others, he builds a path
 
 * [Matt Phar](https://pharr.org/matt/blog/)
 _: Matt Phar writing in-depth about path-tracing, computer graphics and hardware optimizations._
+
+* [Paul Bourke](http://paulbourke.net/)
+_: A magic world of geometry, fractals, patterns, file-format specifications and papers by Paul Bourke._
+
