@@ -18,3 +18,6 @@ _: Extensive state-of-the-art computational geometry libraries by GradientSpace.
 
 * [Noise Crime](https://github.com/noisecrime)
 _: Useful creative coding tools and forks from other repositories, mostly implemented in Unity3d._
+
+* [Andy Duboc](https://github.com/andydbc)
+_: Interesting shaders for Unity3d by Andy Duboc._
