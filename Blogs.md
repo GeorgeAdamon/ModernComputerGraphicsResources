@@ -49,3 +49,5 @@ _: A magic world of geometry, fractals, patterns, file-format specifications and
 * [Adam Samson](https://twitter.com/adamshmamshon)
 _: Highly aesthetic interactive experiments in Adam Samson's twitter account._
 
+* [Jean-Philippe Grenier](http://jpgrenier.org/)
+_: State of the art real-time simulations and related articles by Jean-Philippe Grenier.
