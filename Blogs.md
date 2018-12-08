@@ -53,4 +53,4 @@ _: Highly aesthetic interactive experiments in Adam Samson's twitter account._
 _: State of the art real-time simulations and related articles by Jean-Philippe Grenier._
 
 * [Houdini Gubbins](https://houdinigubbins.wordpress.com/)
-_: Advanced Computational Geometry topics, loosely related to SideFx Houdini.
+_: Advanced Computational Geometry topics, loosely related to SideFx Houdini._
