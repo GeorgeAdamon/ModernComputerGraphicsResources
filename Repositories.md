@@ -17,7 +17,7 @@ _: Unity3d gems by Lotte Makes Stuff._
 _: Extensive state-of-the-art computational geometry libraries by GradientSpace._
 
 * [COMPAS](https://github.com/compas-dev/compas) 
-_: ._
+_: Open-source, Python-based framework for computational research and collaboration in architecture, engineering and digital fabrication._
 
 * [Noise Crime](https://github.com/noisecrime)
 _: Useful creative coding tools and forks from other repositories, mostly implemented in Unity3d._
