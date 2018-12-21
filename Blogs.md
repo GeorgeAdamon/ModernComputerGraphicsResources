@@ -54,3 +54,6 @@ _: State of the art real-time simulations and related articles by Jean-Philippe 
 
 * [Houdini Gubbins](https://houdinigubbins.wordpress.com/)
 _: Advanced Computational Geometry topics, loosely related to SideFx Houdini._
+
+* [SigHack - Manohar Vanga](https://sighack.com/)
+_: Explorations in Generative Art using Processing, by Manohar Vanga._
