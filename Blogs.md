@@ -57,3 +57,6 @@ _: Advanced Computational Geometry topics, loosely related to SideFx Houdini._
 
 * [SigHack - Manohar Vanga](https://sighack.com/)
 _: Explorations in Generative Art using Processing, by Manohar Vanga._
+
+* [NVIDIA GameWorks Blog](https://developer.nvidia.com/gameworks/blog)
+_: High-level, high-quality Computer Graphics topics and tutorials by NVIDIA._
