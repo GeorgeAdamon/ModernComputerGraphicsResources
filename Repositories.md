@@ -24,3 +24,6 @@ _: Useful creative coding tools and forks from other repositories, mostly implem
 
 * [Andy Duboc](https://github.com/andydbc)
 _: Interesting shaders for Unity3d by Andy Duboc._
+
+* [Joel Simon](https://github.com/joel-simon)
+_: Computational geometry meets evolutionary algorithms and biomimicry._
