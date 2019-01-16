@@ -28,5 +28,5 @@ _: Interesting shaders for Unity3d by Andy Duboc._
 * [Joel Simon](https://github.com/joel-simon)
 _: Computational geometry meets evolutionary algorithms and biomimicry._
 
-* [Geometric Tools](https://www.geometrictools.com/index.html)._
-_: The official site for the Geometric Tools Engine, a library of source code for computing in the fields of mathematics, graphics, image analysis and physics. Alongside the source code, lots of great resources about computational geometry.
+* [Geometric Tools](https://www.geometrictools.com/index.html)
+_:The official site for the Geometric Tools Engine, a library of source code for computing in the fields of mathematics, graphics, image analysis and physics. Alongside the source code, lots of great resources about computational geometry.
