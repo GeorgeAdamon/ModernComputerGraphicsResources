@@ -5,6 +5,8 @@ Papers
 
 * [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)<br/>**Daniel Holden, Taku Komura, Jun Saito**<br/>_University of Edinburgh.<br/>Method Studios._
 
+Books
+======
 * [Physically Based Rendering: From Theory To Implementation](https://pbrt.org/)<br/>**Matt Phar, Wenzel Jakob, Greg Humphreys**
 
 
