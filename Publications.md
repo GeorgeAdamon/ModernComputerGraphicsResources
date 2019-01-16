@@ -7,7 +7,7 @@ Academic Papers
 
 Open Documents
 ======
-* [Geometric Tools Documentation](https://www.geometrictools.com/Documentation/Documentation.html)<br.>**David Eberly**<br/>
+* [Geometric Tools Documentation](https://www.geometrictools.com/Documentation/Documentation.html)<br/>**David Eberly**<br/>_A very long list of documents explaining advanced mathematical, geometrical and computational concepts and techniques._
 
 Books
 ======
