@@ -1,2 +1,3 @@
 Resource Aggregators
 ======
+* _Intersections
