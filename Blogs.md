@@ -25,9 +25,6 @@ _: Advanced shader tutorials covering Unity and Vulkan shaders by Kyle Halladay.
 * [Holistic 3D](https://holistic3d.com/)
 _: Comprehensive curriculum of artificial intelligences, interface design, animation, networking and procedural content generation by Dr Penny and Daniel de Byl._
 
-* [Unity List](https://unitylist.com/)
-_: Probably the best Unity3D open source search engine._
-
 * [Alain Galván](https://alain.xyz/blog)
 _: Advanced tutorials and comparisons between Game Engines, Graphics APIs and Programming Languages by Alain Galván._
 
