@@ -11,6 +11,7 @@ Open Documents
 
 Books
 ======
-* [Physically Based Rendering: From Theory To Implementation](https://pbrt.org/)<br/>**Matt Phar, Wenzel Jakob, Greg Humphreys**
+* [Physically Based Rendering: From Theory To Implementation](https://pbrt.org/)<br/>**Matt Phar, Wenzel Jakob, Greg Humphreys**<br/>
+* [Ray Tracing Minibook Series](https://drive.google.com/drive/folders/14yayBb9XiL16lmuhbYhhvea8mKUUK77W)**Peter Shirley**
 
 
