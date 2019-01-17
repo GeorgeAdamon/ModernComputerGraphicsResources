@@ -7,14 +7,12 @@ Academic Papers
 * [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)<br/>**Daniel Holden, Taku Komura, Jun Saito**<br/>_University of Edinburgh.<br/>Method Studios._
 ## Raytracing & Pathtracing
 <br/>
-<br/>
 Open Documents
 ======
 ## Computational Geometry
 * [Geometric Tools Documentation](https://www.geometrictools.com/Documentation/Documentation.html)<br/>**David Eberly**<br/>_A very long list of documents explaining advanced mathematical, geometrical and computational concepts and techniques._
 ## Machine Learning & Neural Networks
 ## Raytracing & Pathtracing
-<br/>
 <br/>
 Books
 ======
