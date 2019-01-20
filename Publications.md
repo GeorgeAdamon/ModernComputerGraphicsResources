@@ -3,6 +3,8 @@ Academic Papers
 ### Computational Geometry
 * [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann**<br/>**Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin_<br/>_HENN Research, HENN Architekten_
+* [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**<br/>_TU Vienna_<br/>_Technion–Israel Institute of Technology_
+
 ### Machine Learning & Neural Networks
 * [Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding](http://jeffclune.com/publications/2013_Softbots_GECCO.pdf)<br/>**Nick Cheney, Robert MacCurdy, Jeff Clune, Hod Lipson.**<br/>_Creative Machines Lab, Cornell University.<br/>Evolving AI Lab, University of Wyoming._
 
