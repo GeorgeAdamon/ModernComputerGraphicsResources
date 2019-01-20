@@ -10,6 +10,10 @@ Academic Papers
 * [Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding](http://jeffclune.com/publications/2013_Softbots_GECCO.pdf)<br/>**Nick Cheney, Robert MacCurdy, Jeff Clune, Hod Lipson.**<br/>_Creative Machines Lab, Cornell University.<br/>Evolving AI Lab, University of Wyoming._
 
 * [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)<br/>**Daniel Holden, Taku Komura, Jun Saito**<br/>_University of Edinburgh.<br/>Method Studios._
+
+### Rasterization
+* [Rendering Large Point Clouds in Unity](https://www.cg.tuwien.ac.at/research/publications/2017/FRAISS-2017-PCU/FRAISS-2017-PCU-thesis.pdf)<br/>**Simon Maximilian Fraiss**<br/>_TU Vienna_
+
 ### Raytracing & Pathtracing
 
 <br/>Open Documents
