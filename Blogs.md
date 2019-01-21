@@ -57,3 +57,6 @@ _: Explorations in Generative Art using Processing, by Manohar Vanga._
 
 * [NVIDIA GameWorks Blog](https://developer.nvidia.com/gameworks/blog)
 _: High-level, high-quality Computer Graphics topics and tutorials by NVIDIA._
+
+* [Linden Reid](https://lindenreid.wordpress.com/)
+_: Well-explained, industry standard procedural geometry & graphics tutorials for Unity.
