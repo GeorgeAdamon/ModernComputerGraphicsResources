@@ -14,7 +14,8 @@ Academic Papers
 ### Real-time Graphics
 * [Rendering Large Point Clouds in Unity](https://www.cg.tuwien.ac.at/research/publications/2017/FRAISS-2017-PCU/FRAISS-2017-PCU-thesis.pdf)<br/>**Simon Maximilian Fraiss**<br/>_TU Vienna_
 * [Using a Floating Origin to Improve Fidelity and Performance of Large, Distributed Virtual Worlds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.7201&rep=rep1&type=pdf)<br/>**Chris Thorne**<br/>_School of Computer Science and Software Engineering, The University of Western Australia_<br/>[_>> Unity Implementation <<_](http://wiki.unity3d.com/index.php?title=Floating_Origin)
-* [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>
+* [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**<br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
+
 ### Raytracing & Pathtracing
 
 <br/>Open Documents
