@@ -2,58 +2,61 @@ Weblogs & Devlogs
 ======
 
 * [Ronja's Shader Tutorials](https://www.ronja-tutorials.com/)
-_: Modern Cg/HLSL shader tutorials implemented in Unity3d._
+<br/>_Modern Cg/HLSL shader tutorials implemented in Unity3d._
 
 * [Alan Zucconi](https://www.alanzucconi.com/)
-_: Multi-part advanced tutorials (Unity3d, HLSL shaders and beyond) & frequent shader showcases by Alan Zucconi._
+<br/>_Multi-part advanced tutorials (Unity3d, HLSL shaders and beyond) & frequent shader showcases by Alan Zucconi._
 
 * [Jasper Flick - Catlike Coding](https://catlikecoding.com/)
-_: Extensive step-by-step Unity3d tutorials by Jasper Flick._
+<br/>_Extensive step-by-step Unity3d tutorials by Jasper Flick._
 
 * [Phillip Rideout - The Little Grasshopper](https://prideout.net/)
-_: Advanced computer graphics tutorials/algorithms in various languages by Phillip Rideout._
+<br/>_Advanced computer graphics tutorials/algorithms in various languages by Phillip Rideout._
 
 * [Harry Alisavakis](http://halisavakis.com/)
-_: Accesible, easy-to-follow shader tutorials for Unity3d by Harry Alisavakis._
+<br/>_Accesible, easy-to-follow shader tutorials for Unity3d by Harry Alisavakis._
 
 * [Kyle Halladay](http://kylehalladay.com/archive.html)
-_: Advanced shader tutorials covering Unity and Vulkan shaders by Kyle Halladay._
+<br/>_Advanced shader tutorials covering Unity and Vulkan shaders by Kyle Halladay._
 
 * [Holistic 3D](https://holistic3d.com/)
-_: Comprehensive curriculum of artificial intelligences, interface design, animation, networking and procedural content generation by Dr Penny and Daniel de Byl._
+<br/>_Comprehensive curriculum of artificial intelligences, interface design, animation, networking and procedural content generation by Dr Penny and Daniel de Byl._
 
 * [Alain Galván](https://alain.xyz/blog)
-_: Advanced tutorials and comparisons between Game Engines, Graphics APIs and Programming Languages by Alain Galván._
+<br/>_Advanced tutorials and comparisons between Game Engines, Graphics APIs and Programming Languages by Alain Galván._
 
 * [Benedikt Bitterli](https://benedikt-bitterli.me/portfolio.html)
-_: Personal portfolio of Benedikt Bitterli, with in-depth explanations of his experiments in realistic path-tracing and light simulation._
+<br/>_Personal portfolio of Benedikt Bitterli, with in-depth explanations of his experiments in realistic path-tracing and light simulation._
 
 * [A Random Walk Through Geek-Space - Sebastian Sylvan](https://www.sebastiansylvan.com/)
-_:  Brain dumps and other ramblings from Sebastian Sylvan._
+<br/>_Brain dumps and other ramblings from Sebastian Sylvan._
 
 * [Aras Pranckevičius](https://aras-p.info/)
-_: Excellent blog by Unity's Aras Pranckevičius. Among others, he builds a pathtracer from scratch for the CPU, the GPU, Unity, in C++, in C#, for iOS, you name it._
+<br/>_Excellent blog by Unity's Aras Pranckevičius. Among others, he builds a pathtracer from scratch for the CPU, the GPU, Unity, in C++, in C#, for iOS, you name it._
 
 * [Matt Phar](https://pharr.org/matt/blog/)
-_: Matt Phar writing in-depth about path-tracing, computer graphics and hardware optimizations._
+<br/>_Matt Phar writing in-depth about path-tracing, computer graphics and hardware optimizations._
 
 * [Paul Bourke](http://paulbourke.net/)
-_: A magic world of geometry, fractals, patterns, file-format specifications and papers by Paul Bourke._
+<br/>_A magic world of geometry, fractals, patterns, file-format specifications and papers by Paul Bourke._
 
 * [Adam Samson](https://twitter.com/adamshmamshon)
-_: Highly aesthetic interactive experiments in Adam Samson's twitter account._
+<br/>_Highly aesthetic interactive experiments in Adam Samson's twitter account._
 
 * [Jean-Philippe Grenier](http://jpgrenier.org/)
-_: State of the art real-time simulations and related articles by Jean-Philippe Grenier._
+<br/>_State of the art real-time simulations and related articles by Jean-Philippe Grenier._
 
 * [Houdini Gubbins](https://houdinigubbins.wordpress.com/)
-_: Advanced Computational Geometry topics, loosely related to SideFx Houdini._
+<br/>_Advanced Computational Geometry topics, loosely related to SideFx Houdini._
 
 * [SigHack - Manohar Vanga](https://sighack.com/)
-_: Explorations in Generative Art using Processing, by Manohar Vanga._
+<br/>_Explorations in Generative Art using Processing, by Manohar Vanga._
 
 * [NVIDIA GameWorks Blog](https://developer.nvidia.com/gameworks/blog)
-_: High-level, high-quality Computer Graphics topics and tutorials by NVIDIA._
+<br/>_High-level, high-quality Computer Graphics topics and tutorials by NVIDIA._
 
 * [Linden Reid](https://lindenreid.wordpress.com/)
-_: Well-explained, industry standard procedural geometry & graphics tutorials for Unity._
+<br/>_Well-explained, industry standard procedural geometry & graphics tutorials for Unity._
+
+* [Wendelin Reich-Gamasutra](http://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
+<br/>_Wendelin Reich's 3-part series about C# Memory Management for Unity Developers._
