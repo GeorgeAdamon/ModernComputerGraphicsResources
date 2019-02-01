@@ -9,9 +9,13 @@ This collection was initially biased towards the Unity3d environment and Cg/HLSL
 
 ### [Aggregators](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Aggregators.md)
 _People who collect and curate content and resources, similarly to what's happening here._
+</br>
 ### [Weblogs & Devlogs]()
 _People who write about their craft & their ideas and share their knowledge & experience with the world._
+</br>
 ### [Publications](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications.md)
 _Published books and research papers._
+</br>
 ### [Repositories]()
 _Individuals and teams who openly share their code._
+</br>
