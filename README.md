@@ -9,5 +9,5 @@ This collection was initially biased towards the Unity3d environment and Cg/HLSL
 
 * [Aggregators]()
 * [Weblogs & Devlogs]()
-* [Publications]()
+* [Publications](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications.md)
 * [Repositories]()
