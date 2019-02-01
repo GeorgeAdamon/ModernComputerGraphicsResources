@@ -36,3 +36,6 @@ _: Header-only C++ library for static and dynamic geometry processing, using a u
 
 * [Eric Jang](https://github.com/ericjang)
 _: Research Engineer at GoogleBrain. Dozens of deep learning repositories._
+
+* [Junichiro Horikawa](https://github.com/jhorikawa)
+_: Great variety of algorithmic design tools for Unity, Houdini and Rhino/Grasshopper by Junichiro Horikawa.
