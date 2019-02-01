@@ -5,9 +5,9 @@ This collection was initiated by George Adamopoulos in November 2018, as a away 
 
 This collection was initially biased towards the Unity3d environment and Cg/HLSL shaders, aligning with the author's interests at that time. Hopefully over time it will evolve into a richer, more diverse and more holistic collection of resources.
 
-### Contents
+## Contents
 
-* [Aggregators]()
-* [Weblogs & Devlogs]()
-* [Publications](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications.md)
-* [Repositories]()
+### [Aggregators](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Aggregators.md)
+### [Weblogs & Devlogs]()
+### [Publications](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications.md)
+### [Repositories]()
