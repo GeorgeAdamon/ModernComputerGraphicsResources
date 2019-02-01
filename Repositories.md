@@ -39,3 +39,6 @@ _</br> Research Engineer at GoogleBrain. Dozens of deep learning repositories._
 
 * [Junichiro Horikawa](https://github.com/jhorikawa)
 _</br> Great variety of algorithmic design tools for Unity, Houdini and Rhino/Grasshopper by Junichiro Horikawa._
+
+* [Unity Entity Component System Samples] (https://github.com/Unity-Technologies/EntityComponentSystemSamples)
+_</br> Regularly updated samples and documentation about Unity's experimental ECS system._
