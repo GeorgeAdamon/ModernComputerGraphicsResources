@@ -22,7 +22,10 @@ Academic Papers
 ### Computational Geometry
 * [Geometric Tools Documentation](https://www.geometrictools.com/Documentation/Documentation.html)<br/>**David Eberly**<br/>_A very long list of documents explaining advanced mathematical, geometrical and computational concepts and techniques._
 ### Machine Learning & Neural Networks
+### Modern Photogrammetry Workflows
+* [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>
 ### Raytracing & Pathtracing
+
 
 <br/>Books
 ======
