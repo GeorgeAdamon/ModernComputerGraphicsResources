@@ -1,5 +1,7 @@
 Resource Aggregators
 ======
+* [Eric Jang's Computer Graphic Resources](github.com/ericjang/awesome-graphics)
+_:An excellent curated list of computer graphics tutorials and resources. Last update made in 2016.
 
 * [Jendrik Illner](https://www.jendrikillner.com/post/)
 _: Graphics Programming Weekly. The latest hot developments in Computer Graphics curated by Jendrik Illner._
