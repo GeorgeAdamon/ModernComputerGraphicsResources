@@ -42,3 +42,6 @@ _</br> Great variety of algorithmic design tools for Unity, Houdini and Rhino/Gr
 
 * [Unity Entity Component System Samples](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
 _</br> Regularly updated samples and documentation about Unity's experimental ECS and Job system._
+
+* [Pavel Dobryakov](https://github.com/PavelDoGreat)
+_</br> Really fast, mobile friendly WebGL Computational Fluid Simulator._
