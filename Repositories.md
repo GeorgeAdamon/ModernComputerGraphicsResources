@@ -33,3 +33,6 @@ _: The official site for the Geometric Tools Engine, a library of source code fo
 
 * [ShapeOP](https://www.shapeop.org/index.php)
 _: Header-only C++ library for static and dynamic geometry processing, using a unified framework for optimization under constraints. It is developed by the Computer Graphics and Geometry Laboratory of EPFL, in collaboration with Daniel Piker and Anders Holden Deleuran._
+
+*[Eric Jang](https://github.com/ericjang)
+_: Research Engineer at GoogleBrain. Dozens of deep learning repositories.
