@@ -16,6 +16,6 @@ _People who write about their craft & their ideas and share their knowledge & ex
 ### [Publications](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications.md)
 _Published books and research papers._
 </br>
-### [Repositories]()
+### [Repositories](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Repositories.md)
 _Individuals and teams who openly share their code._
 </br>
