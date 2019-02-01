@@ -5,6 +5,7 @@ Academic Papers
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann**<br/>**Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin_<br/>_HENN Research, HENN Architekten_
 * [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**<br/>_TU Vienna_<br/>_Technion–Israel Institute of Technology_
 * [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)<br/>**Wenping Wang, Yang Liu**<br/>_University of Hong Kong, Microsoft Research Asia_
+* [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
 
 ### Machine Learning & Neural Networks
 * [Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding](http://jeffclune.com/publications/2013_Softbots_GECCO.pdf)<br/>**Nick Cheney, Robert MacCurdy, Jeff Clune, Hod Lipson.**<br/>_Creative Machines Lab, Cornell University.<br/>Evolving AI Lab, University of Wyoming._
