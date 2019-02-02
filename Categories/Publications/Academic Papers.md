@@ -70,6 +70,8 @@ Academic Papers
 * [Image and Video Abstraction by Coherence-Enhancing Filtering](http://www.kyprianidis.com/p/eg2011/jkyprian-eg2011.pdf)<br/>**Jan Eric Kyprianidis, Henry Kang**<br/>_Hasso-Plattner-Institut,Germany, University of Missouri, St. Louis, USA_
 
 * [A few good samples: Shape & tone depiction for Hermite RBF implicits](https://www.researchgate.net/publication/221523260_A_few_good_samples_Shape_tone_depiction_for_Hermite_RBF_implicits/download)<br/>**Emilio Vital Brazil, Ives Macedo, Mario Costa Sousa, Luiz Velho, Luiz Henrique de Figueiredo**<br/>_University of Calgary, Canada , IMPA – Instituto Nacional de Matematica Pura e Aplicada, Brazil_
+
+* [A GPU-based Method for Real-time Simulation of Eastern Painting](https://www.comp.nus.edu.sg/~huangzy/review/research/others/graphite07_lu.pdf)<br/>**The Kiet Lu, Zhiyong Huang**<br/>_School of Computing,National University of Singapore, Institute for Infocomm Research (I2R), A*STAR, Singapore_
 ---
 
 
