@@ -15,8 +15,8 @@ _People who write about their craft & their ideas and share their knowledge & ex
 </br>
 ### [Publications](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications)
 _Published books and research papers._
-* [Academic Papers](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic Papers.md)
-* [Open Documents](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Open Documents.md)
+* [Academic Papers](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md)
+* [Open Documents](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Open%20Documents.md)
 * [Books](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Books.md)
 </br>
 ### [Repositories](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Repositories.md)
