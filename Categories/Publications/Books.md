@@ -1,7 +1,5 @@
 Books
 ======
-### Computational Geometry
-### Machine Learning & Neural Networks
 ### Raytracing & Pathtracing
 * [Physically Based Rendering: From Theory To Implementation](https://pbrt.org/)<br/>**Matt Phar, Wenzel Jakob, Greg Humphreys**
 
