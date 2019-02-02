@@ -67,6 +67,8 @@ Academic Papers
 
 * [Using a Floating Origin to Improve Fidelity and Performance of Large, Distributed Virtual Worlds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.7201&rep=rep1&type=pdf)<br/>**Chris Thorne**<br/>_School of Computer Science and Software Engineering, The University of Western Australia_<br/>[_>> Unity Implementation <<_](http://wiki.unity3d.com/index.php?title=Floating_Origin)
 
+* [Image and Video Abstraction by Coherence-Enhancing Filtering](http://www.kyprianidis.com/p/eg2011/jkyprian-eg2011.pdf)<br/>**Jan Eric Kyprianidis, Henry Kang**<br/>_Hasso-Plattner-Institut,Germany, University of Missouri, St. Louis, USA_
+
 ---
 
 
