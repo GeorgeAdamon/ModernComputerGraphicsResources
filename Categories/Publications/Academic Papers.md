@@ -5,7 +5,7 @@ Academic Papers
 ### [Computational Geometry](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-geometry-1)
 ### [Machine Learning & Neural Networks](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#machine-learning--neural-networks-1)
 ### [Physics & Material Simulation](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#physics--material-simulation-1)
-### [Real-Time Graphics](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#real-time-graphics-1)
+### [Rasterization](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#real-time-graphics-1)
 
 ---
 
@@ -50,7 +50,7 @@ Academic Papers
 
 ---
 
-### Real-time Graphics
+### Rasterization
 * [Rendering Large Point Clouds in Unity](https://www.cg.tuwien.ac.at/research/publications/2017/FRAISS-2017-PCU/FRAISS-2017-PCU-thesis.pdf)<br/>**Simon Maximilian Fraiss**<br/>_TU Vienna_
 
 * [Using a Floating Origin to Improve Fidelity and Performance of Large, Distributed Virtual Worlds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.7201&rep=rep1&type=pdf)<br/>**Chris Thorne**<br/>_School of Computer Science and Software Engineering, The University of Western Australia_<br/>[_>> Unity Implementation <<_](http://wiki.unity3d.com/index.php?title=Floating_Origin)
@@ -58,6 +58,8 @@ Academic Papers
 * [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**<br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
 
 * [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
+
+* [Illustrating Smooth Surfaces](https://mrl.nyu.edu/publications/illustrating-smooth/hertzmann-zorin.pdf)<br/>**Aaron Hertzmann, Denis Zorin**<br/>_New York University_
 
 * [Real-Time Volumetric Shadows Using 1D Min-Max MipMaps](http://groups.csail.mit.edu/graphics/mmvs/mmvs.pdf)<br/>**Jiawen Chen,Ilya Baran, Fredo Durand, Wojciech Jarosz**<br/>_MIT CSAIL, Disney Research Zurich_
 
