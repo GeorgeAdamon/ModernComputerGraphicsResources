@@ -1,5 +1,11 @@
 Academic Papers
 ======
+---
+## Contents
+### [Computational Geometry]()
+### [Machine Learning & Neural Networks]()
+### [Real-Time Graphics]()
+---
 ### Computational Geometry
 * [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann**<br/>**Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin_<br/>_HENN Research, HENN Architekten_
