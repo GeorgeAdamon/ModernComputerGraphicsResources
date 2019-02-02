@@ -61,6 +61,8 @@ Academic Papers
 
 * [Illustrating Smooth Surfaces](https://mrl.nyu.edu/publications/illustrating-smooth/hertzmann-zorin.pdf)<br/>**Aaron Hertzmann, Denis Zorin**<br/>_New York University_
 
+* [Line Direction Matters: An Argument For The Use Of Principal Directions In 3D Line Drawings](https://www-users.cs.umn.edu/~interran/papers/npar00.pdf)<br/>**Ahna Girshick, Victoria Interrante, Steven Haker, Todd Lemoine**<br/>_Nissan Cambridge Basic Research, University of Minnesota, Yale University, LambSoft_
+
 * [Real-Time Volumetric Shadows Using 1D Min-Max MipMaps](http://groups.csail.mit.edu/graphics/mmvs/mmvs.pdf)<br/>**Jiawen Chen,Ilya Baran, Fredo Durand, Wojciech Jarosz**<br/>_MIT CSAIL, Disney Research Zurich_
 
 ---
