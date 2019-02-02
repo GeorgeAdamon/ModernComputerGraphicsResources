@@ -17,6 +17,7 @@ Academic Papers
 * [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
 * [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
 * [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**<br/>_TU Berlin, Caltech_
+* [Mesh Segmentation using Feature Point and Core Extraction](http://webee.technion.ac.il/~ayellet/Ps/KatzLeifmanTal.pdf)<br/>**Sagi Katz, George Leifman, Ayellet Tal**<br/>_Technion-Israel Institute of Technology, Department of Electrical Engineering_
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
 
 ---
