@@ -4,7 +4,7 @@ Academic Papers
 ## Contents
 ### [Computational Geometry](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-geometry-1)
 ### [Machine Learning & Neural Networks](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#machine-learning--neural-networks-1)
-### [Real-Time Graphics]()
+### [Real-Time Graphics](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#real-time-graphics-1)
 ---
 ### Computational Geometry
 * [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
@@ -29,3 +29,7 @@ Academic Papers
 * [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**<br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
 * [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
 * [Real-Time Volumetric Shadows Using 1D Min-Max MipMaps](http://groups.csail.mit.edu/graphics/mmvs/mmvs.pdf)<br/>**Jiawen Chen,Ilya Baran, Fredo Durand, Wojciech Jarosz**<br/>_MIT CSAIL, Disney Research Zurich_
+
+---
+
+
