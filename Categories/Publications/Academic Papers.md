@@ -15,7 +15,7 @@ Academic Papers
 * [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)<br/>**Wenping Wang, Yang Liu**<br/>_University of Hong Kong, Microsoft Research Asia_
 * [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
 * [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**<br/>_TU Berlin, Caltech_
-* [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)<br/>**Jeff Jones**<br/>_Univeristy of the West of England_
+* [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)<br/>**Jeff Jones**<br/>_University of the West of England_
 ---
 
 ### Machine Learning & Neural Networks
