@@ -15,4 +15,6 @@ _: An enormous list of free books related to real-time computer graphics._
 * [Unity List](https://unitylist.com/)
 _: Probably the best Unity3D open source search engine._
 
+* [Non-Photorealistic Computer Graphics Library](https://www.npcglib.org/index.php)
+_:  A collection of references in the field of Non-photorealistic computer graphics._
 
