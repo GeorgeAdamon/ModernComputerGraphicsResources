@@ -3,7 +3,7 @@ Academic Papers
 ---
 ## Contents
 ### [Computational Geometry](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-geometry-1)
-### [Machine Learning & Neural Networks]()
+### [Machine Learning & Neural Networks](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#machine-learning--neural-networks-1)
 ### [Real-Time Graphics]()
 ---
 ### Computational Geometry
