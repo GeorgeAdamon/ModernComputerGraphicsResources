@@ -9,14 +9,16 @@ Academic Papers
 ---
 
 ### Computational Geometry
-* [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
-* [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
-* [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**<br/>_TU Vienna, Technion–Israel Institute of Technology_
 * [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)<br/>**Wenping Wang, Yang Liu**<br/>_University of Hong Kong, Microsoft Research Asia_
-* [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
-* [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**<br/>_TU Berlin, Caltech_
-* [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)<br/>**Jeff Jones**<br/>_University of the West of England_
 * [A Review of Properties And Variations of Voronoi Diagrams](https://www.whitman.edu/Documents/Academics/Mathematics/dobrinat.pdf)<br/>**Adam Dobrin**<br/>_Whitman College_
+* [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)<br/>**Jeff Jones**<br/>_University of the West of England_
+* [Consistent Mesh Partitioning and Skeletonization using the Shape Diameter Function](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Shapira08.pdf)<br/>**Lior Shapira, Ariel Shamir, Daniel Cohen-Or**<br/>_Tel-Aviv University, The Interdisciplinary Center_
+* [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**<br/>_TU Vienna, Technion–Israel Institute of Technology_
+* [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
+* [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
+* [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**<br/>_TU Berlin, Caltech_
+* [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
+
 ---
 
 ### Machine Learning & Neural Networks
