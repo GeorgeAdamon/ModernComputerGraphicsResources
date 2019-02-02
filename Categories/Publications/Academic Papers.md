@@ -26,7 +26,8 @@ Academic Papers
 
 * [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**<br/>_TU Berlin, Caltech_
 
-* [Hexagonal Global Parameterization of Arbitrary Surfaces](https://web.engr.oregonstate.edu/~zhange/images/HexParam.pdf)<br/>**
+* [Hexagonal Global Parameterization of Arbitrary Surfaces](https://web.engr.oregonstate.edu/~zhange/images/HexParam.pdf)<br/>**Matthias Nieser, Jonathan Palacios, Konrad Polthier, Eugene Zhang**
+
 * [Mesh Segmentation using Feature Point and Core Extraction](http://webee.technion.ac.il/~ayellet/Ps/KatzLeifmanTal.pdf)<br/>**Sagi Katz, George Leifman, Ayellet Tal**<br/>_Technion-Israel Institute of Technology, Department of Electrical Engineering_
 
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
