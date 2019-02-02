@@ -55,7 +55,7 @@ Academic Papers
 
 * [A GPU-based Method for Real-time Simulation of Eastern Painting](https://www.comp.nus.edu.sg/~huangzy/review/research/others/graphite07_lu.pdf)<br/>**The Kiet Lu, Zhiyong Huang**<br/>_School of Computing,National University of Singapore, Institute for Infocomm Research (I2R), A*STAR, Singapore_
 
-* [Coherent Line Drawing](http://umsl.edu/mathcs/about/People/Faculty/HenryKang/coon.pdf)<br/>**Henry Kang, Seungyong Lee, Charles K. Chui**<br/>_University of Missouri, POSTECH_
+* [Coherent Line Drawing](http://umsl.edu/mathcs/about/People/Faculty/HenryKang/coon.pdf)<br/>**Henry Kang, Seungyong Lee, Charles K. Chui**<br/>_University of Missouri, POSTECH_ [ >>Open-source C++ Implementation <<](https://github.com/SSARCandy/Coherent-Line-Drawing)
 
 * [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
 
