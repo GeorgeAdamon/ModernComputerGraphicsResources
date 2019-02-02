@@ -11,31 +11,44 @@ Academic Papers
 ### Computational Geometry
 * [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)<br/>**Wenping Wang, Yang Liu**<br/>_University of Hong Kong, Microsoft Research Asia_
 
-
 * [A Review of Properties And Variations of Voronoi Diagrams](https://www.whitman.edu/Documents/Academics/Mathematics/dobrinat.pdf)<br/>**Adam Dobrin**<br/>_Whitman College_
+
 * [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)<br/>**Jeff Jones**<br/>_University of the West of England_
+
 * [Consistent Mesh Partitioning and Skeletonization using the Shape Diameter Function](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Shapira08.pdf)<br/>**Lior Shapira, Ariel Shamir, Daniel Cohen-Or**<br/>_Tel-Aviv University, The Interdisciplinary Center_
+
 * [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**<br/>_TU Vienna, Technion–Israel Institute of Technology_
+
 * [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
+
 * [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
+
 * [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**<br/>_TU Berlin, Caltech_
+
 * [Mesh Segmentation using Feature Point and Core Extraction](http://webee.technion.ac.il/~ayellet/Ps/KatzLeifmanTal.pdf)<br/>**Sagi Katz, George Leifman, Ayellet Tal**<br/>_Technion-Israel Institute of Technology, Department of Electrical Engineering_
+
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
 
 ---
 
 ### Machine Learning & Neural Networks
-* [Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding](http://jeffclune.com/publications/2013_Softbots_GECCO.pdf)<br/>**Nick Cheney, Robert MacCurdy, Jeff Clune, Hod Lipson.**<br/>_Creative Machines Lab, Cornell University.<br/>Evolving AI Lab, University of Wyoming._
+* [Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks](https://arxiv.org/pdf/1602.03616.pdf)<br/>**Ahn Nguyen, Jason Yosinski, Jeff Clune**<br/>_University of Wyoming, Cornell University_
 
 * [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)<br/>**Daniel Holden, Taku Komura, Jun Saito**<br/>_University of Edinburgh.<br/>Method Studios._
+
+* [Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding](http://jeffclune.com/publications/2013_Softbots_GECCO.pdf)<br/>**Nick Cheney, Robert MacCurdy, Jeff Clune, Hod Lipson.**<br/>_Creative Machines Lab, Cornell University.<br/>Evolving AI Lab, University of Wyoming._
 
 ---
 
 ### Real-time Graphics
 * [Rendering Large Point Clouds in Unity](https://www.cg.tuwien.ac.at/research/publications/2017/FRAISS-2017-PCU/FRAISS-2017-PCU-thesis.pdf)<br/>**Simon Maximilian Fraiss**<br/>_TU Vienna_
+
 * [Using a Floating Origin to Improve Fidelity and Performance of Large, Distributed Virtual Worlds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.7201&rep=rep1&type=pdf)<br/>**Chris Thorne**<br/>_School of Computer Science and Software Engineering, The University of Western Australia_<br/>[_>> Unity Implementation <<_](http://wiki.unity3d.com/index.php?title=Floating_Origin)
+
 * [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**<br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
+
 * [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
+
 * [Real-Time Volumetric Shadows Using 1D Min-Max MipMaps](http://groups.csail.mit.edu/graphics/mmvs/mmvs.pdf)<br/>**Jiawen Chen,Ilya Baran, Fredo Durand, Wojciech Jarosz**<br/>_MIT CSAIL, Disney Research Zurich_
 
 ---
