@@ -19,18 +19,3 @@ Academic Papers
 * [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**<br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
 * [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
 * [Real-Time Volumetric Shadows Using 1D Min-Max MipMaps](http://groups.csail.mit.edu/graphics/mmvs/mmvs.pdf)<br/>**Jiawen Chen,Ilya Baran, Fredo Durand, Wojciech Jarosz**<br/>_MIT CSAIL, Disney Research Zurich_
-
-### Raytracing & Pathtracing
-
-
-
-<br/>Books
-======
-### Computational Geometry
-### Machine Learning & Neural Networks
-### Raytracing & Pathtracing
-* [Physically Based Rendering: From Theory To Implementation](https://pbrt.org/)<br/>**Matt Phar, Wenzel Jakob, Greg Humphreys**
-
-* [Ray Tracing Minibook Series](https://drive.google.com/drive/folders/14yayBb9XiL16lmuhbYhhvea8mKUUK77W)<br/>**Peter Shirley**<br/> _The famous series "Ray Tracing in a Weekend", "Ray Tracing: The next Week", "Ray Tracing: The Rest of your Life", available in a pay-what-you-want format by the author, Peter Shirley._
-
-
