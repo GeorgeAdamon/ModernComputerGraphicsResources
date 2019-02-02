@@ -4,6 +4,7 @@ Academic Papers
 ## Contents
 ### [Computational Geometry](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-geometry-1)
 ### [Machine Learning & Neural Networks](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#machine-learning--neural-networks-1)
+### [Physics & Material Simulation]
 ### [Real-Time Graphics](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#real-time-graphics-1)
 
 ---
@@ -37,6 +38,11 @@ Academic Papers
 * [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)<br/>**Daniel Holden, Taku Komura, Jun Saito**<br/>_University of Edinburgh.<br/>Method Studios._
 
 * [Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding](http://jeffclune.com/publications/2013_Softbots_GECCO.pdf)<br/>**Nick Cheney, Robert MacCurdy, Jeff Clune, Hod Lipson.**<br/>_Creative Machines Lab, Cornell University.<br/>Evolving AI Lab, University of Wyoming._
+
+---
+
+### Physics & Material Simulation
+* [Dynamic Simulation of Soft Heterogeneous Objects](https://arxiv.org/pdf/1212.2845v1.pdf)<br/>**Jonathan Hiller, Hod Lipson**<br/>_Sibley School of Mechanical and Aerospace Engineering, Cornell University_
 
 ---
 
