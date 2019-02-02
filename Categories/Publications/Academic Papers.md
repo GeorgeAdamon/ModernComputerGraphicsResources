@@ -5,7 +5,7 @@ Academic Papers
 ### [Computational Geometry](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-geometry-1)
 ### [Machine Learning & Neural Networks](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#machine-learning--neural-networks-1)
 ### [Physics & Material Simulation](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#physics--material-simulation-1)
-### [Rasterization](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#real-time-graphics-1)
+### [Computational Imaging](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#real-time-graphics-1)
 
 ---
 
@@ -50,7 +50,7 @@ Academic Papers
 
 ---
 
-### Rasterization
+### Computational Imaging
 * [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
 
 * [Illustrating Smooth Surfaces](https://mrl.nyu.edu/publications/illustrating-smooth/hertzmann-zorin.pdf)<br/>**Aaron Hertzmann, Denis Zorin**<br/>_New York University_
@@ -69,6 +69,7 @@ Academic Papers
 
 * [Image and Video Abstraction by Coherence-Enhancing Filtering](http://www.kyprianidis.com/p/eg2011/jkyprian-eg2011.pdf)<br/>**Jan Eric Kyprianidis, Henry Kang**<br/>_Hasso-Plattner-Institut,Germany, University of Missouri, St. Louis, USA_
 
+* [A few good samples: Shape & tone depiction for Hermite RBF implicits](https://www.researchgate.net/publication/221523260_A_few_good_samples_Shape_tone_depiction_for_Hermite_RBF_implicits/download)<br/>**Emilio Vital Brazil, Ives Macedo, Mario Costa Sousa, Luiz Velho, Luiz Henrique de Figueiredo**<br/>_University of Calgary, Canada , IMPA – Instituto Nacional de Matematica Pura e Aplicada, Brazil_
 ---
 
 
