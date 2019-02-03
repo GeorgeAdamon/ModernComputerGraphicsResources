@@ -33,6 +33,9 @@ Weblogs & Devlogs
 * [Jean-Philippe Grenier](http://jpgrenier.org/)
 <br/>_State of the art real-time simulations and related articles by Jean-Philippe Grenier._
 
+* [Joel Simon](http://www.joelsimon.net)
+<br/> _Joel Simon's excellent technical treatises on various computational design topics, such as coral growth end evolutionary floorplans._
+
 * [Jos Stam](https://www.josstam.com)
 <br/> _The personal website of the legendary Jos Stam._
 
