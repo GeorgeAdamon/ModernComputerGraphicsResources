@@ -45,6 +45,9 @@ Weblogs & Devlogs
 * [Matt Phar](https://pharr.org/matt/blog/)
 <br/>_Matt Phar writing in-depth about path-tracing, computer graphics and hardware optimizations._
 
+* [Minions Art](https://www.patreon.com/minionsart/posts)
+<br/>_Game Art tips & Unity shader tutorials._
+
 * [NVIDIA GameWorks Blog](https://developer.nvidia.com/gameworks/blog)
 <br/>_High-level, high-quality Computer Graphics topics and tutorials by NVIDIA._
 
