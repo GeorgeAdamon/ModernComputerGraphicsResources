@@ -48,3 +48,7 @@ _</br> Really fast, mobile friendly WebGL Computational Fluid Simulator._
 
 * [Position Based Dynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)<br/>
 _PositionBasedDynamics is a particle-based library for the physically-based simulation of rigid bodies, deformable solids and fluids, developed by the Interactive Computer Graphics department of Aachen University._
+
+* [Unity Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework)<br/>
+_A flexible and modular Node Editor Framework for creating node based displays and editors in Unity, developed by Levin Gaeher._
+
