@@ -20,8 +20,6 @@ Academic Papers
 
 * [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**<br/>_TU Vienna, Technion–Israel Institute of Technology_
 
-* [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
-
 * [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
 
 * [Geometry-Aware Direction Field Processing](http://alice.loria.fr/publications/papers/2009/tog_DFD/DFD.pdf)<br/>**Nicolas Ray, Bruno Vallet, Laurent Alonso, Bruno Levy**<br/>_INRIA Institute, France_
@@ -48,6 +46,10 @@ Academic Papers
 ### Physics & Material Simulation
 * [Dynamic Simulation of Soft Heterogeneous Objects](https://arxiv.org/pdf/1212.2845v1.pdf)<br/>**Jonathan Hiller, Hod Lipson**<br/>_Sibley School of Mechanical and Aerospace Engineering, Cornell University_
 
+* [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
+
+* [Position-Based Elastic Rods](https://docs.wixstatic.com/ugd/cf1fd6_d128ff89014f4bdebfeb967b88079daf.pdf)<br/>**Jos Stam**<br/>_Autodesk Research_
+
 * [Real-Time Fluid Dynamics for Games](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf)<br/>**Jos Stam**<br/> _alias|wavefront_
 
 ---
@@ -56,6 +58,9 @@ Academic Papers
 * [A few good samples: Shape & tone depiction for Hermite RBF implicits](https://www.researchgate.net/publication/221523260_A_few_good_samples_Shape_tone_depiction_for_Hermite_RBF_implicits/download)<br/>**Emilio Vital Brazil, Ives Macedo, Mario Costa Sousa, Luiz Velho, Luiz Henrique de Figueiredo**<br/>_University of Calgary, Canada , IMPA – Instituto Nacional de Matematica Pura e Aplicada, Brazil_
 
 * [A GPU-based Method for Real-time Simulation of Eastern Painting](https://www.comp.nus.edu.sg/~huangzy/review/research/others/graphite07_lu.pdf)<br/>**The Kiet Lu, Zhiyong Huang**<br/>_School of Computing,National University of Singapore, Institute for Infocomm Research (I2R), A*STAR, Singapore_
+
+* [Apparent Ridges for Line Drawing](http://persci.mit.edu/pub_pdfs/ApparentLines.pdf)**Tilke Judd, Fredo Durand, Edward Adelson**<br/>
+_MIT CSAIL, MIT Dept. of Brain and Cognitive Sciences_
 
 * [Coherent Line Drawing](http://umsl.edu/mathcs/about/People/Faculty/HenryKang/coon.pdf)<br/>**Henry Kang, Seungyong Lee, Charles K. Chui**<br/>_University of Missouri, POSTECH_ <br/>[ >> _Open-source C++ Implementation_ <<](https://github.com/SSARCandy/Coherent-Line-Drawing)
 
