@@ -48,7 +48,7 @@ Academic Papers
 ### Physics & Material Simulation
 * [Dynamic Simulation of Soft Heterogeneous Objects](https://arxiv.org/pdf/1212.2845v1.pdf)<br/>**Jonathan Hiller, Hod Lipson**<br/>_Sibley School of Mechanical and Aerospace Engineering, Cornell University_
 
-* [Real-Time Fluid Dynamics for Games](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf)<br/>**Jos Stam**
+* [Real-Time Fluid Dynamics for Games](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf)<br/>**Jos Stam**<br/> _alias|wavefront_
 
 ---
 
