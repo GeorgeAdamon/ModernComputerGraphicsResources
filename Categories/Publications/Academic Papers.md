@@ -50,6 +50,8 @@ Academic Papers
 
 * [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
 
+* [Position Based Dynamics](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)<br/>**Matthias Müller, Bruno Heidelberger, Marcus Hennix, John Ratcliff**<br/>_AGEIA_
+
 * [Position-Based Elastic Rods](https://docs.wixstatic.com/ugd/cf1fd6_d128ff89014f4bdebfeb967b88079daf.pdf)<br/>**Jos Stam**<br/>_Autodesk Research_
 
 * [Real-Time Fluid Dynamics for Games](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf)<br/>**Jos Stam**<br/> _alias|wavefront_
