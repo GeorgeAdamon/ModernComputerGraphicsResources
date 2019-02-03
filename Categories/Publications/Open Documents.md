@@ -2,7 +2,10 @@ Open Documents
 ======
 ### Computational Geometry
 * [Geometric Tools Documentation](https://www.geometrictools.com/Documentation/Documentation.html)<br/>**David Eberly**<br/>_A very long list of documents explaining advanced mathematical, geometrical and computational concepts and techniques._
+* [Karl Sims' Reaction Diffusion Tutorial](http://www.karlsims.com/rd.html)<br/>**Karl Sims**
+* [Karl Sims' Fluid Flow Tutorial](http://www.karlsims.com/fluid-flow.html)<br/>**Karl Sims**
 * [OBJ File Format Specification](http://www.martinreddy.net/gfx/3d/OBJ.spec)<br/>**Martin Reddy**<br/>_Thorough documentation of every single feature of the .obj file format._
+
 ### Modern Photogrammetry Workflows
 * [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>**Sébastien Lachambre, Sébastien Lagarde, Cyril Jover**<br/>_This document aims to describe a photogrammetry workflow dedicated to authoring game assets with an affordable budget for a game studio. It goes through image capturing, image processing, point cloud and mesh reconstruction, model clean-up, reduction and retopology, texture transfering, and post-processing._
 * [Full Photogrammetry Guide for 3D Artists](https://80.lv/articles/full-photogrammetry-guide-for-3d-artists/)
