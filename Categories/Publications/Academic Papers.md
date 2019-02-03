@@ -61,6 +61,8 @@ Academic Papers
 
 * [Illustrating Smooth Surfaces](https://mrl.nyu.edu/publications/illustrating-smooth/hertzmann-zorin.pdf)<br/>**Aaron Hertzmann, Denis Zorin**<br/>_New York University_
 
+* [Image Stylization using Anisotropic Reaction Diffusion](https://sci-hub.tw/10.1007/s00371-015-1139-2)<br/>**Ming-Te Chi, Wei-Ching Liu, Shu-Hsuan Hsu**<br/> _Department of Computer Science, National Chengchi University_ <br/>[>> _Ope-Source C++ Implementation <<](https://github.com/cglabnccu/stylizationRD)
+
 * [Image and Video Abstraction by Coherence-Enhancing Filtering](http://www.kyprianidis.com/p/eg2011/jkyprian-eg2011.pdf)<br/>**Jan Eric Kyprianidis, Henry Kang**<br/>_Hasso-Plattner-Institut,Germany, University of Missouri, St. Louis, USA_
 
 * [Line Direction Matters: An Argument For The Use Of Principal Directions In 3D Line Drawings](https://www-users.cs.umn.edu/~interran/papers/npar00.pdf)<br/>**Ahna Girshick, Victoria Interrante, Steven Haker, Todd Lemoine**<br/>_Nissan Cambridge Basic Research, University of Minnesota, Yale University, LambSoft_
