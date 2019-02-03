@@ -45,3 +45,6 @@ _</br> Regularly updated samples and documentation about Unity's experimental EC
 
 * [Pavel Dobryakov](https://github.com/PavelDoGreat)
 _</br> Really fast, mobile friendly WebGL Computational Fluid Simulator._
+
+* [Position Based Dynamics](https://github.com/InteractiveComputerGraphics/PositionBasedDynamics)<br/>
+_PositionBasedDynamics is a particle-based library for the physically-based simulation of rigid bodies, deformable solids and fluids, developed by the Interactive Computer Graphics department of Aachen University._
