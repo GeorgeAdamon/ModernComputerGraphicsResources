@@ -60,3 +60,6 @@ Weblogs & Devlogs
 
 * [Wendelin Reich-Gamasutra](http://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
 <br/>_Wendelin Reich's 3-part series about C# Memory Management for Unity Developers._
+
+* [Jos Stam](http://www.dgp.toronto.edu/~stam/)
+<br/> _The personal website of the legendary Jos Stam._
