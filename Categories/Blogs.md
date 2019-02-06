@@ -66,6 +66,9 @@ Weblogs & Devlogs
 * [Phillip Rideout - The Little Grasshopper](https://prideout.net/)
 <br/>_Advanced computer graphics tutorials/algorithms in various languages by Phillip Rideout._
 
+* [Shahriar Shahrabi](https://twitter.com/IRCSS)
+<br/> _Shahriar Shahrabi's excellent twitter feed, full of neat Unity shader tips and showcases._
+
 * [SigHack - Manohar Vanga](https://sighack.com/)
 <br/>_Explorations in Generative Art using Processing, by Manohar Vanga._
 
