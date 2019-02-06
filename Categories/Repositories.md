@@ -60,3 +60,6 @@ _A flexible and modular Node Editor Framework for creating node based displays a
 
 * [Tom Kelly](https://github.com/twak?tab=repositories)
 <br/> _3D Machine learning, data driven procedural urban modelling, a google street view scraper and more excellent research on Tom Kelly's github page._
+
+* [Evan Wallace](https://github.com/evanw?tab=repositories)
+<br/> _The founder of Figma. Among other unbelievable things, his repository hosts an interactive WebGL pathtracer and an interactive WebGL water caustics simulator._
