@@ -37,6 +37,9 @@ Academic Papers
 
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
 
+* [Unwritten Procedural Modeling with the Straight Skeleton](http://theses.gla.ac.uk/4975/)
+<br/> **Tom Kelly** <br/> _University of Glasgow_
+
 ---
 
 ### Machine Learning & Neural Networks
