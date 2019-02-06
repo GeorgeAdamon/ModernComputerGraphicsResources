@@ -57,3 +57,6 @@ _A flexible and modular Node Editor Framework for creating node based displays a
 
 * [Shane Celis](https://github.com/shanecelis?tab=repositories)
 <br/> _Shane Celis' amazing repositories, among others a realtime caustics solution for Unity!_
+
+* [Tom Kelly](https://github.com/twak?tab=repositories)
+<br/> _3D Machine learning, data driven procedural urban modelling, a google street view scraper and more excellent research on Tom Kelly's github page._
