@@ -72,6 +72,9 @@ Weblogs & Devlogs
 * [SigHack - Manohar Vanga](https://sighack.com/)
 <br/>_Explorations in Generative Art using Processing, by Manohar Vanga._
 
+* [Twak's Blog - Tom Kelly](https://www.twak.co.uk/)
+<br/> _Tom Kelly's Graphics Research Blog. Generating cities using GAN neural networks trained on Google data is just the tip of the iceberg._
+
 * [Wendelin Reich-Gamasutra](http://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
 <br/>_Wendelin Reich's 3-part series about C# Memory Management for Unity Developers._
 
