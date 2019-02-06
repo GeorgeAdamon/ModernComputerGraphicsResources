@@ -14,6 +14,9 @@ Academic Papers
 
 * [A Review of Properties And Variations of Voronoi Diagrams](https://www.whitman.edu/Documents/Academics/Mathematics/dobrinat.pdf)<br/>**Adam Dobrin**<br/>_Whitman College_
 
+* [BigSUR: Large-scale Structured Urban Reconstruction](https://drive.google.com/drive/folders/0B6r_mUgXfBLdUzdRV3hNZDBGSWc)
+<br/>**Tom Kelly,John Femiani, Peter Wonka, Niloy J. Mitra** <br/> _University College London, Miami University, KAUST, University College London_
+
 * [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)<br/>**Jeff Jones**<br/>_University of the West of England_
 
 * [Consistent Mesh Partitioning and Skeletonization using the Shape Diameter Function](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Shapira08.pdf)<br/>**Lior Shapira, Ariel Shamir, Daniel Cohen-Or**<br/>_Tel-Aviv University, The Interdisciplinary Center_
