@@ -18,6 +18,9 @@ Weblogs & Devlogs
 * [Benedikt Bitterli](https://benedikt-bitterli.me/portfolio.html)
 <br/>_Personal portfolio of Benedikt Bitterli, with in-depth explanations of his experiments in realistic path-tracing and light simulation._
 
+* [Made By Evan - Evan Wallace](http://madebyevan.com/)
+<br/>_Evan Wallace's shader wizardry from the time before he founded Figma._
+
 * [Harry Alisavakis](http://halisavakis.com/)
 <br/>_Accesible, easy-to-follow shader tutorials for Unity3d by Harry Alisavakis._
 
