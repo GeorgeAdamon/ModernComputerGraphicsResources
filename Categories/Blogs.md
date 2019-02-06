@@ -28,7 +28,7 @@ Weblogs & Devlogs
 <br/>_Advanced Computational Geometry topics, loosely related to SideFx Houdini._
 
 * [Jackson Dunstan](https://jacksondunstan.com/)
-<br/> _Extremely In-depth C# and Unity3d articles by Jackston Dunstan._
+<br/> _Extremely In-depth C# and Unity3d articles by Jackston Dunstan, including frequent de-compilations and dissections of Unity's core dlls._
 
 * [Jasper Flick - Catlike Coding](https://catlikecoding.com/)
 <br/>_Extensive step-by-step Unity3d tutorials by Jasper Flick._
