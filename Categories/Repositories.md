@@ -55,3 +55,5 @@ _Sebastian Lague's open-source C# code, accompanying his Youtube [Unity tutorial
 * [Unity Node Editor Framework](https://github.com/Seneral/Node_Editor_Framework)<br/>
 _A flexible and modular Node Editor Framework for creating node based displays and editors in Unity, developed by Levin Gaeher._
 
+* [Shane Celis](https://github.com/shanecelis?tab=repositories)
+<br/> _Shane Celis' amazing repositories, among others a realtime caustics solution for Unity!_
