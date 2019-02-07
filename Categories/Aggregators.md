@@ -7,7 +7,7 @@ Resource Aggregators
 <br/>_An excellent curated list of computer graphics tutorials and resources. Last update made in 2016._
 
 * [The Discrete Differential Geometry Forum ](http://ddg.cs.columbia.edu/)
-<br/>_The forum provides links to institutions and online resources for the nascent field of discrete differential geometry (DDG). It is hosted by the Graphics Group at Columbia University in collaboration with groups at the California Institute of Technology, the University of Göttingen, and Carnegie Mellon University._
+<br/>_Links to institutions and online resources for the nascent field of discrete differential geometry (DDG). It is hosted by the Graphics Group at Columbia University in collaboration with groups at the California Institute of Technology, the University of Göttingen, and Carnegie Mellon University._
 
 * [Jendrik Illner](https://www.jendrikillner.com/post/)
 <br/>_Graphics Programming Weekly. The latest hot developments in Computer Graphics curated by Jendrik Illner._
