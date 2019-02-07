@@ -21,6 +21,9 @@ Weblogs & Devlogs
 * [Made By Evan - Evan Wallace](http://madebyevan.com/)
 <br/>_Evan Wallace's shader wizardry from the time before he founded Figma._
 
+* [Generative Landscapes](https://generativelandscapes.wordpress.com/)
+<br/>_Extensive list of Grasshopper experiments in the field of Computational Landscape Design, ranging from beginner-friendly to high-end._
+
 * [Harry Alisavakis](http://halisavakis.com/)
 <br/>_Accesible, easy-to-follow shader tutorials for Unity3d by Harry Alisavakis._
 
