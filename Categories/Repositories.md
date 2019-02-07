@@ -33,6 +33,9 @@ _</br> Unity3d gems by Lotte Makes Stuff._
 * [Masatatsu Nakamura](https://github.com/mattatz)
 <br/> _Excellent C# Unity tools, related to volumetric rendering, voxelization and procedural growth._
 
+* [Nakata Nobuyuki](https://github.com/nobnak)
+_<br/> High quality GPU shaders and academic paper implementations from Nakata Nobuyuki, member of TeamLab in Tokyo._
+
 * [Noise Crime](https://github.com/noisecrime)
 _</br> Useful creative coding tools and forks from other repositories, mostly implemented in Unity3d._
 
