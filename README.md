@@ -16,7 +16,7 @@ _Published books and research papers._
 * [Academic Papers](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md)
 * [Open Documents](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Open%20Documents.md)
 * [Books](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Books.md)
-
+* [Conference Proceedings](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Proceedings.md)
 ### [Repositories](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Repositories.md)
 _Individuals and teams who openly share their code._
 </br>
