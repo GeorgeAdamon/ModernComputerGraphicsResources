@@ -39,6 +39,9 @@ _<br/> High quality GPU shaders and academic paper implementations from Nakata N
 * [Noise Crime](https://github.com/noisecrime)
 _</br> Useful creative coding tools and forks from other repositories, mostly implemented in Unity3d._
 
+* [OpenCV Sharp](https://github.com/shimat/opencvsharp)
+_<br/>C# implementation of the OpenCV library, hosted by Shima._
+
 * [Pavel Dobryakov](https://github.com/PavelDoGreat)
 _</br> Really fast, mobile friendly WebGL Computational Fluid Simulator._
 
