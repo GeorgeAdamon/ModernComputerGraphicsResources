@@ -62,6 +62,8 @@ Academic Papers
 
 * [Position-Based Elastic Rods](https://docs.wixstatic.com/ugd/cf1fd6_d128ff89014f4bdebfeb967b88079daf.pdf)<br/>**Jos Stam**<br/>_Autodesk Research_
 
+* [Real Time Dynamic Fracture with Volumetric Approximate Convex Decompositions](http://matthias-mueller-fischer.ch/publications/fractureSG2013.pdf)<br/>**Matthias Muller, Nuttapong Chentanez, Tae-Yong Kim**<br/>_NVIDIA_
+
 * [Real-Time Fluid Dynamics for Games](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf)<br/>**Jos Stam**<br/> _alias|wavefront_
 
 ---
