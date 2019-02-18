@@ -29,6 +29,8 @@ Academic Papers
 
 * [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
 
+* [From Nature to Fabrication: Biomimetic Design Principles for the Production of Complex Spatial Structures](https://www.researchgate.net/publication/264709118_From_Nature_to_Fabrication_Biomimetic_Design_Principles_for_the_Production_of_Complex_Spatial_Structures/download)<br/>**Riccardo La Magna, Markus Gabler, Steffen Reichert, Tobias Schwinn, Frédéric Waimer, Achim Menges, Jan Knippers**<br/>_ITKE – University of Stuttgart, ICD – University of Stuttgart_
+
 * [Geometry-Aware Direction Field Processing](http://alice.loria.fr/publications/papers/2009/tog_DFD/DFD.pdf)<br/>**Nicolas Ray, Bruno Vallet, Laurent Alonso, Bruno Levy**<br/>_INRIA Institute, France_
 
 * [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**<br/>_TU Berlin, Caltech_
