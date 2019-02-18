@@ -42,6 +42,8 @@ Academic Papers
 * [Unwritten Procedural Modeling with the Straight Skeleton](http://theses.gla.ac.uk/4975/)
 <br/> **Tom Kelly** <br/> _University of Glasgow_
 
+* [Variational Tangent Plane Intersectionfor Planar Polygonal Meshing](https://www.graphics.rwth-aachen.de/media/papers/zimmer_aag12_preprint_annotated.pdf)<br/>**Henrik Zimmer, Marcel Campen, Ralf Herkrath, Leif Kobbelt**<br/>_RWTH Aachen University_
+
 ---
 
 ### Machine Learning & Neural Networks
