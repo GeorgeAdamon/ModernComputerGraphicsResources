@@ -18,7 +18,7 @@ Weblogs & Devlogs
 * [Benedikt Bitterli](https://benedikt-bitterli.me/portfolio.html)
 <br/>_Personal portfolio of Benedikt Bitterli, with in-depth explanations of his experiments in realistic path-tracing and light simulation._
 
-* [Made By Evan - Evan Wallace](http://madebyevan.com/)
+* [Evan Wallace - Made By Evan](http://madebyevan.com/)
 <br/>_Evan Wallace's shader wizardry from the time before he founded Figma._
 
 * [Generative Landscapes](https://generativelandscapes.wordpress.com/)
@@ -32,6 +32,9 @@ Weblogs & Devlogs
 
 * [Houdini Gubbins](https://houdinigubbins.wordpress.com/)
 <br/>_Advanced Computational Geometry topics, loosely related to SideFx Houdini._
+
+* [Inigo Quilez](https://www.iquilezles.org/)
+<br/>_The website of the amazing Inigo Quilez. A treasure rove of advanced shaders, SDF functions and tutorials._
 
 * [Jackson Dunstan](https://jacksondunstan.com/)
 <br/> _Extremely In-depth C# and Unity3d articles by Jackston Dunstan, including frequent de-compilations and dissections of Unity's core dlls, as well as an extensive guide for integrating C++ code into Unity projects._
