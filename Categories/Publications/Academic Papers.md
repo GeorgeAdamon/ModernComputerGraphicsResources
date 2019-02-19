@@ -17,7 +17,7 @@ Academic Papers
 * [BigSUR: Large-scale Structured Urban Reconstruction](https://drive.google.com/drive/folders/0B6r_mUgXfBLdUzdRV3hNZDBGSWc)
 <br/>**Tom Kelly,John Femiani, Peter Wonka, Niloy J. Mitra** <br/> _University College London, Miami University, KAUST, University College London_
 
-* [Case Studies in Cost-Optimized Paneling ofArchitectural Freeform Surfaces](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/paneling_aag/paper_docs/paneling_aag10.pdf)<br/>**Michael Eigensatz, Mario Deuss, Alex Schiftner, Martin Kilian, Niloy J. Mitra, Helmut Pottmann, Mark Pauly**<br/>_ETH Zurich, EPFL, TU Wien, KAUST, Evolute_
+* [Case Studies in Cost-Optimized Paneling of Architectural Freeform Surfaces](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/paneling_aag/paper_docs/paneling_aag10.pdf)<br/>**Michael Eigensatz, Mario Deuss, Alex Schiftner, Martin Kilian, Niloy J. Mitra, Helmut Pottmann, Mark Pauly**<br/>_ETH Zurich, EPFL, TU Wien, KAUST, Evolute_
 
 * [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)<br/>**Jeff Jones**<br/>_University of the West of England_
 
