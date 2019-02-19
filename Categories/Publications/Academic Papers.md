@@ -64,6 +64,10 @@ Academic Papers
 
 * [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
 
+* [Generating Surface Crack Patterns](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2007/EECS-2007-142.pdf)<br/>**Hayley Nicole Iben**<br/>_University of California at Berkeley_
+
+* [Physically-based and Real-time Simulation of Brittle Fracture for Interactive Applications](https://tel.archives-ouvertes.fr/tel-00752388/file/report.pdf)<br/>**Loeïz Glondu**<br/>_École normale supérieure de Cachan - ENS Cachan_
+
 * [Position Based Dynamics](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)<br/>**Matthias Müller, Bruno Heidelberger, Marcus Hennix, John Ratcliff**<br/>_AGEIA_
 
 * [Position-Based Elastic Rods](https://docs.wixstatic.com/ugd/cf1fd6_d128ff89014f4bdebfeb967b88079daf.pdf)<br/>**Jos Stam**<br/>_Autodesk Research_
