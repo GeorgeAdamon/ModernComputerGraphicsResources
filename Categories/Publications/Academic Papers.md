@@ -51,11 +51,19 @@ Academic Papers
 ---
 
 ### Machine Learning & Neural Networks
+* [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)<br/>**Leon A. Gatys,Alexander S. Ecker, Matthias Bethge**<br/>
+_Werner Reichardt Centre for Integrative Neuroscience and Institute of Theoretical Physics, University of Tubingen, Germany<br/>
+Bernstein Center for Computational Neuroscience, Tubingen, Germany<br/>
+Graduate School for Neural Information Processing, Tubingen, Germany<br/>
+Max Planck Institute for Biological Cybernetics, Tubingen, Germany<br/>
+Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
+
 * [Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks](https://arxiv.org/pdf/1602.03616.pdf)<br/>**Ahn Nguyen, Jason Yosinski, Jeff Clune**<br/>_University of Wyoming, Cornell University_
 
 * [Phase-Functioned Neural Networks for Character Control](http://theorangeduck.com/media/uploads/other_stuff/phasefunction.pdf)<br/>**Daniel Holden, Taku Komura, Jun Saito**<br/>_University of Edinburgh.<br/>Method Studios._
 
 * [Unshackling Evolution: Evolving Soft Robots with Multiple Materials and a Powerful Generative Encoding](http://jeffclune.com/publications/2013_Softbots_GECCO.pdf)<br/>**Nick Cheney, Robert MacCurdy, Jeff Clune, Hod Lipson.**<br/>_Creative Machines Lab, Cornell University.<br/>Evolving AI Lab, University of Wyoming._
+
 
 ---
 
