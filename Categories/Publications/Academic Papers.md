@@ -70,6 +70,8 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 ---
 
 ### Physics & Material Simulation
+* [Deep Fluids: A Generative Network for Parameterized Fluid Simulations](https://cgl.ethz.ch/publications/papers/paperKim19a.php)<br/>**B. Kim, V. C. Azevedo, N. Thuerey, T. Kim, M. Gross, B. Solenthaler**<br/>_ETH Zurich, Technical University of Munich, Pixar Animation Studios_
+
 * [Dynamic Simulation of Soft Heterogeneous Objects](https://arxiv.org/pdf/1212.2845v1.pdf)<br/>**Jonathan Hiller, Hod Lipson**<br/>_Sibley School of Mechanical and Aerospace Engineering, Cornell University_
 
 * [Embedded Rationality: A Unified Simulation Framework for Interactive Form Finding](https://d2f99xq7vri1nk.cloudfront.net/legacy_app_files/pdf/complexconstraint_Published_Version.pdf)<br/>**Ramtin Attar, Robert Aish, Jos Stam, Duncan Brinsmead,Alex Tessier, Michael Glueck and Azam Khan**
