@@ -3,6 +3,9 @@ Resource Aggregators
 * [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
 <br/>_"Helping you avoid re-inventing the wheel since 2009!". Huge list of open software, papers and other resources, for everything related to computer graphics, curated by people from University of Toronto's Dynamic Graphics Project. Last updated on December 2012._
 
+* [dblp](https://dblp.org/)
+<br/>_Open bibliographic information on major computer science journals and proceedings. As of February 2019, it contains more than 4.500.000 publications. dblp is maintained by Schloss Dagstuhl and has been originally founded at the University of Trier in 1993_
+
 * [Eric Jang's Computer Graphic Resources](github.com/ericjang/awesome-graphics)
 <br/>_An excellent curated list of computer graphics tutorials and resources. Last update made in 2016._
 
