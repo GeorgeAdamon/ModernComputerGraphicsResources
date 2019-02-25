@@ -7,7 +7,10 @@ _</br> Interesting shaders for Unity3d by Andy Duboc._
 _</br> Open-source, Python-based framework for computational research and collaboration in architecture, engineering and digital fabrication._
 
 * [David Eberly - Geometric Tools](https://www.geometrictools.com/index.html)
-_</br> The official site for the Geometric Tools Engine, a library of source code for computing in the fields of mathematics, graphics, image analysis and physics. Alongside the source code, lots of great resources about computational geometry._
+</br>_The official site for the Geometric Tools Engine, a library of source code for computing in the fields of mathematics, graphics, image analysis and physics. Alongside the source code, lots of great resources about computational geometry._
+
+* [Denis Rizov](https://github.com/dbrizov)
+<br/>_One of the best Unity/C# repositories, including an enormous list of Editor Attribute Extensions and a buyoancy simulator._
 
 * [Eric Jang](https://github.com/ericjang)
 _</br> Research Engineer at GoogleBrain. Dozens of deep learning repositories._
