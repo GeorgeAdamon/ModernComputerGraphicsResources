@@ -18,6 +18,9 @@ Weblogs & Devlogs
 * [Benedikt Bitterli](https://benedikt-bitterli.me/portfolio.html)
 <br/>_Personal portfolio of Benedikt Bitterli, with in-depth explanations of his experiments in realistic path-tracing and light simulation._
 
+* [Denis Rizov](https://denisrizov.com/)
+<br/>_Programming Tutorials with emphasis on game development, including C#, C++, Unity and Unreal engine. Also an excellent guide for integrating external C++ libraries in C# / Unity._
+
 * [Evan Wallace - Made By Evan](http://madebyevan.com/)
 <br/>_Evan Wallace's shader wizardry from the time before he founded Figma._
 
