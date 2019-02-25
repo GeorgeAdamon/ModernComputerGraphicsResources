@@ -91,34 +91,57 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 ---
 
 ### Computational Imaging
-* [A few good samples: Shape & tone depiction for Hermite RBF implicits](https://www.researchgate.net/publication/221523260_A_few_good_samples_Shape_tone_depiction_for_Hermite_RBF_implicits/download)<br/>**Emilio Vital Brazil, Ives Macedo, Mario Costa Sousa, Luiz Velho, Luiz Henrique de Figueiredo**<br/>_University of Calgary, Canada , IMPA – Instituto Nacional de Matematica Pura e Aplicada, Brazil_
+* [A few good samples: Shape & tone depiction for Hermite RBF implicits](https://www.researchgate.net/publication/221523260_A_few_good_samples_Shape_tone_depiction_for_Hermite_RBF_implicits/download)
+<br/>**Emilio Vital Brazil, Ives Macedo, Mario Costa Sousa, Luiz Velho, Luiz Henrique de Figueiredo**
+<br/>_University of Calgary, Canada , IMPA – Instituto Nacional de Matematica Pura e Aplicada, Brazil_
 
-* [A GPU-based Method for Real-time Simulation of Eastern Painting](https://www.comp.nus.edu.sg/~huangzy/review/research/others/graphite07_lu.pdf)<br/>**The Kiet Lu, Zhiyong Huang**<br/>_School of Computing,National University of Singapore, Institute for Infocomm Research (I2R), A*STAR, Singapore_
+* [A GPU-based Method for Real-time Simulation of Eastern Painting](https://www.comp.nus.edu.sg/~huangzy/review/research/others/graphite07_lu.pdf)
+<br/>**The Kiet Lu, Zhiyong Huang**
+<br/>_School of Computing,National University of Singapore, Institute for Infocomm Research (I2R), A*STAR, Singapore_
 
-* [Apparent Ridges for Line Drawing](http://persci.mit.edu/pub_pdfs/ApparentLines.pdf)**Tilke Judd, Fredo Durand, Edward Adelson**<br/>
-_MIT CSAIL, MIT Dept. of Brain and Cognitive Sciences_
+* [Apparent Ridges for Line Drawing](http://persci.mit.edu/pub_pdfs/ApparentLines.pdf)
+<br/>**Tilke Judd, Fredo Durand, Edward Adelson**
+<br/>_MIT CSAIL, MIT Dept. of Brain and Cognitive Sciences_
 
-* [Coherent Line Drawing](http://umsl.edu/mathcs/about/People/Faculty/HenryKang/coon.pdf)<br/>**Henry Kang, Seungyong Lee, Charles K. Chui**<br/>_University of Missouri, POSTECH_ <br/>[ >> _Open-source C++ Implementation_ <<](https://github.com/SSARCandy/Coherent-Line-Drawing)
+* [Coherent Line Drawing](http://umsl.edu/mathcs/about/People/Faculty/HenryKang/coon.pdf)
+<br/>**Henry Kang, Seungyong Lee, Charles K. Chui**
+<br/>_University of Missouri, POSTECH_ <br/>[ >> _Open-source C++ Implementation_ <<](https://github.com/SSARCandy/Coherent-Line-Drawing)
 
 * [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
 
-* [Illustrating Smooth Surfaces](https://mrl.nyu.edu/publications/illustrating-smooth/hertzmann-zorin.pdf)<br/>**Aaron Hertzmann, Denis Zorin**<br/>_New York University_
+* [Illustrating Smooth Surfaces](https://mrl.nyu.edu/publications/illustrating-smooth/hertzmann-zorin.pdf)
+<br/>**Aaron Hertzmann, Denis Zorin**
+<br/>_New York University_
 
-* [Image Stylization using Anisotropic Reaction Diffusion](https://sci-hub.tw/10.1007/s00371-015-1139-2)<br/>**Ming-Te Chi, Wei-Ching Liu, Shu-Hsuan Hsu**<br/> _Department of Computer Science, National Chengchi University_ <br/>[>> _Ope-Source C++ Implementation <<](https://github.com/cglabnccu/stylizationRD)
+* [Image Stylization using Anisotropic Reaction Diffusion](https://sci-hub.tw/10.1007/s00371-015-1139-2)
+<br/>**Ming-Te Chi, Wei-Ching Liu, Shu-Hsuan Hsu**
+<br/> _Department of Computer Science, National Chengchi University_ <br/>[>>_Open-Source C++ Implementation_<<](https://github.com/cglabnccu/stylizationRD)
 
-* [Image and Video Abstraction by Coherence-Enhancing Filtering](http://www.kyprianidis.com/p/eg2011/jkyprian-eg2011.pdf)<br/>**Jan Eric Kyprianidis, Henry Kang**<br/>_Hasso-Plattner-Institut,Germany, University of Missouri, St. Louis, USA_
+* [Image and Video Abstraction by Coherence-Enhancing Filtering](http://www.kyprianidis.com/p/eg2011/jkyprian-eg2011.pdf)<br/>**Jan Eric Kyprianidis, Henry Kang**
+<br/>_Hasso-Plattner-Institut,Germany, University of Missouri, St. Louis, USA_
 
-* [Line Direction Matters: An Argument For The Use Of Principal Directions In 3D Line Drawings](https://www-users.cs.umn.edu/~interran/papers/npar00.pdf)<br/>**Ahna Girshick, Victoria Interrante, Steven Haker, Todd Lemoine**<br/>_Nissan Cambridge Basic Research, University of Minnesota, Yale University, LambSoft_
+* [Line Direction Matters: An Argument For The Use Of Principal Directions In 3D Line Drawings](https://www-users.cs.umn.edu/~interran/papers/npar00.pdf)
+<br/>**Ahna Girshick, Victoria Interrante, Steven Haker, Todd Lemoine**
+<br/>_Nissan Cambridge Basic Research, University of Minnesota, Yale University, LambSoft_
 
-* [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**<br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
+* [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**
+<br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
 
-* [Real-Time Volumetric Shadows Using 1D Min-Max MipMaps](http://groups.csail.mit.edu/graphics/mmvs/mmvs.pdf)<br/>**Jiawen Chen,Ilya Baran, Fredo Durand, Wojciech Jarosz**<br/>_MIT CSAIL, Disney Research Zurich_
+* [Real-Time Volumetric Shadows Using 1D Min-Max MipMaps](http://groups.csail.mit.edu/graphics/mmvs/mmvs.pdf)
+<br/>**Jiawen Chen,Ilya Baran, Fredo Durand, Wojciech Jarosz**
+<br/>_MIT CSAIL, Disney Research Zurich_
 
-* [Rendering Large Point Clouds in Unity](https://www.cg.tuwien.ac.at/research/publications/2017/FRAISS-2017-PCU/FRAISS-2017-PCU-thesis.pdf)<br/>**Simon Maximilian Fraiss**<br/>_TU Vienna_
+* [Rendering Large Point Clouds in Unity](https://www.cg.tuwien.ac.at/research/publications/2017/FRAISS-2017-PCU/FRAISS-2017-PCU-thesis.pdf)
+<br/>**Simon Maximilian Fraiss**
+<br/>_TU Vienna_
 
-* [Rendering Parametric Surfaces in Pen and Ink](http://www.cs.otago.ac.nz/cosc455/p469-winkenbach.pdf)<br/>**Georges Winkenbach, David H. Salesin**<br/>_Department of Computer Science and Engineering, University of Washington_
+* [Rendering Parametric Surfaces in Pen and Ink](http://www.cs.otago.ac.nz/cosc455/p469-winkenbach.pdf)
+<br/>**Georges Winkenbach, David H. Salesin**
+<br/>_Department of Computer Science and Engineering, University of Washington_
 
-* [Using a Floating Origin to Improve Fidelity and Performance of Large, Distributed Virtual Worlds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.7201&rep=rep1&type=pdf)<br/>**Chris Thorne**<br/>_School of Computer Science and Software Engineering, The University of Western Australia_<br/>[_>> Unity Implementation <<_](http://wiki.unity3d.com/index.php?title=Floating_Origin)
+* [Using a Floating Origin to Improve Fidelity and Performance of Large, Distributed Virtual Worlds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.7201&rep=rep1&type=pdf)
+<br/>**Chris Thorne**
+<br/>_School of Computer Science and Software Engineering, The University of Western Australia_<br/>[_>> Unity Implementation <<_](http://wiki.unity3d.com/index.php?title=Floating_Origin)
 
 ---
 
