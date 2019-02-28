@@ -78,6 +78,9 @@ Weblogs & Devlogs
 * [Phillip Rideout - The Little Grasshopper](https://prideout.net/)
 <br/>_Advanced computer graphics tutorials/algorithms in various languages by Phillip Rideout._
 
+* [Red Blob Games - Amit Patel](https://www.redblobgames.com/)
+<br/> _Incredibly detailed tutorials and source code, on various topics of game theory, such as pathfinding, tilemaps, triangulations etc._
+
 * [Shahriar Shahrabi](https://twitter.com/IRCSS)
 <br/> _Shahriar Shahrabi's excellent twitter feed, full of neat Unity shader tips and showcases._
 
