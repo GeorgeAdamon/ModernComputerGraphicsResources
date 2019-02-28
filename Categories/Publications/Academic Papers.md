@@ -10,47 +10,80 @@ Academic Papers
 ---
 
 ### Computational Geometry
-* [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)<br/>**Wenping Wang, Yang Liu**<br/>_University of Hong Kong, Microsoft Research Asia_
+* [Introduction to Alpha Shapes](https://graphics.stanford.edu/courses/cs268-11-spring/handouts/AlphaShapes/as_fisher.pdf)
+<br/> **KasparFischer**
+<br/> _ETH Zurich_
 
-* [A Review of Properties And Variations of Voronoi Diagrams](https://www.whitman.edu/Documents/Academics/Mathematics/dobrinat.pdf)<br/>**Adam Dobrin**<br/>_Whitman College_
+* [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)
+<br/>**Wenping Wang, Yang Liu**
+<br/>_University of Hong Kong, Microsoft Research Asia_
+
+* [A Review of Properties And Variations of Voronoi Diagrams](https://www.whitman.edu/Documents/Academics/Mathematics/dobrinat.pdf)<br/>**Adam Dobrin**
+<br/>_Whitman College_
 
 * [BigSUR: Large-scale Structured Urban Reconstruction](https://drive.google.com/drive/folders/0B6r_mUgXfBLdUzdRV3hNZDBGSWc)
-<br/>**Tom Kelly,John Femiani, Peter Wonka, Niloy J. Mitra** <br/> _University College London, Miami University, KAUST, University College London_
+<br/>**Tom Kelly,John Femiani, Peter Wonka, Niloy J. Mitra** 
+<br/> _University College London, Miami University, KAUST, University College London_
 
-* [Case Studies in Cost-Optimized Paneling of Architectural Freeform Surfaces](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/paneling_aag/paper_docs/paneling_aag10.pdf)<br/>**Michael Eigensatz, Mario Deuss, Alex Schiftner, Martin Kilian, Niloy J. Mitra, Helmut Pottmann, Mark Pauly**<br/>_ETH Zurich, EPFL, TU Wien, KAUST, Evolute_
+* [Case Studies in Cost-Optimized Paneling of Architectural Freeform Surfaces](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/paneling_aag/paper_docs/paneling_aag10.pdf)
+<br/>**Michael Eigensatz, Mario Deuss, Alex Schiftner, Martin Kilian, Niloy J. Mitra, Helmut Pottmann, Mark Pauly**
+<br/>_ETH Zurich, EPFL, TU Wien, KAUST, Evolute_
 
-* [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)<br/>**Jeff Jones**<br/>_University of the West of England_
+* [Characteristics of Pattern Formation and Evolution in Approximations of _Physarum_ Transport Networks](http://eprints.uwe.ac.uk/15260/1/artl.2010.16.2.pdf)
+<br/>**Jeff Jones**
+<br/>_University of the West of England_
 
-* [Consistent Mesh Partitioning and Skeletonization using the Shape Diameter Function](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Shapira08.pdf)<br/>**Lior Shapira, Ariel Shamir, Daniel Cohen-Or**<br/>_Tel-Aviv University, The Interdisciplinary Center_
+* [Consistent Mesh Partitioning and Skeletonization using the Shape Diameter Function](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Shapira08.pdf)
+<br/>**Lior Shapira, Ariel Shamir, Daniel Cohen-Or**
+<br/>_Tel-Aviv University, The Interdisciplinary Center_
 
-* [Curl Noise for Procedural Fluid Flow](https://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph2007-curlnoise.pdf)<br/>**Robert Bridson, Jim Hourihan, Marcus Nordenstam**<br/>_University of British Columbia,Tweak Films, Double Negative_
+* [Curl Noise for Procedural Fluid Flow](https://www.cs.ubc.ca/~rbridson/docs/bridson-siggraph2007-curlnoise.pdf)
+<br/>**Robert Bridson, Jim Hourihan, Marcus Nordenstam**
+<br/>_University of British Columbia,Tweak Films, Double Negative_
 
-* [Digital Morphologies: Environmentally-Influenced Generative Forms](https://drive.google.com/file/d/0B_4X5OQcV3d8Y3JYWFBpU1ZWbHM/view)<br/>**Sage Jenson**<br/>_Oberlin College and Conservatory_
+* [Digital Morphologies: Environmentally-Influenced Generative Forms](https://drive.google.com/file/d/0B_4X5OQcV3d8Y3JYWFBpU1ZWbHM/view)<br/>**Sage Jenson**
+<br/>_Oberlin College and Conservatory_
 
-* [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**<br/>_TU Vienna, Technion–Israel Institute of Technology_
+* [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**
+<br/>_TU Vienna, Technion–Israel Institute of Technology_
 
-* [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)<br/>**Robert Bridson.**<br/>_University of British Columbia._
+* [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)
+<br/>**Robert Bridson.**
+<br/>_University of British Columbia._
 
-* [From Nature to Fabrication: Biomimetic Design Principles for the Production of Complex Spatial Structures](https://www.researchgate.net/publication/264709118_From_Nature_to_Fabrication_Biomimetic_Design_Principles_for_the_Production_of_Complex_Spatial_Structures/download)<br/>**Riccardo La Magna, Markus Gabler, Steffen Reichert, Tobias Schwinn, Frédéric Waimer, Achim Menges, Jan Knippers**<br/>_ITKE – University of Stuttgart, ICD – University of Stuttgart_
+* [From Nature to Fabrication: Biomimetic Design Principles for the Production of Complex Spatial Structures](https://www.researchgate.net/publication/264709118_From_Nature_to_Fabrication_Biomimetic_Design_Principles_for_the_Production_of_Complex_Spatial_Structures/download)<br/>**Riccardo La Magna, Markus Gabler, Steffen Reichert, Tobias Schwinn, Frédéric Waimer, Achim Menges, Jan Knippers**
+<br/>_ITKE – University of Stuttgart, ICD – University of Stuttgart_
 
 * [From Spiral to Spline: Optimal Techniques in Interactive Curve Design](https://levien.com/phd/thesis.pdf)
 <br/>**Raphael Linus Levien**
 <br/>_University of California, Berkeley_
 
-* [Geometry-Aware Direction Field Processing](http://alice.loria.fr/publications/papers/2009/tog_DFD/DFD.pdf)<br/>**Nicolas Ray, Bruno Vallet, Laurent Alonso, Bruno Levy**<br/>_INRIA Institute, France_
+* [Geometry-Aware Direction Field Processing](http://alice.loria.fr/publications/papers/2009/tog_DFD/DFD.pdf)
+<br/>**Nicolas Ray, Bruno Vallet, Laurent Alonso, Bruno Levy**
+<br/>_INRIA Institute, France_
 
-* [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**<br/>_TU Berlin, Caltech_
+* [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)
+<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**
+<br/>_TU Berlin, Caltech_
 
-* [Hexagonal Global Parameterization of Arbitrary Surfaces](https://web.engr.oregonstate.edu/~zhange/images/HexParam.pdf)<br/>**Matthias Nieser, Jonathan Palacios, Konrad Polthier, Eugene Zhang**
+* [Hexagonal Global Parameterization of Arbitrary Surfaces](https://web.engr.oregonstate.edu/~zhange/images/HexParam.pdf)
+<br/>**Matthias Nieser, Jonathan Palacios, Konrad Polthier, Eugene Zhang**
 
-* [Mesh Segmentation using Feature Point and Core Extraction](http://webee.technion.ac.il/~ayellet/Ps/KatzLeifmanTal.pdf)<br/>**Sagi Katz, George Leifman, Ayellet Tal**<br/>_Technion-Israel Institute of Technology, Department of Electrical Engineering_
+* [Mesh Segmentation using Feature Point and Core Extraction](http://webee.technion.ac.il/~ayellet/Ps/KatzLeifmanTal.pdf)
+<br/>**Sagi Katz, George Leifman, Ayellet Tal**
+<br/>_Technion-Israel Institute of Technology, Department of Electrical Engineering_
 
-* [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)<br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**<br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
+* [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)
+<br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**
+<br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
 
 * [Unwritten Procedural Modeling with the Straight Skeleton](http://theses.gla.ac.uk/4975/)
-<br/> **Tom Kelly** <br/> _University of Glasgow_
+<br/> **Tom Kelly** 
+<br/> _University of Glasgow_
 
-* [Variational Tangent Plane Intersection for Planar Polygonal Meshing](https://www.graphics.rwth-aachen.de/media/papers/zimmer_aag12_preprint_annotated.pdf)<br/>**Henrik Zimmer, Marcel Campen, Ralf Herkrath, Leif Kobbelt**<br/>_RWTH Aachen University_
+* [Variational Tangent Plane Intersection for Planar Polygonal Meshing](https://www.graphics.rwth-aachen.de/media/papers/zimmer_aag12_preprint_annotated.pdf)
+<br/>**Henrik Zimmer, Marcel Campen, Ralf Herkrath, Leif Kobbelt**
+<br/>_RWTH Aachen University_
 
 ---
 
