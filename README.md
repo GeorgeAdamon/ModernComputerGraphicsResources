@@ -11,6 +11,9 @@ _People who collect and curate content and resources, similarly to what's happen
 ### [Weblogs & Devlogs](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Blogs.md)
 _People who write about their craft & their ideas and share their knowledge & experience with the world._
 </br>
+
+### [Organizations]
+
 ### [Publications](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications)
 _Published books and research papers._
 * [Academic Papers](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md)
