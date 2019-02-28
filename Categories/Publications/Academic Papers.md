@@ -11,7 +11,7 @@ Academic Papers
 
 ### Computational Geometry
 * [Introduction to Alpha Shapes](https://graphics.stanford.edu/courses/cs268-11-spring/handouts/AlphaShapes/as_fisher.pdf)
-<br/> **KasparFischer**
+<br/> **Kaspar Fischer**
 <br/> _ETH Zurich_
 
 * [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)
