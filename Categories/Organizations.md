@@ -12,6 +12,9 @@ _Research at the EPFL Computer Graphics and Geometry Laboratory focuses on effic
 ## [ETH - Computer Graphics Laboratory](https://graphics.ethz.ch/research/)
 _The Computer Graphics Laboratory (cgl) was founded in 1994 by Prof. Markus Gross. Its research is devoted to the design of fundamental methods, algorithms and systems for computer graphics, geometric modeling, physics-based animation, image acquisition and generation, display, scientific visualization, and multimodal learning._
 
+## [ETH - Interactive Graphics Lab](http://igl.ethz.ch/)
+_The Interactive Geometry Lab is a research group within the Institute of Visual Computing of ETH Zurich, led by Prof. Olga Sorkine-Hornung. We do research in Computer Graphics, focusing on interactive shape modeling, geometry processing, digital fabrication, as well as image and video processing._
+
 ## [Stanford Computational Vision & Geometry Lab- CVGL](http://cvgl.stanford.edu/publications.html)
 _The Computational Vision and Geometry Lab (CVGL) at Stanford is directed by Prof. Silvio Savarese. Its research addresses the theoretical foundations and practical applications of computational vision. Its interest lies in discovering and proposing the fundamental principles, algorithms and implementations for solving high level visual recognition and reconstruction problems such as object and scene understanding as well as human behavior recognition in the complex 3D world.
 
