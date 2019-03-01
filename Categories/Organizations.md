@@ -7,6 +7,8 @@ _The Carnegie Mellon Graphics Lab conducts cutting-edge research on computer gra
 _Research at the EPFL Computer Graphics and Geometry Laboratory focuses on efficient representations, scalable data structures, and robust algorithms for digital 3D models. 
 <br/>Our goal is to understand fundamental principles of geometric computing and leverage these insights to develop new algorithms and tools for 3D shape analysis, simulation, design, and fabrication. Our research explores the interface of several scientific disciplines, such as mathematics, computer science, materials science, and architecture to facilitate innovative computational design solutions for advanced manufacturing and construction._
 
+## [EPFL - Realistic Graphics Lab](http://rgl.epfl.ch/publications)
+
 ## [ETH - Computer Graphics Laboratory](https://graphics.ethz.ch/research/)
 _The Computer Graphics Laboratory (cgl) was founded in 1994 by Prof. Markus Gross. Its research is devoted to the design of fundamental methods, algorithms and systems for computer graphics, geometric modeling, physics-based animation, image acquisition and generation, display, scientific visualization, and multimodal learning._
 
