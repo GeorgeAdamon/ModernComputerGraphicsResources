@@ -165,6 +165,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Ahna Girshick, Victoria Interrante, Steven Haker, Todd Lemoine**
 <br/>_Nissan Cambridge Basic Research, University of Minnesota, Yale University, LambSoft_
 
+* [Path Tracing in Production - SIGGRAPH 2018 Course](https://jo.dreggn.org/path-tracing-in-production/2018/course-notes.pdf)
+<br/>**Luca Fascione, Johannes Hanika, Rob Pieké, Ryusuke Villemin, Christophe Hery, Manuel Gamito, Luke Emrose, André Mazzone**
+<br/>_Weta Digital, MPC, Pixar Animation Studios, Framestore, Animal Logic, Industrial Light & Magic_
+
 * [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**
 <br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
 
