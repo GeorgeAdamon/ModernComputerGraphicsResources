@@ -39,6 +39,9 @@ Weblogs & Devlogs
 * [Inigo Quilez](https://www.iquilezles.org/)
 <br/>_The website of the amazing Inigo Quilez. A treasure rove of advanced shaders, SDF functions and tutorials._
 
+* [Interplay of Light - Kostas Anagnostou](https://interplayoflight.wordpress.com/)
+<br/>_Scratchpad of graphics programmer Kostas Anagnostou, covering in great depth topics such as real-time GPU raytacing, real-time volumetric fog and shadows, signed distance fields etc._
+
 * [Jackson Dunstan](https://jacksondunstan.com/)
 <br/> _Extremely In-depth C# and Unity3d articles by Jackston Dunstan, including frequent de-compilations and dissections of Unity's core dlls, as well as an extensive guide for integrating C++ code into Unity projects._
 
