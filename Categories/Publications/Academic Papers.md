@@ -188,6 +188,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Chris Thorne**
 <br/>_School of Computer Science and Software Engineering, The University of Western Australia_<br/>[_>> Unity Implementation <<_](http://wiki.unity3d.com/index.php?title=Floating_Origin)
 
+* [Volumetric fog: Unified, compute shader based solution to atmospheric scattering](https://bartwronski.files.wordpress.com/2014/08/bwronski_volumetric_fog_siggraph2014.pdf)
+<br/>**Bartłomiej Wroński**
+<br/>_Ubisoft Montreal_
+
 ---
 
 
