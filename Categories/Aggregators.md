@@ -1,5 +1,8 @@
 Resource Aggregators
 ======
+* [Advances in Real-time Rendering (SIGGRAPH) 2009-Ongoing](http://advances.realtimerendering.com/)
+<br/>_Papers,videos and course material from the famous annual SIGGRAPH course, covering state-of-the-art techniques from the game development community, as well as innovating graphics methods and forward-looking research with the emphasis on practical implementations._
+
 * [Computer Graphics Research Software](http://www.dgp.toronto.edu/~rms/links.html)
 <br/>_"Helping you avoid re-inventing the wheel since 2009!". Huge list of open software, papers and other resources, for everything related to computer graphics, curated by people from University of Toronto's Dynamic Graphics Project. Last updated on December 2012._
 
