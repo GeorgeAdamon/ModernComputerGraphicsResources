@@ -22,7 +22,7 @@ Resource Aggregators
 <br/>_An enormous list of free books related to real-time computer graphics._
 
 * [Self Shadow](https://blog.selfshadow.com/)
-<br/> _Excellent links to SIGGRAPH videos, presentations, papers and code, since 2011._ 
+<br/> _Excellent links to SIGGRAPH videos, presentations, papers and course material (!), since 2011._ 
 
 * [Unity List](https://unitylist.com/)
 <br/>_Probably the best Unity3D open source search engine._
