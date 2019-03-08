@@ -15,6 +15,9 @@ Weblogs & Devlogs
 * [Aras Pranckevičius](https://aras-p.info/)
 <br/>_Excellent blog by Unity's Aras Pranckevičius. Among others, he builds a pathtracer from scratch for the CPU, the GPU, Unity, in C++, in C#, for iOS, you name it._
 
+* [Bart Wronski](https://bartwronski.com/)
+<br/>_State-of-the-art tutorials, ideas and thoughts on Computer graphics, computer science, DSP, by Bartłomiej Wroński_
+
 * [Benedikt Bitterli](https://benedikt-bitterli.me/portfolio.html)
 <br/>_Personal portfolio of Benedikt Bitterli, with in-depth explanations of his experiments in realistic path-tracing and light simulation._
 
