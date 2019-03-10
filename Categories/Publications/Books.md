@@ -1,5 +1,10 @@
-Books
+Open Books
 ======
+### Creative Coding
+* [The Nature Of Code](https://natureofcode.com/book/)
+<br/>**Daniel Shiffman**
+<br/>_Loved by thousands of creative coders around the world._
+
 ### Raytracing & Pathtracing
 * [Physically Based Rendering: From Theory To Implementation](https://pbrt.org/)<br/>**Matt Phar, Wenzel Jakob, Greg Humphreys**<br/>_Considered by some the Bible of modern rendering._
 
