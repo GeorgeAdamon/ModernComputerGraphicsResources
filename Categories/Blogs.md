@@ -96,6 +96,9 @@ Weblogs & Devlogs
 * [The Blog at the Bottom of the Sea](https://blog.demofox.org/)
 <br/>_Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis, all blended beautifully in an excellent blog with in-depth posts._
 
+* [The ryg blog](https://fgiesen.wordpress.com/)
+<br/>_The legendary blog of Fabian “ryg” Giesen. Extremely detailed posts on programming, graphics, mathematics, computer architecture.)
+
 * [Twak's Blog - Tom Kelly](https://www.twak.co.uk/)
 <br/> _Tom Kelly's Graphics Research Blog. Generating cities using GAN neural networks trained on Google data is just the tip of the iceberg._
 
