@@ -93,6 +93,9 @@ Weblogs & Devlogs
 * [SigHack - Manohar Vanga](https://sighack.com/)
 <br/>_Explorations in Generative Art using Processing, by Manohar Vanga._
 
+* [The Blog at the Bottom of the Sea](https://blog.demofox.org/)
+<br/>_Programming, Graphics, Gamedev, Exotic Computation, Audio Synthesis, all blended beautifully in an excellent blog with in-depth posts._
+
 * [Twak's Blog - Tom Kelly](https://www.twak.co.uk/)
 <br/> _Tom Kelly's Graphics Research Blog. Generating cities using GAN neural networks trained on Google data is just the tip of the iceberg._
 
