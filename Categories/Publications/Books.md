@@ -10,7 +10,10 @@ Online Books
 
 * [Ray Tracing Minibook Series](https://drive.google.com/drive/folders/14yayBb9XiL16lmuhbYhhvea8mKUUK77W)<br/>**Peter Shirley**<br/> _The famous series "Ray Tracing in a Weekend", "Ray Tracing: The next Week", "Ray Tracing: The Rest of your Life", available in a pay-what-you-want format by the author, Peter Shirley._
 
-### GPU Shaders & Computing
+* [Scratch A Pixel](http://www.scratchapixel.com/)
+<br/>_32 lessons, 166 chapters, 450,000 words and C++ source code, explaining fundamentals, intermediate and advanced concepts of 3D Rendering, from camera and material models, to volumetric path-tracing. Excellent resource._
+
+### GPU Shaders & GPU Computing
 * [The Book of Shaders](https://thebookofshaders.com/)<br/>**Patricio Gonzalez Vivo, Jen Lowe**<br/>_A gentle (And downright astonishing) step-by-step guide through the abstract and complex universe of Fragment Shaders._
 
 * [NVIDIA GPU Gems 1,2 & 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
