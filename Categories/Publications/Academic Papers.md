@@ -194,4 +194,7 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 
 ---
 
-
+### Volumetric Capturing
+* [Motion2Fusion-Real-Time Volumetric Performance Capture](https://www.researchgate.net/publication/321236208_Motion2fusion_real-time_volumetric_performance_capture)
+<br/>**Mingsong Dou, Philip Davidson, Sean Ryan Fanello, Sameh Khamis, Adarsh Kowdle, Christoph Rhemann, Vladimir Tankovich, Shahram Izadi**
+<br/>_Perspective IO<br/>
