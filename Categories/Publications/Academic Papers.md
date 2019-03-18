@@ -184,6 +184,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Georges Winkenbach, David H. Salesin**
 <br/>_Department of Computer Science and Engineering, University of Washington_
 
+* [Theory, Analysis and Applications of 2D Global Illumination](https://cs.dartmouth.edu/~wjarosz/publications/jarosz12theory.html)
+<br/>**Wojciech Jarosz, Volker Schönefeld, Leif Kobbelt, Henrik Wann Jensen**
+<br/>_Disney Research Zürich, UC San Diego, Limbic Software, RWTH Aachen University_
+
 * [Using a Floating Origin to Improve Fidelity and Performance of Large, Distributed Virtual Worlds](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.471.7201&rep=rep1&type=pdf)
 <br/>**Chris Thorne**
 <br/>_School of Computer Science and Software Engineering, The University of Western Australia_<br/>[_>> Unity Implementation <<_](http://wiki.unity3d.com/index.php?title=Floating_Origin)
