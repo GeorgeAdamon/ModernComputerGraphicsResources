@@ -5,9 +5,9 @@ Open Documents
 * [Karl Sims' Reaction Diffusion Tutorial](http://www.karlsims.com/rd.html)<br/>**Karl Sims**
 * [Karl Sims' Fluid Flow Tutorial](http://www.karlsims.com/fluid-flow.html)<br/>**Karl Sims**
 * [OBJ File Format Specification](http://www.martinreddy.net/gfx/3d/OBJ.spec)<br/>**Martin Reddy**<br/>_Thorough documentation of every single feature of the .obj file format._
-* [Princeton Computer Science Courses: Raycasting](http://www.cs.princeton.edu/courses/archive/fall00/cs426/lectures/raycast/index.htm)
+* [Princeton Computer Science Courses: Raycasting](http://www.cs.princeton.edu/courses/archive/fall00/cs426/lectures/raycast/raycast.pdf)
 <br/>**Thomas Funkhouser**
-<br/>_Professor Funkhouser's notes about Ray-Primitive intersections._
+<br/>_Professor Funkhouser's notes about Ray-Primitive intersections from the course CS426 (Fall 2000)._
 
 ### Modern Photogrammetry Workflows
 * [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>**Sébastien Lachambre, Sébastien Lagarde, Cyril Jover**<br/>_This document aims to describe a photogrammetry workflow dedicated to authoring game assets with an affordable budget for a game studio. It goes through image capturing, image processing, point cloud and mesh reconstruction, model clean-up, reduction and retopology, texture transfering, and post-processing._
