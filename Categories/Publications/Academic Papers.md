@@ -58,6 +58,9 @@ Academic Papers
 <br/>**Raphael Linus Levien**
 <br/>_University of California, Berkeley_
 
+* [Generalized Perspective Projection](https://csc.lsu.edu/~kooima/pdfs/gen-perspective.pdf)
+<br/>**Robert Kooima**
+
 * [Geometry-Aware Direction Field Processing](http://alice.loria.fr/publications/papers/2009/tog_DFD/DFD.pdf)
 <br/>**Nicolas Ray, Bruno Vallet, Laurent Alonso, Bruno Levy**
 <br/>_INRIA Institute, France_
