@@ -48,6 +48,9 @@ Weblogs & Devlogs
 * [Jackson Dunstan](https://jacksondunstan.com/)
 <br/> _Extremely In-depth C# and Unity3d articles by Jackston Dunstan, including frequent de-compilations and dissections of Unity's core dlls, as well as an extensive guide for integrating C++ code into Unity projects._
 
+* [Jack Shaedler](https://jackschaedler.github.io/)
+<br/> _Excellently illustrated and animated essays and primers on digital signal processing, handwriting recognition and more._
+
 * [Jasper Flick - Catlike Coding](https://catlikecoding.com/)
 <br/>_Extensive step-by-step Unity3d tutorials by Jasper Flick._
 
