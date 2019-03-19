@@ -19,6 +19,10 @@ Open Documents
 <br/>**Thomas Funkhouser**
 <br/>_Professor Funkhouser's notes about Ray-Primitive intersections from the course CS426 (Fall 2000)._
 
+### Digital Signal Processing
+* [Seeing Circles, Sines, and Signals: A Compact Primer On Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
+<br/>**Jack Schaedler**
+<br/>_Probably the most compact and comprehensive primer on Signal Processing, Sine waves, Fourier transform etc that exists._
 
 ### Modern Photogrammetry Workflows
 * [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>**Sébastien Lachambre, Sébastien Lagarde, Cyril Jover**<br/>_This document aims to describe a photogrammetry workflow dedicated to authoring game assets with an affordable budget for a game studio. It goes through image capturing, image processing, point cloud and mesh reconstruction, model clean-up, reduction and retopology, texture transfering, and post-processing._
