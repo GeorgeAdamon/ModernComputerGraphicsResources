@@ -35,6 +35,10 @@ Open Documents
 <br/>**Matt Pharr**
 <br/>_Real-time GPU ray-tracing on modern hardware(2018 onwards) explained brilliantly by Matt Phar._
 
+*[Optimized Stencil Shadow Volumes](https://www.nvidia.com/docs/IO/8230/GDC2003_ShadowVolumes.pdf)
+<br/>**Cass Everitt, Mark J. Kilgard**
+<br/>_Lecture from GDC 2003 from NVIDIA, explaining the technique of real-time stencil shadow volumes and how to optimize them._
+
 * [Realtime Volumetric Rendering](http://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
 <br/>**Patapom / Bomb!**
 <br/>_"Almost everyone in the demoscene is enjoying ray-marching through a distance field but I haven’t seen much volumetric rendering done with it.So, why not use ray-marching to achieve what it was created for originally: rendering a participating medium?"_
