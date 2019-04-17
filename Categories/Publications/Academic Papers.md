@@ -187,6 +187,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Georges Winkenbach, David H. Salesin**
 <br/>_Department of Computer Science and Engineering, University of Washington_
 
+* [Seeing Relativity-Ray tracing in a Schwarzschild metric to explore the maximal analytic extension of the metric and making a proper rendering of the stars](https://arxiv.org/pdf/1511.06025.pdf)
+<br/>**Alain  Riazuelo**
+<br/>_Sorbonne Universite, Institut dAstrophysique de Paris_
+
 * [Theory, Analysis and Applications of 2D Global Illumination](https://cs.dartmouth.edu/~wjarosz/publications/jarosz12theory.html)
 <br/>**Wojciech Jarosz, Volker Schönefeld, Leif Kobbelt, Henrik Wann Jensen**
 <br/>_Disney Research Zürich, UC San Diego, Limbic Software, RWTH Aachen University_
