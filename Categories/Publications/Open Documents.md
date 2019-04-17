@@ -35,6 +35,10 @@ Open Documents
 <br/>**Matt Pharr**
 <br/>_Real-time GPU ray-tracing on modern hardware(2018 onwards) explained brilliantly by Matt Phar._
 
+* [How to Draw A Black Hole](http://rantonels.github.io/starless/)
+<br/>**Ricardo Antonelli**
+<br/>_Geodesic raytracing in curved spacetime_
+
 * [Optimized Stencil Shadow Volumes](https://www.nvidia.com/docs/IO/8230/GDC2003_ShadowVolumes.pdf)
 <br/>**Cass Everitt, Mark J. Kilgard**
 <br/>_Lecture from GDC 2003 from NVIDIA, explaining the technique of real-time stencil shadow volumes and how to optimize them._
