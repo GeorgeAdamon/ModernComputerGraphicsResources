@@ -24,11 +24,14 @@ Open Documents
 <br/>**Jack Schaedler**
 <br/>_Probably the most compact and comprehensive primer on Signal Processing, Sine waves, Fourier transform etc that exists._
 
-### Modern Photogrammetry Workflows
-* [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>**Sébastien Lachambre, Sébastien Lagarde, Cyril Jover**<br/>_This document aims to describe a photogrammetry workflow dedicated to authoring game assets with an affordable budget for a game studio. It goes through image capturing, image processing, point cloud and mesh reconstruction, model clean-up, reduction and retopology, texture transfering, and post-processing._
-
+### 3-Dimensional Capturing
 * [Full Photogrammetry Guide for 3D Artists](https://80.lv/articles/full-photogrammetry-guide-for-3d-artists/)
 </br>_Vlad Kuzmin's extensive guide for efficient photogrammetry captures, hosted by 80.lv._
+
+* [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>**Sébastien Lachambre, Sébastien Lagarde, Cyril Jover**<br/>_This document aims to describe a photogrammetry workflow dedicated to authoring game assets with an affordable budget for a game studio. It goes through image capturing, image processing, point cloud and mesh reconstruction, model clean-up, reduction and retopology, texture transfering, and post-processing._
+
+* [Using the RealSense D4xx Depth Sensors in Multi-Camera Configurations](https://realsense.intel.com/wp-content/uploads/sites/63/Multiple_Camera_WhitePaper04.pdf)
+<br/>**Anders Grunnet-Jepsen, Paul Winer, Aki Takagi, John Sweetser, Kevin Zhao, Tri Khuong, Dan Nie, John Woodfill**
 
 ### Computational Imaging
 * [Adopting Lessons From Offline Ray-Tracing To Real-Time Ray Tracing For Practical Pipelines](http://advances.realtimerendering.com/s2018/Pharr%20-%20Advances%20in%20RTR%20-%20Real-time%20Ray%20Tracing.pdf)
