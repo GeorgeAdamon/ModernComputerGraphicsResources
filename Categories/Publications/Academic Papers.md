@@ -172,6 +172,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Luca Fascione, Johannes Hanika, Rob Pieké, Ryusuke Villemin, Christophe Hery, Manuel Gamito, Luke Emrose, André Mazzone**
 <br/>_Weta Digital, MPC, Pixar Animation Studios, Framestore, Animal Logic, Industrial Light & Magic_
 
+* [Real-time Realistic Rendering and Lighting of Forests](https://hal.inria.fr/hal-00650120/file/article.pdf)
+<br/>**Eric Bruneton, Fabrice Neyret**
+<br/>_INRIA_
+
 * [Real-Time Volume Caustics with Adaptive Beam Tracing](https://cg.ivd.kit.edu/downloads/VolumeCaustics_Preprint.pdf)<br/>**Gabor Liktor, Carsten Dachsbacher**
 <br/>_Computer Graphics Group / Karlsruhe Institute of Technology_
 
