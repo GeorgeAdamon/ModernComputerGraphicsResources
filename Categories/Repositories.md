@@ -21,6 +21,9 @@ _</br> Research Engineer at GoogleBrain. Dozens of deep learning repositories._
 * [Geometry 3 Sharp](https://github.com/gradientspace/geometry3Sharp)
 _</br> Extensive state-of-the-art C# computational geometry libraries by GradientSpace._
 
+* [JustCoding - Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms)
+<br/> _100+ algorithms & data structures generically implemented in C# by Jehonathan Thomas._
+
 * [Joel Simon](https://github.com/joel-simon)
 _</br> Computational geometry meets evolutionary algorithms and biomimicry._
 
