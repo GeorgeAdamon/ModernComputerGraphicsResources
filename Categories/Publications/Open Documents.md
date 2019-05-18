@@ -50,7 +50,7 @@ Open Documents
 ### Simulation
 * [Fluid Simulation For Dummies](https://mikeash.com/pyblog/fluid-simulation-for-dummies.html)
 <br/> **Mike Ash**
-<br/> _Simple, step-by-step explanation of real-time 3D Fluid Dynamics.
+<br/> _Simple, step-by-step explanation of real-time 3D Fluid Dynamics._
 
 
 * [Karl Sims' Fluid Flow Tutorial](http://www.karlsims.com/fluid-flow.html)
