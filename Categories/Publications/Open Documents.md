@@ -8,9 +8,6 @@ Open Documents
 * [Karl Sims' Reaction Diffusion Tutorial](http://www.karlsims.com/rd.html)
 <br/>**Karl Sims**
 
-* [Karl Sims' Fluid Flow Tutorial](http://www.karlsims.com/fluid-flow.html)
-<br/>**Karl Sims**
-
 * [OBJ File Format Specification](http://www.martinreddy.net/gfx/3d/OBJ.spec)
 <br/>**Martin Reddy**
 <br/>_Thorough documentation of every single feature of the .obj file format._
@@ -49,3 +46,13 @@ Open Documents
 * [Realtime Volumetric Rendering](http://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
 <br/>**Patapom / Bomb!**
 <br/>_"Almost everyone in the demoscene is enjoying ray-marching through a distance field but I haven’t seen much volumetric rendering done with it.So, why not use ray-marching to achieve what it was created for originally: rendering a participating medium?"_
+
+### Simulation
+* [Fluid Simulation For Dummies](https://mikeash.com/pyblog/fluid-simulation-for-dummies.html)
+<br/> **Mike Ash**
+<br/> _Simple, step-by-step explanation of real-time 3D Fluid Dynamics.
+
+
+* [Karl Sims' Fluid Flow Tutorial](http://www.karlsims.com/fluid-flow.html)
+<br/>**Karl Sims**
+
