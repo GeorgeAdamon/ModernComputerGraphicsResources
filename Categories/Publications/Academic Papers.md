@@ -158,6 +158,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Henry Kang, Seungyong Lee, Charles K. Chui**
 <br/>_University of Missouri, POSTECH_ <br/>[ >> _Open-source C++ Implementation_ <<](https://github.com/SSARCandy/Coherent-Line-Drawing)
 
+* [Effective Toon-Style Rendering Control Using Scalar Fields](https://graphics.pixar.com/library/ToonRendering/paper.pdf)
+<br/>**Alex Harvill**
+<br/>_Pixar Animation Studios_.
+
 * [GPU Ray Tracing – Comparative Study of Ray-Triangle Intersection Algorithms](http://www.graphicon.ru/html/2012/conference/EN2%20-%20Graphics/gc2012Shumskiy.pdf)
 <br/>**Vladimir Shumskiy, Alexandre Parshin**
 <br/>_Moscow Institute of Physics and Technology, Air Graphics_
