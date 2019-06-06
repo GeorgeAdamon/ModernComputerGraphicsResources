@@ -136,13 +136,17 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Loeïz Glondu**
 <br/>_École normale supérieure de Cachan - ENS Cachan_
 
-* [Position Based Dynamics](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)
+* [Position-Based Dynamics](http://matthias-mueller-fischer.ch/publications/posBasedDyn.pdf)
 <br/>**Matthias Müller, Bruno Heidelberger, Marcus Hennix, John Ratcliff**
 <br/>_AGEIA_
 
 * [Position-Based Elastic Rods](https://docs.wixstatic.com/ugd/cf1fd6_d128ff89014f4bdebfeb967b88079daf.pdf)
 <br/>**Jos Stam**
 <br/>_Autodesk Research_
+
+* [Position-Based Fluids](https://mmacklin.com/pbf_sig_preprint.pdf)
+<br/>**Miles Macklin, Matthias Muller**
+<br/>_NVIDIA_
 
 * [Real Time Dynamic Fracture with Volumetric Approximate Convex Decompositions](http://matthias-mueller-fischer.ch/publications/fractureSG2013.pdf)
 <br/>**Matthias Muller, Nuttapong Chentanez, Tae-Yong Kim**
