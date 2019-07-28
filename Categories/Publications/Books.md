@@ -1,7 +1,7 @@
 Online Books
 ======
 ### Computational Geometry
-* [Geometric Tools for Computer Graphics]http://lib.ysu.am/open_books/312121.pdf
+* [Geometric Tools for Computer Graphics](http://lib.ysu.am/open_books/312121.pdf)
 <br/>**Philip Schneider, David Eberly**
 <br/>_1042 pages of clean and accurate implementations of simple, intermediate and complex geometric problems._
 
