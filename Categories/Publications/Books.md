@@ -1,5 +1,10 @@
 Online Books
 ======
+### Computational Geometry
+* [Geometric Tools for Computer Graphics]http://lib.ysu.am/open_books/312121.pdf
+<br/>**Philip Schneider, David Eberly**
+<br/>_1042 pages of clean and accurate implementations of simple, intermediate and complex geometric problems._
+
 ### Creative Coding
 * [The Nature Of Code](https://natureofcode.com/book/)
 <br/>**Daniel Shiffman**
