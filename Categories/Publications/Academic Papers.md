@@ -91,6 +91,10 @@ Academic Papers
 ---
 
 ### Machine Learning & Neural Networks
+* [3D-R2N2: A Unified Approach for Single andMulti-view 3D Object Reconstruction](https://arxiv.org/pdf/1604.00449.pdf)
+<br/>**Christopher B. Choy, Danfei Xu, JunYoung Gwak, Kevin Chen, Silvio Savarese**
+<br/>_Stanford University_
+
 * [A Neural Algorithm of Artistic Style](https://arxiv.org/pdf/1508.06576.pdf)
 <br/>**Leon A. Gatys,Alexander S. Ecker, Matthias Bethge**
 <br/>_Werner Reichardt Centre for Integrative Neuroscience and Institute of Theoretical Physics, University of Tubingen, Germany<br/>
@@ -105,6 +109,9 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 * [3D-GAN - Learning a Probabilistic Latent Space of ObjectShapes via 3D Generative-Adversarial Modeling](http://3dgan.csail.mit.edu/)
 <br/>**Jiajun Wu*, Chengkai Zhang*, Tianfan Xue, William T. Freeman, and Joshua B. Tenenbaum**
 <br/>_MIT CSAIL_
+
+* [Learning Depth from Single Images with DeepNeural Network Embedding Focal Length](https://arxiv.org/pdf/1803.10039.pdf)
+<br/>**Lei He, Guanghui Wang, Zhanyi Hu**
 
 * [Learning the Depths of Moving People by Watching Frozen People](https://mannequin-depth.github.io/)
 <br/>**Zhengqi Li, Tali Dekel, Forrester Cole, Richard Tucker, Noah Snavely, Ce Liu, William T. Freeman**
