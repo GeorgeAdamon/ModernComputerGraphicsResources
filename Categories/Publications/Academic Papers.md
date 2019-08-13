@@ -44,6 +44,10 @@ Academic Papers
 * [Digital Morphologies: Environmentally-Influenced Generative Forms](https://drive.google.com/file/d/0B_4X5OQcV3d8Y3JYWFBpU1ZWbHM/view)<br/>**Sage Jenson**
 <br/>_Oberlin College and Conservatory_
 
+* [Design for Assembly : A Computational Approach to Construct Interlocking Wooden Frames](https://dspace.mit.edu/handle/1721.1/72968)
+<br/>**Alan Song-Ching Tai**
+<br/>_Massachusetts Institute of Technology, School of Architecture_
+
 * [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**
 <br/>_TU Vienna, Technion–Israel Institute of Technology_
 
