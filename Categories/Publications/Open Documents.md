@@ -1,5 +1,6 @@
 Open Documents
 ======
+
 ### Computational Geometry
 * [Geometric Tools Documentation](https://www.geometrictools.com/Documentation/Documentation.html)
 <br/>**David Eberly**
@@ -15,6 +16,11 @@ Open Documents
 * [Princeton Computer Science Courses: Raycasting](http://www.cs.princeton.edu/courses/archive/fall00/cs426/lectures/raycast/raycast.pdf)
 <br/>**Thomas Funkhouser**
 <br/>_Professor Funkhouser's notes about Ray-Primitive intersections from the course CS426 (Fall 2000)._
+
+### Computer Science
+* [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
+<br/>**Sean Eron Anderson**
+<br/>_Extensive, thoroughly tested, and incredibly valuable list of bitwise operation hacks by Stanford University._
 
 ### Digital Signal Processing
 * [Seeing Circles, Sines, and Signals: A Compact Primer On Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
