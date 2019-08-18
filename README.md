@@ -15,7 +15,7 @@ _People who write about their craft & their ideas and share their knowledge & ex
 _Teams, Labs, and Institutions that share cutting-edge research with the rest of the world_
 
 ### [Publications](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications)
-_Published books and research papers._
+_Books, research papers & knowledge articles, belonging to the public domain._
 * [Academic Papers](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md)
 * [Open Documents](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Open%20Documents.md)
 * [Books](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Books.md)
