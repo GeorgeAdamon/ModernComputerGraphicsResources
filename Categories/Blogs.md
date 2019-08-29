@@ -111,5 +111,8 @@ Weblogs & Devlogs
 * [Wendelin Reich-Gamasutra](http://www.gamasutra.com/blogs/WendelinReich/20131109/203841/C_Memory_Management_for_Unity_Developers_part_1_of_3.php)
 <br/>_Wendelin Reich's 3-part series about C# Memory Management for Unity Developers._
 
+* [xdPixel - Brandon Fogerty](http://xdpixel.com/)
+<br/>_High-end graphics/rendering techniques by Unity XR Graphics Engineer Brandon Fogerty._
+
 * [Zero Wind - Jamie Wong](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/)
 <br/>_Excellent blog about computer science/graphics, covering raymarching SDFs, real-time fluid dynamics, marching squares, etc_
