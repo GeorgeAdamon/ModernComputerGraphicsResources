@@ -1,5 +1,8 @@
 Weblogs & Devlogs
 ======
+* [16 MS - Michael Walczyk](http://www.michaelwalczyk.com/)
+<br/>_The portfolio of media artist and technologist Michael Walczyk, exploring topology, connectedness, dimensionality (expansion and reduction), and space._
+
 * [A Random Walk Through Geek-Space - Sebastian Sylvan](https://www.sebastiansylvan.com/)
 <br/>_Brain dumps and other ramblings from Sebastian Sylvan._
 
