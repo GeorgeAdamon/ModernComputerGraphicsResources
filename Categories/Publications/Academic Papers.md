@@ -147,6 +147,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Hayley Nicole Iben**
 <br/>_University of California at Berkeley_
 
+* [Interactive Terrain Modeling Using Hydraulic Erosion](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.173.5239&rep=rep1&type=pdf)
+<br/>**Ondrej Št’ava, Bedrich Beneš, Matthew Brisbin, Jaroslav Krivánek**
+<br/>_Czech Technical University in Prague, Purdue University_
+
 * [Physically-based and Real-time Simulation of Brittle Fracture for Interactive Applications](https://tel.archives-ouvertes.fr/tel-00752388/file/report.pdf)
 <br/>**Loeïz Glondu**
 <br/>_École normale supérieure de Cachan - ENS Cachan_
