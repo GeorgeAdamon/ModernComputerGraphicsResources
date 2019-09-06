@@ -35,6 +35,6 @@ br/>_Considered by some the Bible of modern rendering._
 * [NVIDIA GPU Gems 1,2 & 3](https://developer.nvidia.com/gpugems/GPUGems3/gpugems3_pref01.html)
 <br/>_Probably the most in-depth and extensive open resource on modern GPU computing and real-time graphics available._
 
-*[NVIDIA Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/unofficial_RayTracingGems_v1.5.pdf)
+* [NVIDIA Ray Tracing Gems](http://www.realtimerendering.com/raytracinggems/unofficial_RayTracingGems_v1.5.pdf)
 <br/>**Eric Haines, Tomas Akenine-Möller,Alexander Keller, Morgan McGuire, Jacob Munkberg, Matt Pharr, Peter Shirley, Ingo Wald, Chris Wyman**
 <br/>_State of the art real-time rendering techniques with DXR and other APIs, by true legends of the industry. Released in April 2019._
