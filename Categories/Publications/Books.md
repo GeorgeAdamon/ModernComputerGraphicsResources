@@ -1,6 +1,10 @@
 Online Books
 ======
 ### Computational Geometry
+* [Geometry Algorithms](http://geomalgorithms.com/index.html)
+<br/>**Dan Sunday**
+<br/>_Huge online book with practical geometric algorithms for the software developer, covering Linear Algebra, Intersections, Convex Hulls, Inclusions, Distances etc, and including C++ implementations._
+
 * [Geometric Tools for Computer Graphics](http://lib.ysu.am/open_books/312121.pdf)
 <br/>**Philip Schneider, David Eberly**
 <br/>_1042 pages of clean and accurate implementations of simple, intermediate and complex geometric problems._
