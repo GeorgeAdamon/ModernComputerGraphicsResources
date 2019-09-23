@@ -53,7 +53,7 @@ Open Documents
 <br/>**Patapom / Bomb!**
 <br/>_"Almost everyone in the demoscene is enjoying ray-marching through a distance field but I haven’t seen much volumetric rendering done with it.So, why not use ray-marching to achieve what it was created for originally: rendering a participating medium?"_
 
-### Simulation
+### Physics & Simulation
 * [Fluid Simulation For Dummies](https://mikeash.com/pyblog/fluid-simulation-for-dummies.html)
 <br/> **Mike Ash**
 <br/> _Simple, step-by-step explanation of real-time 3D Fluid Dynamics._
@@ -62,3 +62,5 @@ Open Documents
 * [Karl Sims' Fluid Flow Tutorial](http://www.karlsims.com/fluid-flow.html)
 <br/>**Karl Sims**
 
+* [Robust Contact Creation for Physics Simulations](https://steamcdn-a.akamaihd.net/apps/valve/2015/DirkGregorius_Contacts.pdf)
+<br/>**Dirk Gregorious - Valve Software**
