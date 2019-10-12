@@ -9,6 +9,8 @@ Shoulders Of Giants
 
 [**1980-1990**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1980-1990)
 
+[**1990-2000**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1990-2000)
+
 ## 1950-1960
 #### 1959
 [**de Casteljau**, Paul. **Courbes a Poles** [PDF does not exist. Please help!]](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
@@ -40,3 +42,8 @@ Shoulders Of Giants
 
 #### 1986
 [**Kajiya**, James. **The Rendering Equation**](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/2007/rend_eq.pdf)
+
+## 1990-200
+#### 1997
+[**Veach**, Eric. **Robust Monte Carlo Methods for Light Transport Simulation**](https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf)
+
