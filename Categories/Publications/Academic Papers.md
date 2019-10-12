@@ -33,6 +33,9 @@ Academic Papers
 <br/>**Jeff Jones**
 <br/>_University of the West of England_
 
+* [Cellular Forms: An artistic Exploration of Morphogenesis](http://andylomas.com/extra/andylomas_paper_cellular_forms_aisb50.pdf)
+<br/>**Andy Lomas**
+
 * [Consistent Mesh Partitioning and Skeletonization using the Shape Diameter Function](http://www.cs.jhu.edu/~misha/ReadingSeminar/Papers/Shapira08.pdf)
 <br/>**Lior Shapira, Ariel Shamir, Daniel Cohen-Or**
 <br/>_Tel-Aviv University, The Interdisciplinary Center_
