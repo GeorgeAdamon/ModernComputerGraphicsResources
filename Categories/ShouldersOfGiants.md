@@ -2,6 +2,7 @@
 Shoulders Of Giants
 ======
 [**1967**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1967)
+
 [**1982**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1982)
 
 ## 1967
