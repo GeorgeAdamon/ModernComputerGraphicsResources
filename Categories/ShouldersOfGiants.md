@@ -7,6 +7,8 @@ Shoulders Of Giants
 
 [**1978**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1978)
 
+[**1979**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1979)
+
 [**1982**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1982)
 
 ## 1967
@@ -17,6 +19,9 @@ Shoulders Of Giants
 
 ## 1978
 * [**Catmull**, Edwin & **Clark**, James. **Recursively Generated B-spline Surfaces On Arbitrary Topology Meshes**](https://people.eecs.berkeley.edu/~sequin/CS284/PAPERS/CatmullClark_SDSurf.pdf)
+
+## 1979
+* [**Whitted**, James Turner. **An Improved Illumination Model for Shaded Display**](https://artis.imag.fr/Members/David.Roger/whitted.pdf)
 
 ## 1982
 * [**Blinn**, James. **A generalization of Algebraic Surface Drawing**](https://cumincad.architexturez.net/system/files/pdf/6094.content.pdf)
