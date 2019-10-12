@@ -11,7 +11,7 @@ Shoulders Of Giants
 
 ## 1950-1960
 #### 1959
-[**de Casteljau**, Paul. **Courbes a Poles**](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
+[**de Casteljau**, Paul. **Courbes a Poles** [PDF does not exist. Please help!]](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
 
 ## 1960-1970
 #### 1967
