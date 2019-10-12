@@ -1,11 +1,17 @@
 
 Shoulders Of Giants
 ======
+[**1950-1960**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1950-1960)
+
 [**1960-1970**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1960-1970)
 
 [**1970-1980**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1970-1980)
 
 [**1980-1990**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1980-1990)
+
+## 1950-1960
+#### 1959
+[**de Casteljau**, Paul. **Courbes a Poles**](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
 
 ## 1960-1970
 #### 1967
