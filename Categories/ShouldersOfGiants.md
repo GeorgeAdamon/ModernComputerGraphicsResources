@@ -15,6 +15,9 @@ Shoulders Of Giants
 #### 1975
 [**Phong**, Bui Tong. **Illumination for Computer Generated Pictures**](https://users.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf)
 
+#### 1977
+[**Blinn**, James. **Models of Light Reflection for Computer Synthesized Pictures**](http://cs.uns.edu.ar/cg/clasespdf/p192-blinn.pdf)
+
 #### 1978
 [**Catmull**, Edwin & **Clark**, James. **Recursively Generated B-spline Surfaces On Arbitrary Topology Meshes**](https://people.eecs.berkeley.edu/~sequin/CS284/PAPERS/CatmullClark_SDSurf.pdf)
 
