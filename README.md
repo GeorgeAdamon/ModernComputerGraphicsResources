@@ -24,3 +24,6 @@ _Books, research papers & knowledge articles, belonging to the public domain._
 ### [Repositories](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Repositories.md)
 _Individuals and teams who openly share their code._
 </br>
+
+### [Shoulders Of Giants]()
+_Legendary, historically significant papers/treatises that defined Computer Graphics.
