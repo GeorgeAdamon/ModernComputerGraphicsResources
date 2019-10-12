@@ -28,5 +28,7 @@ Shoulders Of Giants
 #### 1982
 [**Blinn**, James. **A generalization of Algebraic Surface Drawing**](https://cumincad.architexturez.net/system/files/pdf/6094.content.pdf)
 
+[**Cook**, Robert & **Torrance**, Kenneth. **A Reflectance Model for Computer Graphics**](http://inst.cs.berkeley.edu/~cs294-13/fa09/lectures/cookpaper.pdf)
+
 #### 1986
 [**Kajiya**, James. **The Rendering Equation**](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/2007/rend_eq.pdf)
