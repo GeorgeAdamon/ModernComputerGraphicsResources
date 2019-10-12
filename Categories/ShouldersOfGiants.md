@@ -43,7 +43,7 @@ Shoulders Of Giants
 #### 1986
 [**Kajiya**, James. **The Rendering Equation**](http://www.cse.chalmers.se/edu/year/2011/course/TDA361/2007/rend_eq.pdf)
 
-## 1990-200
+## 1990-2000
 #### 1997
 [**Veach**, Eric. **Robust Monte Carlo Methods for Light Transport Simulation**](https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf)
 
