@@ -26,4 +26,4 @@ _Individuals and teams who openly share their code._
 </br>
 
 ### [Shoulders Of Giants]()
-_Legendary, historically significant papers/treatises that defined Computer Graphics.
+_Legendary, historically significant papers/treatises that defined Computer Graphics._
