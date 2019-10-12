@@ -27,6 +27,8 @@ Shoulders Of Giants
 #### 1978
 [**Catmull**, Edwin & **Clark**, James. **Recursively Generated B-spline Surfaces On Arbitrary Topology Meshes**](https://people.eecs.berkeley.edu/~sequin/CS284/PAPERS/CatmullClark_SDSurf.pdf)
 
+[**Williams**, Lance. **Casting Curved Shadows On Curved Surfaces**](http://cseweb.ucsd.edu/~ravir/274/15/papers/p270-williams.pdf)
+
 #### 1979
 [**Whitted**, James Turner. **An Improved Illumination Model for Shaded Display**](https://artis.imag.fr/Members/David.Roger/whitted.pdf)
 
