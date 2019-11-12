@@ -84,6 +84,11 @@ Academic Papers
 <br/>**Sagi Katz, George Leifman, Ayellet Tal**
 <br/>_Technion-Israel Institute of Technology, Department of Electrical Engineering_
 
+* [Robust Hex-Dominant Mesh Generation using Field-Guided Polyhedral
+Agglomeration](https://cims.nyu.edu/gcl/papers/Robust-Meshes-2017.pdf)
+<br/>**Xifeng Gao, WenzelL Jakob,Marco Tarini,Danielle Panozo**
+<br/>_New York University, École Polytechnique Fédérale de Lausanne (EPFL), Università degli Studi dell’Insubria and ISTI-CNR, New York University_<br/>
+
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)
 <br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**
 <br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
