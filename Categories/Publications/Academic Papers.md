@@ -7,6 +7,7 @@ Academic Papers
 ### [Physics & Material Simulation](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#physics--material-simulation-1)
 ### [Computational Imaging](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-imaging-1)
 ### [Volumetric Capturing](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#volumetric-capturing)
+### [Performance Optimization](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#volumetric-capturing)
 ---
 
 ### Computational Geometry
@@ -270,3 +271,8 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 * [Motion2Fusion-Real-Time Volumetric Performance Capture](https://www.researchgate.net/publication/321236208_Motion2fusion_real-time_volumetric_performance_capture)
 <br/>**Mingsong Dou, Philip Davidson, Sean Ryan Fanello, Sameh Khamis, Adarsh Kowdle, Christoph Rhemann, Vladimir Tankovich, Shahram Izadi**
 <br/>_Perspective IO_<br/>
+
+### Performance Optimization
+* [Efficient Spatial Binning on the GPU](http://www.chrisoat.com/papers/EfficientSpatialBinning.pdf)
+<br/>**Christopher Oat, Joshua Barczak, Jeremy Shopf**
+<br/>_AMD_<br/>
