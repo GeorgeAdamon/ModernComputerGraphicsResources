@@ -160,6 +160,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Ondrej Št’ava, Bedrich Beneš, Matthew Brisbin, Jaroslav Krivánek**
 <br/>_Czech Technical University in Prague, Purdue University_
 
+* [Particle Simulation Using CUDA](http://developer.download.nvidia.com/assets/cuda/files/particles.pdf)
+<br/>**Simon Greene**
+<br/>_NVIDIA_
+
 * [Physically-based and Real-time Simulation of Brittle Fracture for Interactive Applications](https://tel.archives-ouvertes.fr/tel-00752388/file/report.pdf)
 <br/>**Loeïz Glondu**
 <br/>_École normale supérieure de Cachan - ENS Cachan_
