@@ -262,6 +262,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Alain  Riazuelo**
 <br/>_Sorbonne Universite, Institut dAstrophysique de Paris_
 
+* [State of the Art on 3D Reconstruction with RGB-D Cameras](https://web.stanford.edu/~zollhoef/papers/EG18_RecoSTAR/paper.pdf)
+<br/>**Michael Zollhöfer, Patrick Stotko, Andreas Görlitz, Christian Theobalt, Matthias Nießner, Reinhard Klein, Andreas Kolb**
+<br/>_Max-Planck Institute for Informatics,Stanford University,Computer Graphics Group-University of Bonn, Computer Graphics Group-University of Siegen, Technical University of Munich_
+
 * [Theory, Analysis and Applications of 2D Global Illumination](https://cs.dartmouth.edu/~wjarosz/publications/jarosz12theory.html)
 <br/>**Wojciech Jarosz, Volker Schönefeld, Leif Kobbelt, Henrik Wann Jensen**
 <br/>_Disney Research Zürich, UC San Diego, Limbic Software, RWTH Aachen University_
