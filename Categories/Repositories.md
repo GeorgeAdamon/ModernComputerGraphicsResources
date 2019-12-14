@@ -1,10 +1,13 @@
 Code Repositories
 ======
 * [Andy Duboc](https://github.com/andydbc)
-_</br> High quality HLSL Shaders & Shader Graphs for Unity3d by Andy Duboc._
+</br> _High quality HLSL Shaders & Shader Graphs for Unity3d by Andy Duboc._
 
 * [COMPAS](https://github.com/compas-dev/compas) 
-_</br> Open-source, Python-based framework for computational research and collaboration in architecture, engineering and digital fabrication._
+</br> _Open-source, Python-based framework for computational research and collaboration in architecture, engineering and digital fabrication._
+
+* [CUDAfy.NET](https://github.com/Cr33zz/CUDAfy.NET)
+</br> _The official repository of the CUDAfy project._
 
 * [David Eberly - Geometric Tools](https://www.geometrictools.com/index.html)
 </br>_The official site for the Geometric Tools Engine, a library of source code for computing in the fields of mathematics, graphics, image analysis and physics. Alongside the source code, lots of great resources about computational geometry._
