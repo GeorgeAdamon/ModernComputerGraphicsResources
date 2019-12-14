@@ -25,34 +25,37 @@ _</br> Research Engineer at GoogleBrain. Dozens of deep learning repositories._
 <br/> _The founder of Figma. Among other unbelievable things, his repository hosts an interactive WebGL pathtracer and an interactive WebGL water caustics simulator._
 
 * [Forceflow - Jeroen Baert](https://github.com/Forceflow?tab=repositories)
-<br/> _Home of Jeoren Baert's CUDA Voxelizer, Morton Encoding library, Suggestive Contours, and many more computer graphics gems._
+<br/>_Home of Jeoren Baert's CUDA Voxelizer, Morton Encoding library, Suggestive Contours, and many more computer graphics gems._
 
 * [Geometry 3 Sharp](https://github.com/gradientspace/geometry3Sharp)
-_</br> Extensive state-of-the-art C# computational geometry libraries by GradientSpace._
+</br>_Extensive state-of-the-art C# computational geometry libraries by GradientSpace._
 
 * [JustCoding - Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms)
-<br/> _100+ algorithms & data structures generically implemented in C# by Jehonathan Thomas._
+<br/>_100+ algorithms & data structures generically implemented in C# by Jehonathan Thomas._
 
 * [Joel Simon](https://github.com/joel-simon)
-_</br> Computational geometry meets evolutionary algorithms and biomimicry._
+</br>_Computational geometry meets evolutionary algorithms and biomimicry._
 
 * [Junichiro Horikawa](https://github.com/jhorikawa)
-_</br> Great variety of algorithmic design tools for Unity, Houdini and Rhino/Grasshopper by Junichiro Horikawa._
+</br>_Great variety of algorithmic design tools for Unity, Houdini and Rhino/Grasshopper by Junichiro Horikawa._
+
+* [NVIDIA Kaolin](https://github.com/NVIDIAGameWorks/kaolin)
+<br/>_A PyTorch Library for Accelerating 3D Deep Learning Research _
 
 * [Keijiro Takahashi](https://github.com/keijiro)
-_</br> State-of-the-art, high-performance creative coding tools and effects implemented in Unity3d by Keijiro Takahashi._
+</br>_State-of-the-art, high-performance creative coding tools and effects implemented in Unity3d by Keijiro Takahashi._
 
 * [Lotte Makes Stuff](https://github.com/LotteMakesStuff)
-_</br> Unity3d gems by Lotte Makes Stuff._
+</br>_Unity3d gems by Lotte Makes Stuff._
 
 * [Masatatsu Nakamura](https://github.com/mattatz)
-<br/> _Excellent C# Unity tools, related to volumetric rendering, voxelization and procedural growth._
+<br/>_Excellent C# Unity tools, related to volumetric rendering, voxelization and procedural growth._
 
 * [Managed CUDA](https://github.com/kunzmi/managedCuda)
 <br/>_Official repository of the managedCUDA project, providing an easy integration of NVidia's CUDA in .net applications written in C#, Visual Basic or any other .net language_
 
 * [Nakata Nobuyuki](https://github.com/nobnak)
-_<br/> High quality GPU shaders and academic paper implementations from Nakata Nobuyuki, member of TeamLab in Tokyo._
+<br/>_High quality GPU shaders and academic paper implementations from Nakata Nobuyuki, member of TeamLab in Tokyo._
 
 * [Noise Crime](https://github.com/noisecrime)
 _</br> Useful creative coding tools and forks from other repositories, mostly implemented in Unity3d._
