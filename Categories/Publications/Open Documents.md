@@ -49,6 +49,10 @@ Open Documents
 <br/>**Cass Everitt, Mark J. Kilgard**
 <br/>_Lecture from GDC 2003 from NVIDIA, explaining the technique of real-time stencil shadow volumes and how to optimize them._
 
+* [Raytracing Scientific Data In NVIDIA Optix With GVDB Sparse Volumes](http://ramakarl.com/pdfs/2016_Hoetzlein_Scientific_Data.pdf)
+<br/>**Rama Karl Hoetzlein**
+<br/>_NVIDIA_
+
 * [Realtime Volumetric Rendering](http://patapom.com/topics/Revision2013/Revision%202013%20-%20Real-time%20Volumetric%20Rendering%20Course%20Notes.pdf)
 <br/>**Patapom / Bomb!**
 <br/>_"Almost everyone in the demoscene is enjoying ray-marching through a distance field but I haven’t seen much volumetric rendering done with it.So, why not use ray-marching to achieve what it was created for originally: rendering a participating medium?"_
