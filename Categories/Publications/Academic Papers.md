@@ -130,6 +130,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Zhengqi Li, Tali Dekel, Forrester Cole, Richard Tucker, Noah Snavely, Ce Liu, William T. Freeman**
 <br/>_Google Research_
 
+* [Learning Single Camera Depth Estimation using Dual-Pixels](http://openaccess.thecvf.com/content_ICCV_2019/papers/Garg_Learning_Single_Camera_Depth_Estimation_Using_Dual-Pixels_ICCV_2019_paper.pdf)
+<br/>**Rahul Garg, Neal Wadhwa, Sameer Ansari, Jonathan T. Barron**
+<br/>_Goggle Research_
+
 * [Multifaceted Feature Visualization: Uncovering the Different Types of Features Learned By Each Neuron in Deep Neural Networks](https://arxiv.org/pdf/1602.03616.pdf)
 <br/>**Ahn Nguyen, Jason Yosinski, Jeff Clune**
 <br/>_University of Wyoming, Cornell University_
