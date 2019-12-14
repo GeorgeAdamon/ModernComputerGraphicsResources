@@ -59,6 +59,10 @@ Academic Papers
 <br/>**Robert Bridson.**
 <br/>_University of British Columbia._
 
+* [Feature Preserving Octree-Based Hexahedral Meshing](https://cims.nyu.edu/gcl/papers/2019-OctreeMeshing.pdf)
+<br/>**Xifeng Gao, Hanxiao Shen, Daniele Panozzo**
+<br/>_Florida State University, Courant Institute of Mathematical Sciences, New York Unversity_
+
 * [From Nature to Fabrication: Biomimetic Design Principles for the Production of Complex Spatial Structures](https://www.researchgate.net/publication/264709118_From_Nature_to_Fabrication_Biomimetic_Design_Principles_for_the_Production_of_Complex_Spatial_Structures/download)<br/>**Riccardo La Magna, Markus Gabler, Steffen Reichert, Tobias Schwinn, Frédéric Waimer, Achim Menges, Jan Knippers**
 <br/>_ITKE – University of Stuttgart, ICD – University of Stuttgart_
 
