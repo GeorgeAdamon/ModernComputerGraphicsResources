@@ -58,10 +58,13 @@ Open Documents
 <br/>_"Almost everyone in the demoscene is enjoying ray-marching through a distance field but I haven’t seen much volumetric rendering done with it.So, why not use ray-marching to achieve what it was created for originally: rendering a participating medium?"_
 
 ### Physics & Simulation
+* [Fast Fixed-Radius Nearest Neighbors: Interactive Million-Particle Fluids](http://ramakarl.com/pdfs/2014_Hoetzlein_Fast_Neighbors.pdf)
+<br/>**Rama Karl Hoetzlein**
+<br/>_NVIDIA_
+
 * [Fluid Simulation For Dummies](https://mikeash.com/pyblog/fluid-simulation-for-dummies.html)
 <br/> **Mike Ash**
 <br/> _Simple, step-by-step explanation of real-time 3D Fluid Dynamics._
-
 
 * [Karl Sims' Fluid Flow Tutorial](http://www.karlsims.com/fluid-flow.html)
 <br/>**Karl Sims**
