@@ -1,7 +1,7 @@
 Code Repositories
 ======
 * [Andy Duboc](https://github.com/andydbc)
-_</br> Interesting shaders for Unity3d by Andy Duboc._
+_</br> High quality HLSL Shaders & Shader Graphs for Unity3d by Andy Duboc._
 
 * [COMPAS](https://github.com/compas-dev/compas) 
 _</br> Open-source, Python-based framework for computational research and collaboration in architecture, engineering and digital fabrication._
