@@ -9,6 +9,9 @@ Code Repositories
 * [CUDAfy.NET](https://github.com/Cr33zz/CUDAfy.NET)
 </br> _The official repository of the CUDAfy project._
 
+* [ComputeSHARP](https://github.com/Sergio0694/ComputeSharp)
+<b/>_The official repository of the ComputeSharp project, a .NET Standard 2.1 library to run C# code in parallel on the GPU through DX12 and dynamically generated HLSL compute shaders_
+
 * [David Eberly - Geometric Tools](https://www.geometrictools.com/index.html)
 </br>_The official site for the Geometric Tools Engine, a library of source code for computing in the fields of mathematics, graphics, image analysis and physics. Alongside the source code, lots of great resources about computational geometry._
 
