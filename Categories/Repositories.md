@@ -45,6 +45,9 @@ _</br> Unity3d gems by Lotte Makes Stuff._
 * [Masatatsu Nakamura](https://github.com/mattatz)
 <br/> _Excellent C# Unity tools, related to volumetric rendering, voxelization and procedural growth._
 
+* [Managed CUDA](https://github.com/kunzmi/managedCuda)
+<br/>_Official repository of the managedCUDA project, providing an easy integration of NVidia's CUDA in .net applications written in C#, Visual Basic or any other .net language_
+
 * [Nakata Nobuyuki](https://github.com/nobnak)
 _<br/> High quality GPU shaders and academic paper implementations from Nakata Nobuyuki, member of TeamLab in Tokyo._
 
