@@ -93,6 +93,9 @@ Weblogs & Devlogs
 * [Red Blob Games - Amit Patel](https://www.redblobgames.com/)
 <br/> _Incredibly detailed tutorials and source code, on various topics of game theory, such as pathfinding, tilemaps, triangulations etc._
 
+* [Sergen Eren](https://sergeneren.com/)
+<br/> _High-end houdini simulations, volumetric pathtracers, CUDA accelerated algorithms and everything in between, by senior Technical Director Sergen Eren._
+
 * [Shahriar Shahrabi](https://twitter.com/IRCSS)
 <br/> _Shahriar Shahrabi's excellent twitter feed, full of neat Unity shader tips and showcases._
 
