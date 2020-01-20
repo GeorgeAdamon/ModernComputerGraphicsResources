@@ -1,6 +1,9 @@
 Online Books
 ======
 ### Computational Geometry
+* [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
+<br/>**Keenan Crane**
+
 * [Geometry Algorithms](http://geomalgorithms.com/index.html)
 <br/>**Dan Sunday**
 <br/>_Huge online book with practical geometric algorithms for the software developer, covering Linear Algebra, Intersections, Convex Hulls, Inclusions, Distances etc, and including C++ implementations._
