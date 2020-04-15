@@ -1,6 +1,8 @@
 
 Shoulders Of Giants
 ======
+Historical papers that massively affected the field of Computer Graphics.  
+
 [**1950-1960**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1950-1960)
 
 [**1960-1970**](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/ShouldersOfGiants.md#1960-1970)
