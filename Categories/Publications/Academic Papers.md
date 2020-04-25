@@ -77,16 +77,20 @@ Academic Papers
 <br/>**Nicolas Ray, Bruno Vallet, Laurent Alonso, Bruno Levy**
 <br/>_INRIA Institute, France_
 
-* [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)
-<br/>**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**
-<br/>_TU Berlin, Caltech_
+* [Globally Optimal Direction Fields](https://www.cs.cmu.edu/~kmcrane/Projects/GloballyOptimalDirectionFields/paper.pdf)  
+**Felix Knöppel, Keenan Crane, Ulrich Pinkall, Peter Schröder**  
+_TU Berlin, Caltech_
 
-* [Hexagonal Global Parameterization of Arbitrary Surfaces](https://web.engr.oregonstate.edu/~zhange/images/HexParam.pdf)
-<br/>**Matthias Nieser, Jonathan Palacios, Konrad Polthier, Eugene Zhang**
+* [Hexagonal Global Parameterization of Arbitrary Surfaces](https://web.engr.oregonstate.edu/~zhange/images/HexParam.pdf)  
+**Matthias Nieser, Jonathan Palacios, Konrad Polthier, Eugene Zhang**
 
-* [Mesh Segmentation using Feature Point and Core Extraction](http://webee.technion.ac.il/~ayellet/Ps/KatzLeifmanTal.pdf)
-<br/>**Sagi Katz, George Leifman, Ayellet Tal**
-<br/>_Technion-Israel Institute of Technology, Department of Electrical Engineering_
+* [Mesh Segmentation using Feature Point and Core Extraction](http://webee.technion.ac.il/~ayellet/Ps/KatzLeifmanTal.pdf)  
+**Sagi Katz, George Leifman, Ayellet Tal**  
+_Technion-Israel Institute of Technology, Department of Electrical Engineering_
+
+* [Parallel Poisson Disk Sampling with Spectrum Analysis on Surface](https://www.liyiwei.org/papers/sample-siga10/paper.pdf)  
+**John Bowers, Rui Wang, Li-Yi Wei, David Maletz**  
+_University of Massachusetts Amherst, Microsoft Research_
 
 * [Robust Hex-Dominant Mesh Generation using Field-Guided Polyhedral
 Agglomeration](https://cims.nyu.edu/gcl/papers/Robust-Meshes-2017.pdf)
