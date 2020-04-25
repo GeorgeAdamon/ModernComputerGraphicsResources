@@ -11,20 +11,21 @@ Academic Papers
 ---
 
 ### Computational Geometry
-* [Introduction to Alpha Shapes](https://graphics.stanford.edu/courses/cs268-11-spring/handouts/AlphaShapes/as_fisher.pdf)
-<br/> **Kaspar Fischer**
-<br/> _ETH Zurich_
+* [Introduction to Alpha Shapes](https://graphics.stanford.edu/courses/cs268-11-spring/handouts/AlphaShapes/as_fisher.pdf)  
+**Kaspar Fischer**  
+_ETH Zurich_
 
-* [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)
-<br/>**Wenping Wang, Yang Liu**
-<br/>_University of Hong Kong, Microsoft Research Asia_
+* [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)  
+**Wenping Wang, Yang Liu**  
+_University of Hong Kong, Microsoft Research Asia_
 
-* [A Review of Properties And Variations of Voronoi Diagrams](https://www.whitman.edu/Documents/Academics/Mathematics/dobrinat.pdf)<br/>**Adam Dobrin**
-<br/>_Whitman College_
+* [A Review of Properties And Variations of Voronoi Diagrams](https://www.whitman.edu/Documents/Academics/Mathematics/dobrinat.pdf)  
+**Adam Dobrin**  
+_Whitman College_
 
-* [BigSUR: Large-scale Structured Urban Reconstruction](https://drive.google.com/drive/folders/0B6r_mUgXfBLdUzdRV3hNZDBGSWc)
-<br/>**Tom Kelly,John Femiani, Peter Wonka, Niloy J. Mitra** 
-<br/> _University College London, Miami University, KAUST, University College London_
+* [BigSUR: Large-scale Structured Urban Reconstruction](https://drive.google.com/drive/folders/0B6r_mUgXfBLdUzdRV3hNZDBGSWc)  
+**Tom Kelly,John Femiani, Peter Wonka, Niloy J. Mitra**   
+_University College London, Miami University, KAUST, University College London_
 
 * [Case Studies in Cost-Optimized Paneling of Architectural Freeform Surfaces](http://vecg.cs.ucl.ac.uk/Projects/SmartGeometry/paneling_aag/paper_docs/paneling_aag10.pdf)
 <br/>**Michael Eigensatz, Mario Deuss, Alex Schiftner, Martin Kilian, Niloy J. Mitra, Helmut Pottmann, Mark Pauly**
