@@ -37,6 +37,11 @@ Open Documents
 <br/>**Anders Grunnet-Jepsen, Paul Winer, Aki Takagi, John Sweetser, Kevin Zhao, Tri Khuong, Dan Nie, John Woodfill**
 
 ### Computational Imaging
+* [Accelerated Raytracing in One Weekend in CUDA](https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/)  
+**Roger Allen**  
+_Would you like to build a ray tracer that runs on your GPU using CUDA? If so, this post is for you_
+
+
 * [Adopting Lessons From Offline Ray-Tracing To Real-Time Ray Tracing For Practical Pipelines](http://advances.realtimerendering.com/s2018/Pharr%20-%20Advances%20in%20RTR%20-%20Real-time%20Ray%20Tracing.pdf)
 <br/>**Matt Pharr**
 <br/>_Real-time GPU ray-tracing on modern hardware(2018 onwards) explained brilliantly by Matt Phar._
