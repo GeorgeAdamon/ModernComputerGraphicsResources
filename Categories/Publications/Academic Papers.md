@@ -5,7 +5,7 @@ Academic Papers
 ### [Computational Geometry](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-geometry-1)
 ### [Machine Learning & Neural Networks](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#machine-learning--neural-networks-1)
 ### [Physics & Material Simulation](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#physics--material-simulation-1)
-### [Computational Imaging](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-imaging-1)
+### [Computational Imaging / Rendering](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-imaging-1)
 ### [Volumetric Capturing](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#volumetric-capturing)
 ### [Performance Optimization](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#performance-optimization-1)
 ---
@@ -231,11 +231,15 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Vladimir Shumskiy, Alexandre Parshin**
 <br/>_Moscow Institute of Physics and Technology, Air Graphics_
 
-* [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
-
 * [Illustrating Smooth Surfaces](https://mrl.nyu.edu/publications/illustrating-smooth/hertzmann-zorin.pdf)
 <br/>**Aaron Hertzmann, Denis Zorin**
 <br/>_New York University_
+
+* [Interactive Rendering of Large-Scale Volumes on Multi-Core CPUs](http://www.sci.utah.edu/~wald/Publications/2019/bricktree/bricktree.pdf)  
+**Feng Wang, Ingo Wald, Chris R. Johnson**  
+_SCI Institute, University of Utah,ntel Corporation_
+
+* [Interactive Volume Caustics in Single-Scattering Media](https://sci-hub.tw/http://dx.doi.org/10.1145/1730804.1730822)<br/>**Wei Hu, Zhao Dong, Ivo Ihrke, Thorsten Grosch, Guodong Yuan, Hans-Peter Seidel**<br/>_Beijing University of Chemical Technology China, MPI Informatik Germany, University of British Columbia Canada, Universitat Magdeburg Germany_
 
 * [Image Stylization using Anisotropic Reaction Diffusion](https://sci-hub.tw/10.1007/s00371-015-1139-2)
 <br/>**Ming-Te Chi, Wei-Ching Liu, Shu-Hsuan Hsu**
