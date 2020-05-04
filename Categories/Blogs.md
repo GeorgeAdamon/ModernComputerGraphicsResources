@@ -46,7 +46,7 @@ Weblogs & Devlogs
 <br/>_The website of the amazing Inigo Quilez. A treasure rove of advanced shaders, SDF functions and tutorials._
 
 * [Interplay of Light - Kostas Anagnostou](https://interplayoflight.wordpress.com/)
-<br/>_Scratchpad of graphics programmer Kostas Anagnostou, covering in great depth topics such as real-time GPU raytacing, real-time volumetric fog and shadows, signed distance fields etc._
+<br/> _Scratchpad of graphics programmer Kostas Anagnostou, covering in great depth topics such as real-time GPU raytacing, real-time volumetric fog and shadows, signed distance fields etc._
 
 * [Jackson Dunstan](https://jacksondunstan.com/)
 <br/> _Extremely In-depth C# and Unity3d articles by Jackston Dunstan, including frequent de-compilations and dissections of Unity's core dlls, as well as an extensive guide for integrating C++ code into Unity projects._
@@ -58,7 +58,7 @@ Weblogs & Devlogs
 <br/>_Extensive step-by-step Unity3d tutorials by Jasper Flick._
 
 * [Jean-Philippe Grenier](http://jpgrenier.org/)
-<br/>_State of the art real-time simulations and related articles by Jean-Philippe Grenier._
+<br/> _State of the art real-time simulations and related articles by Jean-Philippe Grenier._
 
 * [Joel Simon](http://www.joelsimon.net)
 <br/> _Joel Simon's excellent technical treatises on various computational design topics, such as coral growth end evolutionary floorplans._
@@ -80,6 +80,9 @@ Weblogs & Devlogs
 
 * [NVIDIA GameWorks Blog](https://developer.nvidia.com/gameworks/blog)
 <br/>_High-level, high-quality Computer Graphics topics and tutorials by NVIDIA._
+
+* [Ingo Wald's Devblog](https://ingowald.blog/)
+<br/>_Raytracing, OPTIX, GPGPU computing and other nuggets of GPPU wisdom from industry expert Ingo Wald._
 
 * [Ronja's Shader Tutorials](https://www.ronja-tutorials.com/)
 <br/>_Modern Cg/HLSL shader tutorials implemented in Unity3d._
