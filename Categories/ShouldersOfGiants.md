@@ -21,6 +21,8 @@ Historical papers that massively affected the field of Computer Graphics.
 #### 1967
 [**Coons**, Steven. **Surfaces For Computer-Aided Design of Space Forms**](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-041.pdf)
 
+[**Verlet**, Loup. **Computer "Experiments" on Classical Fluids .I. Thermodynamical Properties of Lennard-Jones Molecules**](https://journals.aps.org/pr/pdf/10.1103/PhysRev.159.98)
+
 ## 1970-1980
 #### 1975
 [**Phong**, Bui Tong. **Illumination for Computer Generated Pictures**](https://users.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf)
