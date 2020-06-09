@@ -93,6 +93,10 @@ _Technion-Israel Institute of Technology, Department of Electrical Engineering_
 **John Bowers, Rui Wang, Li-Yi Wei, David Maletz**  
 _University of Massachusetts Amherst, Microsoft Research_
 
+* [Polygon Offseting By Computing Winding Numbers](https://mcmains.me.berkeley.edu/pubs/DAC05OffsetPolygon.pdf)
+**Xiaorui Chen, Sara McMains**  
+_Department of Mechanical Engineering, University of California, Berkeley__
+
 * [Robust Hex-Dominant Mesh Generation using Field-Guided Polyhedral
 Agglomeration](https://cims.nyu.edu/gcl/papers/Robust-Meshes-2017.pdf)
 <br/>**Xifeng Gao, WenzelL Jakob,Marco Tarini,Danielle Panozo**
