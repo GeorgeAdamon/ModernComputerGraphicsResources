@@ -50,6 +50,9 @@ Historical papers that massively affected the field of Computer Graphics.
 #### 1987
 [**Cook**, Robert, **Carpenter**, Loren & **Catmull**, Edwin. **The Reyes Image Rendering Architecture**](http://graphics.pixar.com/library/Reyes/paper.pdf)
 
+#### 1988
+[**Pineda**, Juan. **A Parallel Algorithm for Polygon Rasterization**](https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf)
+
 ## 1990-2000
 #### 1997
 [**Veach**, Eric. **Robust Monte Carlo Methods for Light Transport Simulation**](https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf)
