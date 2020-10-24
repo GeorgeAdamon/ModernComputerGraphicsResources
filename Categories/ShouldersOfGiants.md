@@ -18,13 +18,16 @@ Historical papers that massively affected the field of Computer Graphics.
 [**de Casteljau**, Paul. **Courbes a Poles** [PDF does not exist. Please help!]](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)
 
 ## 1960-1970
-#### 1960
+#### 1963
 [**Sutherland**, Ivan. **Sketchpad: A man-machine graphical communication system**](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-574.pdf)  
 
 #### 1967
 [**Coons**, Steven. **Surfaces For Computer-Aided Design of Space Forms**](http://publications.csail.mit.edu/lcs/pubs/pdf/MIT-LCS-TR-041.pdf)
 
 [**Verlet**, Loup. **Computer "Experiments" on Classical Fluids .I. Thermodynamical Properties of Lennard-Jones Molecules**](https://journals.aps.org/pr/pdf/10.1103/PhysRev.159.98)
+
+#### 1968
+[**Sutherland**, Ivan. **A Head-Mounted Three Dimensional Display**](http://cacs.usc.edu/education/cs653/Sutherland-HeadmountedDisplay-AFIPS68.pdf)
 
 ## 1970-1980
 #### 1975
