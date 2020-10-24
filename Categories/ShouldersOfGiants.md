@@ -50,7 +50,7 @@ Historical papers that massively affected the field of Computer Graphics.
 #### 1987
 [**Cook**, Robert, **Carpenter**, Loren & **Catmull**, Edwin. **The Reyes Image Rendering Architecture**](http://graphics.pixar.com/library/Reyes/paper.pdf)  
 
-[**Lorensen** William E.**Cline**, Harvey E. **Marching Cubes: A High Resolution 3D Surface Construction Algorithm**](https://web.cs.ucdavis.edu/~ma/ECS177/papers/marching_cubes.pdf)
+[**Lorensen** William, **Cline**, Harvey . **Marching Cubes: A High Resolution 3D Surface Construction Algorithm**](https://web.cs.ucdavis.edu/~ma/ECS177/papers/marching_cubes.pdf)
 
 #### 1988
 [**Pineda**, Juan. **A Parallel Algorithm for Polygon Rasterization**](https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf)
