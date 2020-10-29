@@ -28,7 +28,10 @@ _</br> Research Engineer at GoogleBrain. Dozens of deep learning repositories._
 <br/> _The founder of Figma. Among other unbelievable things, his repository hosts an interactive WebGL pathtracer and an interactive WebGL water caustics simulator._
 
 * [Forceflow - Jeroen Baert](https://github.com/Forceflow?tab=repositories)
-<br/>_Home of Jeoren Baert's CUDA Voxelizer, Morton Encoding library, Suggestive Contours, and many more computer graphics gems._
+<br/>_Home of Jeoren Baert's CUDA Voxelizer, Morton Encoding library, Suggestive Contours, and many more computer graphics gems._  
+
+* [Geometry Central](https://github.com/nmwsharp/geometry-central)  
+_Geometry-central is a modern C++ library of data structures and algorithms for geometry processing, with a particular focus on surface meshes._  
 
 * [Geometry 3 Sharp](https://github.com/gradientspace/geometry3Sharp)
 </br>_Extensive state-of-the-art C# computational geometry libraries by GradientSpace._
