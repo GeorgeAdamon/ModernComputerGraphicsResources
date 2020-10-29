@@ -66,6 +66,9 @@ Weblogs & Devlogs
 * [Jos Stam](https://www.josstam.com)
 <br/> _The personal website of the legendary Jos Stam._
 
+* [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/index.html#top)  
+_CMU personal website of professor Keenan Crane, full with ground-breaking papers and code on discrete differential geometry_  
+
 * [Kyle Halladay](http://kylehalladay.com/archive.html)
 <br/>_Advanced shader tutorials covering Unity and Vulkan shaders by Kyle Halladay._
 
