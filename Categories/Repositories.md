@@ -1,5 +1,8 @@
 Code Repositories
 ======
+* [Anders Hoff (incovergent)](https://github.com/inconvergent)  
+_Excellent generative algorithms by the pioneer of the field, Anders Hoff._  
+
 * [Andy Duboc](https://github.com/andydbc)
 </br> _High quality HLSL Shaders & Shader Graphs for Unity3d by Andy Duboc._
 
