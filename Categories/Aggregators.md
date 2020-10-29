@@ -18,6 +18,10 @@ Resource Aggregators
 * [Jendrik Illner](https://www.jendrikillner.com/post/)
 <br/>_Graphics Programming Weekly. The latest hot developments in Computer Graphics curated by Jendrik Illner._
 
+* [Morphogenesis Resources](https://github.com/jasonwebb/morphogenesis-resources)  
+_A huge collection of algorithms, papers and examples related to Digital Morphogenesis, curated by Jason Webb._   
+
+
 * [Real-Time Rendering - Table of Intersections](http://www.realtimerendering.com/intersections.html)
 <br/>_Extensive matrix of intersection routines for various popular objects, pointing to resources in books and on the web._
 
