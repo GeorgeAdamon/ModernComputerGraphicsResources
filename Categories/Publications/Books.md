@@ -1,8 +1,12 @@
 Online Books
 ======
 ### Computational Geometry
-* [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)
-<br/>**Keenan Crane**
+* [A Primer on Bézier Curves] (https://pomax.github.io/bezierinfo/)  
+**Mike 'Pomax' Kamermans**  
+_A free, online book for when you really need to know how to do Bézier things._
+
+* [Discrete Differential Geometry: An Applied Introduction](https://www.cs.cmu.edu/~kmcrane/Projects/DDG/paper.pdf)  
+**Keenan Crane**
 
 * [Geometry Algorithms](http://geomalgorithms.com/index.html)
 <br/>**Dan Sunday**
