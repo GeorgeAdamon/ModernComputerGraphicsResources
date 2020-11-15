@@ -1,7 +1,7 @@
 Online Books
 ======
 ### Computational Geometry
-* [A Primer on Bézier Curves] (https://pomax.github.io/bezierinfo/)  
+* [A Primer on Bézier Curves](https://pomax.github.io/bezierinfo/)  
 **Mike 'Pomax' Kamermans**  
 _A free, online book for when you really need to know how to do Bézier things._
 
