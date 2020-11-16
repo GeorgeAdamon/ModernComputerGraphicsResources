@@ -15,7 +15,7 @@ Academic Papers
 **Kaspar Fischer**  
 _ETH Zurich_
 
-* [An Efficient, Practical Algorithm andImplementation for Computing MultiplicativelyWeighted Voronoi Diagrams](https://arxiv.org/pdf/2006.14298v1.pdf)  
+* [An Efficient, Practical Algorithm and Implementation for Computing Multiplicatively Weighted Voronoi Diagrams](https://arxiv.org/pdf/2006.14298v1.pdf)  
 **M. Held, S. de Lorenzo**  
 _University of Salzburg_  
 
