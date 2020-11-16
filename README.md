@@ -1,4 +1,4 @@
-# ModernComputerGraphicsResources
+# Modern Computer Graphics Resources
 A collection of blogs, personas and publications that act as reference points for the latest developments in Computer Graphics.
 
 This collection was initiated by George Adamopoulos in November 2018, as a away to collect as many cultural and technological contributions of incredibly talented people as possible, in a handy and accessible place.
