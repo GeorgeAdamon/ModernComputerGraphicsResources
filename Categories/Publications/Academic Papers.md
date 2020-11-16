@@ -23,6 +23,10 @@ _University of Hong Kong, Microsoft Research Asia_
 **Adam Dobrin**  
 _Whitman College_
 
+* [A Wavefront-Like Strategy for ComputingMultiplicatively Weighted Voronoi Diagrams](http://www.eurocg2019.uu.nl/papers/11.pdf)  
+**M. Held, S. de Lorenzo**  
+_University of Salzburg_  
+
 * [BigSUR: Large-scale Structured Urban Reconstruction](https://drive.google.com/drive/folders/0B6r_mUgXfBLdUzdRV3hNZDBGSWc)  
 **Tom Kelly,John Femiani, Peter Wonka, Niloy J. Mitra**   
 _University College London, Miami University, KAUST, University College London_
