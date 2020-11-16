@@ -110,6 +110,10 @@ Agglomeration](https://cims.nyu.edu/gcl/papers/Robust-Meshes-2017.pdf)
 <br/>**Xifeng Gao, WenzelL Jakob,Marco Tarini,Danielle Panozo**
 <br/>_New York University, École Polytechnique Fédérale de Lausanne (EPFL), Università degli Studi dell’Insubria and ISTI-CNR, New York University_<br/>
 
+* [Spherical Parameterization and Remeshing](http://hhoppe.com/sphereparam.pdf)  
+**Emil Praun, Hugues Hoppe**  
+_University of Utah, Microsoft Research_  
+
 * [Surface Panelization using Periodic Conformal Maps](http://sechel.de/publications/AAG2014Periodic.pdf)
 <br/>**Thilo Rorig, Stefan Sechelmann, Agata Kycia, Moritz Fleischmann**
 <br/>_Institut fur Mathematik, Technische Universitat Berlin, HENN Research, HENN Architekten_
