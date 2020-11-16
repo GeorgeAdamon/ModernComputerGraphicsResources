@@ -15,6 +15,10 @@ Academic Papers
 **Kaspar Fischer**  
 _ETH Zurich_
 
+* [An Efficient, Practical Algorithm andImplementation for Computing MultiplicativelyWeighted Voronoi Diagrams](https://arxiv.org/pdf/2006.14298v1.pdf)  
+**M. Held, S. de Lorenzo**  
+_University of Salzburg_  
+
 * [A Note on Planar Hexagonal Meshes](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/12/A-Note-on-Planar-Hexagonal-Meshes.pdf)  
 **Wenping Wang, Yang Liu**  
 _University of Hong Kong, Microsoft Research Asia_
