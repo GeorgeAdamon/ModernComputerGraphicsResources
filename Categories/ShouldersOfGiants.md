@@ -16,7 +16,7 @@ Historical papers that massively affected the field of Computer Graphics.
 ## 1950-1960
 #### 1959
 [**de Casteljau**, Paul. **Courbes a Poles** [PDF does not exist. Please help!]](https://en.wikipedia.org/wiki/De_Casteljau%27s_algorithm)  
-Alternatively, Paul de Casteljau talks about his method in retrospect in [Fundamental Developments of Computer-Aided Geometric Modelling (1993)](https://archive.org/details/fundamentaldevel0000unse/mode/2up)
+Paul de Casteljau talks about his method in retrospect, in [Fundamental Developments of Computer-Aided Geometric Modelling (1993)](https://archive.org/details/fundamentaldevel0000unse/mode/2up)
 
 ## 1960-1970
 #### 1963
