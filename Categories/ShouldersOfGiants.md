@@ -30,6 +30,9 @@ Historical papers that massively affected the field of Computer Graphics.
 [**Sutherland**, Ivan. **A Head-Mounted Three Dimensional Display**](http://cacs.usc.edu/education/cs653/Sutherland-HeadmountedDisplay-AFIPS68.pdf)
 
 ## 1970-1980
+#### 1972
+[**De Boor**, Carl. **On Calculating With B-Splines**](https://web.stanford.edu/class/cme324/classics/deboor.pdf)  
+
 #### 1975
 [**Phong**, Bui Tong. **Illumination for Computer Generated Pictures**](https://users.cs.northwestern.edu/~ago820/cs395/Papers/Phong_1975.pdf)
 
