@@ -65,7 +65,7 @@ Paul de Casteljau talks about his method in retrospect, in [Fundamental Developm
 #### 1988
 [**Pineda**, Juan. **A Parallel Algorithm for Polygon Rasterization**](https://www.cs.drexel.edu/~david/Classes/Papers/comp175-06-pineda.pdf)  
 
-[**Drebin**,Robert, **Carpenter**,Loren & **Hanrahan**,Pat:  **Volume Rendering**](https://sci-hub.se/https://doi.org/10.1145/378456.378484)
+[**Drebin**,Robert, **Carpenter**,Loren & **Hanrahan**,Pat. **Volume Rendering**](https://sci-hub.se/https://doi.org/10.1145/378456.378484)
 
 ## 1990-2000
 #### 1997
