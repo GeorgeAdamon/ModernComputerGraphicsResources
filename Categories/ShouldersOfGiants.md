@@ -67,6 +67,9 @@ Paul de Casteljau talks about his method in retrospect, in [Fundamental Developm
 
 [**Drebin**,Robert, **Carpenter**,Loren & **Hanrahan**,Pat. **Volume Rendering**](https://sci-hub.se/https://doi.org/10.1145/378456.378484)
 
+#### 1989
+[**Hart**.John C., **Sandin**,Daniel J., **Kauffman**,Louis H. **Ray Tracing Deterministic 3-D Fractals**](https://www.evl.uic.edu/hypercomplex/html/book/rtqjs.pdf)
+
 ## 1990-2000
 #### 1997
 [**Veach**, Eric. **Robust Monte Carlo Methods for Light Transport Simulation**](https://graphics.stanford.edu/papers/veach_thesis/thesis-bw.pdf)
