@@ -206,3 +206,5 @@ _A flexible and modular Node Editor Framework for creating node based displays a
 
 ---
 
+### [Unity Optix Plugin](https://github.com/Alexander-Scott/UnityOptixPlugin)  
+_An example of a Unity plugin that allows you to leverage the power of NVIDIA Optix (by Alex Scott)_
