@@ -45,6 +45,11 @@ _Detectron2 is Facebook AI Research's next generation software system that imple
 
 ---
 
+### [Easings](https://github.com/ai/easings.net)  
+_Easing functions [cheat sheet](https://easings.net/)!_  
+
+---
+
 ### [Eric Jang](https://github.com/ericjang)
 _Research Engineer at GoogleBrain. Dozens of deep learning repositories._
 
