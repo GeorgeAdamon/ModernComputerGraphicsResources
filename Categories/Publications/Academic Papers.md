@@ -62,7 +62,11 @@ _University College London, Miami University, KAUST, University College London_
 <br/>_Massachusetts Institute of Technology, School of Architecture_
 
 * [Dupin Meshing: A Parameterization Approach to Planar Hex-Dominant Meshing](http://www.staff.science.uu.nl/~vaxma001/paphdm.pdf)<br/>**Amir Vaxman, Mirela Ben-Chen**
-<br/>_TU Vienna, Technion–Israel Institute of Technology_
+<br/>_TU Vienna, Technion–Israel Institute of Technology_  
+
+* [Fast 3D Triangle-Box Overlap Testing](https://fileadmin.cs.lth.se/cs/Personal/Tomas_Akenine-Moller/code/tribox_tam.pdf)  
+**Tomas Akenine-Moller**  
+_Chalmers University of Technology, Dept. of Computer Engineering_    
 
 * [Fast Poisson Disk Sampling in Arbitrary Dimensions](https://www.cct.lsu.edu/~fharhad/ganbatte/siggraph2007/CD2/content/sketches/0250.pdf)
 <br/>**Robert Bridson.**
