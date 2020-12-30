@@ -27,6 +27,10 @@ _University of Hong Kong, Microsoft Research Asia_
 **Adam Dobrin**  
 _Whitman College_
 
+* [A sweep line algorithm for polygonal chain intersection and its applications](https://link.springer.com/content/pdf/10.1007/978-0-387-35490-3_21.pdf)  
+**Sang C. Park, Hayong Shin, Byoung K. Choi**
+_KAIST Korea, Chrysler Tech Center USA_  
+
 * [A Wavefront-Like Strategy for Computing Multiplicatively Weighted Voronoi Diagrams](http://www.eurocg2019.uu.nl/papers/11.pdf)  
 **M. Held, S. de Lorenzo**  
 _University of Salzburg_  
