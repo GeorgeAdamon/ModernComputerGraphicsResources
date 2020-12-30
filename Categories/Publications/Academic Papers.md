@@ -7,7 +7,7 @@ Academic Papers
 ### [Physics & Material Simulation](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#physics--material-simulation-1)
 ### [Computational Imaging / Rendering](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-imaging-1)
 ### [Volumetric Capturing](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#volumetric-capturing)
-### [GPGPU Data Structures & Algorithms](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#performance-optimization-1)
+### [GPGPU Data Structures & Algorithms](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#gpgpu-data-structures--algorithms-1)
 ---
 
 ### Computational Geometry
