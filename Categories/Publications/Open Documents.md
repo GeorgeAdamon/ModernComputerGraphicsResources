@@ -76,12 +76,14 @@ _Would you like to build a ray tracer that runs on your GPU using CUDA? If so, t
 **Slayemin**  
 _This article shows you how to create an octree, from concept to code, and how to optimize the performance to be lean on CPU and memory usage._  
 
+* [Know Your Architecture: Performance Programming for GameDev Students](http://fragmentbuffer.com/docs/PerformanceProgramming.pdf)
+**Keith O'Conor (Ubisoft Montreal)**  
+
 
 ### Digital Signal Processing
 * [Seeing Circles, Sines, and Signals: A Compact Primer On Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
 <br/>**Jack Schaedler**
 <br/>_Probably the most compact and comprehensive primer on Signal Processing, Sine waves, Fourier transform etc that exists._
-
 
 ### Physics & Simulation
 * [Fast Fixed-Radius Nearest Neighbors: Interactive Million-Particle Fluids](http://ramakarl.com/pdfs/2014_Hoetzlein_Fast_Neighbors.pdf)
