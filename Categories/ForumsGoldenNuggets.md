@@ -2,7 +2,6 @@
 
 * [**Efficient AABB/triangle intersection in C#**](https://stackoverflow.com/a/17503268)  
 **Original Question**
-
   > Can anyone recommend an efficient port to CSharp of any of the public AABB/triangle intersection algorithms.
   >
   > I've been looking at Moller's approach, described abstractly here, and if I were to port it, I would probably start from this C++ version. This C++ library by Mike Vandelay seems like it could also be a great starting point.
@@ -14,6 +13,14 @@
   > Any C# options, before I wade through a "math" port ;) would be greatly appreciated! Thanks.  
   
  ---
+ 
+* [**Get a specific bit from byte**](https://stackoverflow.com/a/4854257)  
+**Original Question**  
+  > I have a byte, specifically one byte from a byte array which came in via UDP sent from another device. This byte stores the on/off state of 8 relays in the device.
+  >
+  > How do I get the value of a specific bit in said byte? Ideally an extension method would look the most elegant and returning a bool would make the most sense to me.
+
+---
 
 * [**Is generating a .PTX file a must?**](https://forums.developer.nvidia.com/t/is-generating-ptx-file-a-must/82662/4)  
 **Original Question**  
