@@ -325,11 +325,17 @@ _School of Computing, National University of Singapore_
 
 * [Efficient Spatial Binning on the GPU](http://www.chrisoat.com/papers/EfficientSpatialBinning.pdf)
 <br/>**Christopher Oat, Joshua Barczak, Jeremy Shopf**
-<br/>_AMD_<br/>
+<br/>_AMD_<br/>  
+
+* [Fast Parallel Construction of High-Quality Bounding Volume Hierarchies](https://research.nvidia.com/sites/default/files/pubs/2013-07_Fast-Parallel-Construction/karras2013hpg_paper.pdf)  
+**Tero Karras, Timo Aila**  
+_NVIDIA_  
 
 * [Out-of-Core Construction of Sparse Voxel Octrees](https://graphics.cs.kuleuven.be/publications/BLD13OCCSVO/)  
 **Jeroen Baert, Ares Lagae, Philip Dutré**  
 _Department of Computer Science, KU Leuven_  
+
+
 
 
 
