@@ -1,5 +1,24 @@
 Open Documents
 ======
+---
+## Contents
+### [3-Dimensional Capturing]()
+### [Computational Geometry]()
+### [Computational Imaging]()
+### [Computer Science]()
+### [Digital Signal Processing]()
+### [GPGPU Data Structures & Algorithms]()
+### [Physics & Simulation]()
+---
+### 3-Dimensional Capturing
+* [Full Photogrammetry Guide for 3D Artists](https://80.lv/articles/full-photogrammetry-guide-for-3d-artists/)
+</br>_Vlad Kuzmin's extensive guide for efficient photogrammetry captures, hosted by 80.lv._
+
+* [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>**Sébastien Lachambre, Sébastien Lagarde, Cyril Jover**<br/>_This document aims to describe a photogrammetry workflow dedicated to authoring game assets with an affordable budget for a game studio. It goes through image capturing, image processing, point cloud and mesh reconstruction, model clean-up, reduction and retopology, texture transfering, and post-processing._
+
+* [Using the RealSense D4xx Depth Sensors in Multi-Camera Configurations](https://realsense.intel.com/wp-content/uploads/sites/63/Multiple_Camera_WhitePaper04.pdf)
+<br/>**Anders Grunnet-Jepsen, Paul Winer, Aki Takagi, John Sweetser, Kevin Zhao, Tri Khuong, Dan Nie, John Woodfill**
+
 
 ### Computational Geometry
 * [Geometric Tools Documentation](https://www.geometrictools.com/Documentation/Documentation.html)
@@ -17,24 +36,6 @@ Open Documents
 <br/>**Thomas Funkhouser**
 <br/>_Professor Funkhouser's notes about Ray-Primitive intersections from the course CS426 (Fall 2000)._
 
-### Computer Science
-* [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
-<br/>**Sean Eron Anderson**
-<br/>_Extensive, thoroughly tested, and incredibly valuable list of bitwise operation hacks by Stanford University._
-
-### Digital Signal Processing
-* [Seeing Circles, Sines, and Signals: A Compact Primer On Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
-<br/>**Jack Schaedler**
-<br/>_Probably the most compact and comprehensive primer on Signal Processing, Sine waves, Fourier transform etc that exists._
-
-### 3-Dimensional Capturing
-* [Full Photogrammetry Guide for 3D Artists](https://80.lv/articles/full-photogrammetry-guide-for-3d-artists/)
-</br>_Vlad Kuzmin's extensive guide for efficient photogrammetry captures, hosted by 80.lv._
-
-* [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>**Sébastien Lachambre, Sébastien Lagarde, Cyril Jover**<br/>_This document aims to describe a photogrammetry workflow dedicated to authoring game assets with an affordable budget for a game studio. It goes through image capturing, image processing, point cloud and mesh reconstruction, model clean-up, reduction and retopology, texture transfering, and post-processing._
-
-* [Using the RealSense D4xx Depth Sensors in Multi-Camera Configurations](https://realsense.intel.com/wp-content/uploads/sites/63/Multiple_Camera_WhitePaper04.pdf)
-<br/>**Anders Grunnet-Jepsen, Paul Winer, Aki Takagi, John Sweetser, Kevin Zhao, Tri Khuong, Dan Nie, John Woodfill**
 
 ### Computational Imaging
 * [Accelerated Raytracing in One Weekend in CUDA](https://devblogs.nvidia.com/accelerated-ray-tracing-cuda/)  
@@ -67,6 +68,17 @@ _Would you like to build a ray tracer that runs on your GPU using CUDA? If so, t
 <br/>_"Almost everyone in the demoscene is enjoying ray-marching through a distance field but I haven’t seen much volumetric rendering done with it.So, why not use ray-marching to achieve what it was created for originally: rendering a participating medium?"_
 
 
+### Computer Science
+* [Bit Twiddling Hacks](http://graphics.stanford.edu/~seander/bithacks.html)
+<br/>**Sean Eron Anderson**
+<br/>_Extensive, thoroughly tested, and incredibly valuable list of bitwise operation hacks by Stanford University._
+
+### Digital Signal Processing
+* [Seeing Circles, Sines, and Signals: A Compact Primer On Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
+<br/>**Jack Schaedler**
+<br/>_Probably the most compact and comprehensive primer on Signal Processing, Sine waves, Fourier transform etc that exists._
+
+
 ### Physics & Simulation
 * [Fast Fixed-Radius Nearest Neighbors: Interactive Million-Particle Fluids](http://ramakarl.com/pdfs/2014_Hoetzlein_Fast_Neighbors.pdf)
 <br/>**Rama Karl Hoetzlein**
@@ -84,6 +96,7 @@ _Would you like to build a ray tracer that runs on your GPU using CUDA? If so, t
 
 * [Robust Contact Creation for Physics Simulations](https://steamcdn-a.akamaihd.net/apps/valve/2015/DirkGregorius_Contacts.pdf)
 <br/>**Dirk Gregorious - Valve Software**  
+
 
 ### GPGPU Data Structures & Algorithms
 * [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)  
