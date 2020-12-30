@@ -18,6 +18,9 @@ Resource Aggregators
 * [Jendrik Illner](https://www.jendrikillner.com/post/)
 <br/>_Graphics Programming Weekly. The latest hot developments in Computer Graphics curated by Jendrik Illner._
 
+* [Monocular Depth Estimation](https://github.com/sxfduter/monocular-depth-estimation)  
+_The ultimate collection of monocular depth estimation papers & implementations._  
+
 * [Morphogenesis Resources](https://github.com/jasonwebb/morphogenesis-resources)  
 _A huge collection of algorithms, papers and examples related to Digital Morphogenesis, curated by Jason Webb._   
 
