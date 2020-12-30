@@ -51,6 +51,9 @@ _Geometry-central is a modern C++ library of data structures and algorithms for 
 * [Keijiro Takahashi](https://github.com/keijiro)
 </br>_State-of-the-art, high-performance creative coding tools and effects implemented in Unity3d by Keijiro Takahashi._
 
+* [LBVH](https://github.com/ToruNiina/lbvh)  
+_An implementation of the following paper Tero Karras: **"Maximizing Parallelism in the Construction of BVHs, Octrees, and k-d Trees"**_  
+   
 * [Lotte Makes Stuff](https://github.com/LotteMakesStuff)
 </br>_Unity3d gems by Lotte Makes Stuff._
 
