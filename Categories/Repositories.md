@@ -140,6 +140,11 @@ _A great way to start familiarizing yourself with making amazing graphics for yo
 
 ---
 
+### [p5.js Shader Examples](https://github.com/aferriss/p5jsShaderExamples)  
+_A collection of heavily commented 2d shaders in p5.js_  
+
+---
+
 ### [Pavel Dobryakov](https://github.com/PavelDoGreat)
 _Really fast, mobile friendly WebGL Computational Fluid Simulator._
 
