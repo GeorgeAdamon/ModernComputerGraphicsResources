@@ -27,6 +27,10 @@ Open Documents
 * [Karl Sims' Reaction Diffusion Tutorial](http://www.karlsims.com/rd.html)
 <br/>**Karl Sims**
 
+* [Laplace-Beltrami: The Swiss Army Knife of Geometry Processing](https://www.cs.cmu.edu/~kmcrane/Projects/Other/SwissArmyLaplacian.pdf)  
+**Justin Solomon, Keenan Crane, Etienne Vouga**  
+
+
 * [OBJ File Format Specification](http://www.martinreddy.net/gfx/3d/OBJ.spec)
 <br/>**Martin Reddy**
 <br/>_Thorough documentation of every single feature of the .obj file format._
