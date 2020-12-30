@@ -10,6 +10,11 @@ _High quality HLSL Shaders & Shader Graphs for Unity3d by Andy Duboc._
 
 ---
 
+### [Array Fire](https://github.com/arrayfire/arrayfire)
+_ArrayFire is a general-purpose library that simplifies the process of developing software that targets parallel and massively-parallel architectures including CPUs, GPUs, and other hardware acceleration devices._
+
+---
+
 ### [COMPAS](https://github.com/compas-dev/compas) 
 _Open-source, Python-based framework for computational research and collaboration in architecture, engineering and digital fabrication._
 
