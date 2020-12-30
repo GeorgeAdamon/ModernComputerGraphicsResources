@@ -11,4 +11,14 @@
   >
   > There seem to be a variety of algorithms, but most seem to be written in c++, or just described abstractly in white papers and I need a c# specific implementation for our application. Efficiency is not key, but c# is. (though efficiency is obviously nice too of course ;p )
   >
-  > Any C# options, before I wade through a "math" port ;) would be greatly appreciated! Thanks.
+  > Any C# options, before I wade through a "math" port ;) would be greatly appreciated! Thanks.  
+  
+ ---
+
+* [**Is generating a .PTX file a must?**](https://forums.developer.nvidia.com/t/is-generating-ptx-file-a-must/82662/4)  
+**Original Question**  
+  > Is there a way to prevent the app from generating external .ptx file and integrate it into .exe itself, somehow?
+  >
+  > For example:
+  > 
+  > I have my .exe and 3 dlls (glad, glfw3, sutil_7_sdk) from optix sdk samples and I’d like the .exe without the need to have the .ptx file with it. Is it possible?  
