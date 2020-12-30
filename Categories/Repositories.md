@@ -155,6 +155,9 @@ _PositionBasedDynamics is a particle-based library for the physically-based simu
 
 ---
 
+### [RTOW-OptiX ](https://github.com/ingowald/RTOW-OptiX)    
+_Ingo Wald's OptiX version of Pete Shirley's "RayTracing in One Weekend" series._
+
 ### [Scrawk](https://github.com/Scrawk)
 _State-of-the-art computational geometry algorithms implemented in Unity3d by Scrawk._
 
