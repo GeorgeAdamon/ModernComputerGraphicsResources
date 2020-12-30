@@ -343,6 +343,10 @@ _NVIDIA_
 **Linh Ha, Jens Krüger, Cláudio T. Silva**  
 _University of Utah_  
 
+* [Maximizing Parallelism in the Construction of BVHs,Octrees, andk-d Trees](https://research.nvidia.com/sites/default/files/publications/karras2012hpg_paper.pdf)  
+**Tero Karras**  
+_NVIDIA_  
+
 * [Out-of-Core Construction of Sparse Voxel Octrees](https://graphics.cs.kuleuven.be/publications/BLD13OCCSVO/)  
 **Jeroen Baert, Ares Lagae, Philip Dutré**  
 _Department of Computer Science, KU Leuven_  
