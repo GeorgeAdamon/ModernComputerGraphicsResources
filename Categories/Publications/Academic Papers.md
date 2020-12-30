@@ -7,7 +7,7 @@ Academic Papers
 ### [Physics & Material Simulation](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#physics--material-simulation-1)
 ### [Computational Imaging / Rendering](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-imaging-1)
 ### [Volumetric Capturing](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#volumetric-capturing)
-### [Performance Optimization / GPU Algorithms](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#performance-optimization-1)
+### [GPGPU Data Structures & Algorithms](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#performance-optimization-1)
 ---
 
 ### Computational Geometry
@@ -318,7 +318,7 @@ _SCI Institute, University of Utah,ntel Corporation_
 <br/>**Mingsong Dou, Philip Davidson, Sean Ryan Fanello, Sameh Khamis, Adarsh Kowdle, Christoph Rhemann, Vladimir Tankovich, Shahram Izadi**
 <br/>_Perspective IO_<br/>
 
-### GPU Data Structures & Algorithms
+### GPGPU Data Structures & Algorithms
 * [Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform (JFA)](https://sci-hub.do/10.1145/1111411.1111431)  
 **Guodong Rong, Tiow-Seng Tan**  
 _School of Computing, National University of Singapore_
