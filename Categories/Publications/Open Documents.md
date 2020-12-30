@@ -104,6 +104,9 @@ _This article shows you how to create an octree, from concept to code, and how t
 * [Robust Contact Creation for Physics Simulations](https://steamcdn-a.akamaihd.net/apps/valve/2015/DirkGregorius_Contacts.pdf)
 <br/>**Dirk Gregorious - Valve Software**  
 
+* [Verlet Integration](https://resources.saylor.org/wwwresources/archived/site/wp-content/uploads/2011/06/MA221-6.1.pdf)  
+**Saylor.org archives**  
+
 
 ### GPGPU Data Structures & Algorithms
 * [Thinking Parallel, Part I: Collision Detection on the GPU](https://developer.nvidia.com/blog/thinking-parallel-part-i-collision-detection-gpu/)  
