@@ -188,6 +188,11 @@ _3D Machine learning, data driven procedural urban modelling, a google street vi
 
 ---
 
+### [Unity3D-CG-Programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming)  
+_A treasure trove of advanced Cg/HLSL shaders for Unity by Przemyslaw Zaworski_  
+
+---
+
 ### [Unity Entity Component System Samples](https://github.com/Unity-Technologies/EntityComponentSystemSamples)
 _Regularly updated samples and documentation about Unity's experimental ECS and Job system._
 
