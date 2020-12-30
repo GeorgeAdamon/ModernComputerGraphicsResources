@@ -135,6 +135,11 @@ _Useful creative coding tools and forks from other repositories, mostly implemen
 
 ---
 
+### [Open3D](https://github.com/intel-isl/Open3D)  
+_A Modern Library for 3D Data Processing from Intel Intelligent Systems Lab._  
+
+---
+
 ### [OpenCV Sharp](https://github.com/shimat/opencvsharp)
 _C# implementation of the OpenCV library, hosted by Shima._
 
