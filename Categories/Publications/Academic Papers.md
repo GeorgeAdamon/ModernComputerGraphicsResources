@@ -105,6 +105,10 @@ _Technion-Israel Institute of Technology, Department of Electrical Engineering_
 **John Bowers, Rui Wang, Li-Yi Wei, David Maletz**  
 _University of Massachusetts Amherst, Microsoft Research_
 
+* [Poisson Surface Reconstruction](http://hhoppe.com/poissonrecon.pdf)  
+**Michael Kazhdan, Matthew Bolitho, Hugues Hoppe**  
+_John Hopkins University, Microsoft Research_  
+
 * [Polygon Offseting By Computing Winding Numbers](https://mcmains.me.berkeley.edu/pubs/DAC05OffsetPolygon.pdf)
 **Xiaorui Chen, Sara McMains**  
 _Department of Mechanical Engineering, University of California, Berkeley__
