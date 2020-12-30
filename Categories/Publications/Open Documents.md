@@ -16,7 +16,7 @@ Open Documents
 
 * [Unity Photogrammetry Workflow](https://unity3d.com/files/solutions/photogrammetry/Unity-Photogrammetry-Workflow_2017-07_v2.pdf)<br/>**Sébastien Lachambre, Sébastien Lagarde, Cyril Jover**<br/>_This document aims to describe a photogrammetry workflow dedicated to authoring game assets with an affordable budget for a game studio. It goes through image capturing, image processing, point cloud and mesh reconstruction, model clean-up, reduction and retopology, texture transfering, and post-processing._
 
-* [Using the RealSense D4xx Depth Sensors in Multi-Camera Configurations](https://realsense.intel.com/wp-content/uploads/sites/63/Multiple_Camera_WhitePaper04.pdf)
+* [Using the RealSense D4xx Depth Sensors in Multi-Camera Configurations](https://www.intelrealsense.com/wp-content/uploads/2018/12/Multiple_Camera_WhitePaper_rev1.1.pdf)
 <br/>**Anders Grunnet-Jepsen, Paul Winer, Aki Takagi, John Sweetser, Kevin Zhao, Tri Khuong, Dan Nie, John Woodfill**
 
 
