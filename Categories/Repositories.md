@@ -40,6 +40,11 @@ _One of the best Unity/C# repositories, including an enormous list of Editor Att
 
 ---
 
+### [Detectron 2](https://github.com/facebookresearch/detectron2)  
+_Detectron2 is Facebook AI Research's next generation software system that implements state-of-the-art object detection algorithms._
+
+---
+
 ### [Eric Jang](https://github.com/ericjang)
 _Research Engineer at GoogleBrain. Dozens of deep learning repositories._
 
