@@ -136,7 +136,7 @@ _C# implementation of the OpenCV library, hosted by Shima._
 ---
 
 ### [p5.js Shaders](https://github.com/ITP-xStory/p5js-shaders)  
-_ A great way to start familiarizing yourself with making amazing graphics for your projects in p5 and a simple introduction to shaders._  
+_A great way to start familiarizing yourself with making amazing graphics for your projects in p5 and a simple introduction to shaders._  
 
 ---
 
