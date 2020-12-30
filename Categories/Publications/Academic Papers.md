@@ -331,6 +331,10 @@ _School of Computing, National University of Singapore_
 **Tero Karras, Timo Aila**  
 _NVIDIA_  
 
+* [Fast 4-way parallel radix sorting on GPUs](https://vgc.poly.edu/~csilva/papers/cgf.pdf)  
+**Linh Ha, Jens Krüger, Cláudio T. Silva**  
+_University of Utah_  
+
 * [Out-of-Core Construction of Sparse Voxel Octrees](https://graphics.cs.kuleuven.be/publications/BLD13OCCSVO/)  
 **Jeroen Baert, Ares Lagae, Philip Dutré**  
 _Department of Computer Science, KU Leuven_  
