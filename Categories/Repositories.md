@@ -196,6 +196,11 @@ _3D Machine learning, data driven procedural urban modelling, a google street vi
 
 ---
 
+### [Unity Built-In Shaders](https://github.com/TwoTailsGames/Unity-Built-in-Shaders)  
+_An unofficial repo for Unity Built-in Shaders_  
+
+---
+
 ### [Unity3D-CG-Programming](https://github.com/przemyslawzaworski/Unity3D-CG-programming)  
 _A treasure trove of advanced Cg/HLSL shaders for Unity by Przemyslaw Zaworski_  
 
