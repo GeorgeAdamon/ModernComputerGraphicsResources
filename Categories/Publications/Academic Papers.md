@@ -221,9 +221,15 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Jos Stam**
 <br/> _alias|wavefront_
 
-* [Stable Fluids](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/ns.pdf)
-<br/>**Jos Stam**
-<br/> _alias|wavefront_
+* [Stable Fluids](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/ns.pdf)  
+**Jos Stam**  
+_alias|wavefront_
+
+* [XPBD: Position-Based Simulation of Compliant Constrained Dynamics](https://mmacklin.com/xpbd.pdf)  
+**Miles Macklin, Matthias Muller, Nuttapong Chentanez**  
+_NVIDIA_  
+
+
 ---
 
 ### Computational Imaging
