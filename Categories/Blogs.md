@@ -123,5 +123,8 @@ _CMU personal website of professor Keenan Crane, full with ground-breaking paper
 * [xdPixel - Brandon Fogerty](http://xdpixel.com/)
 <br/>_High-end graphics/rendering techniques by Unity XR Graphics Engineer Brandon Fogerty._
 
+* [Yuma Yanagisawa](https://yumayanagisawa.com/)  
+_The work of Yuma Yanagisawa, exploring creative computation in the realm of contemporary visual art._
+
 * [Zero Wind - Jamie Wong](http://jamie-wong.com/2016/08/05/webgl-fluid-simulation/)
 <br/>_Excellent blog about computer science/graphics, covering raymarching SDFs, real-time fluid dynamics, marching squares, etc_
