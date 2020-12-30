@@ -36,6 +36,9 @@ _Geometry-central is a modern C++ library of data structures and algorithms for 
 * [Geometry 3 Sharp](https://github.com/gradientspace/geometry3Sharp)
 </br>_Extensive state-of-the-art C# computational geometry libraries by GradientSpace._
 
+* [GPU Radix Sort](https://github.com/mark-poscablo/gpu-radix-sort)  
+_CUDA implementation of parallel radix sort using Blelloch scan._  
+
 * [JustCoding - Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms)
 <br/>_100+ algorithms & data structures generically implemented in C# by Jehonathan Thomas._
 
