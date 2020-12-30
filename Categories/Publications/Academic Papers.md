@@ -247,6 +247,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Vladimir Shumskiy, Alexandre Parshin**
 <br/>_Moscow Institute of Physics and Technology, Air Graphics_
 
+* [GVDB: Raytracing Sparse VoxelDatabase Structures on the GPU](http://ramakarl.com/pdfs/2016_Hoetzlein_GVDB.pdf)  
+**Rama Karl Hoetzlein**  
+_NVIDIA_  
+
 * [Illustrating Smooth Surfaces](https://mrl.nyu.edu/publications/illustrating-smooth/hertzmann-zorin.pdf)
 <br/>**Aaron Hertzmann, Denis Zorin**
 <br/>_New York University_
