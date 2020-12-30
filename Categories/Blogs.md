@@ -15,6 +15,9 @@ Weblogs & Devlogs
 * [Alan Zucconi](https://www.alanzucconi.com/)
 <br/>_Multi-part advanced tutorials (Unity3d, HLSL shaders and beyond) & frequent shader showcases by Alan Zucconi._
 
+* [Alexander Mutel](https://xoofx.com/)  
+_The personal website of .NET/C# guru/grand-master Alexander Mutel._  
+
 * [Aras Pranckevičius](https://aras-p.info/)
 <br/>_Excellent blog by Unity's Aras Pranckevičius. Among others, he builds a pathtracer from scratch for the CPU, the GPU, Unity, in C++, in C#, for iOS, you name it._
 
