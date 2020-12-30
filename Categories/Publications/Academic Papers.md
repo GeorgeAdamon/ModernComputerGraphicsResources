@@ -318,7 +318,7 @@ _SCI Institute, University of Utah,ntel Corporation_
 <br/>**Mingsong Dou, Philip Davidson, Sean Ryan Fanello, Sameh Khamis, Adarsh Kowdle, Christoph Rhemann, Vladimir Tankovich, Shahram Izadi**
 <br/>_Perspective IO_<br/>
 
-### Performance Optimization
+### GPU Data Structures & Algorithms
 * [Jump Flooding in GPU with Applications to Voronoi Diagram and Distance Transform (JFA)](https://sci-hub.do/10.1145/1111411.1111431)  
 **Guodong Rong, Tiow-Seng Tan**  
 _School of Computing, National University of Singapore_
@@ -326,3 +326,9 @@ _School of Computing, National University of Singapore_
 * [Efficient Spatial Binning on the GPU](http://www.chrisoat.com/papers/EfficientSpatialBinning.pdf)
 <br/>**Christopher Oat, Joshua Barczak, Jeremy Shopf**
 <br/>_AMD_<br/>
+
+* [Out-of-Core Construction of Sparse Voxel Octrees](https://graphics.cs.kuleuven.be/publications/BLD13OCCSVO/)  
+**Jeroen Baert, Ares Lagae, Philip Dutré**  
+_Department of Computer Science, KU Leuven_  
+
+
