@@ -1,6 +1,5 @@
 Open Documents
 ======
----
 ## Contents
 ### [3-Dimensional Capturing]()
 ### [Computational Geometry]()
@@ -73,6 +72,11 @@ _Would you like to build a ray tracer that runs on your GPU using CUDA? If so, t
 <br/>**Sean Eron Anderson**
 <br/>_Extensive, thoroughly tested, and incredibly valuable list of bitwise operation hacks by Stanford University._
 
+* [Introduction to Octrees](https://www.gamedev.net/tutorials/programming/general-and-gameplay-programming/introduction-to-octrees-r3529/)  
+**Slayemin**  
+_This article shows you how to create an octree, from concept to code, and how to optimize the performance to be lean on CPU and memory usage._  
+
+
 ### Digital Signal Processing
 * [Seeing Circles, Sines, and Signals: A Compact Primer On Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html)
 <br/>**Jack Schaedler**
@@ -84,15 +88,12 @@ _Would you like to build a ray tracer that runs on your GPU using CUDA? If so, t
 <br/>**Rama Karl Hoetzlein**
 <br/>_NVIDIA_
 
-
 * [Fluid Simulation For Dummies](https://mikeash.com/pyblog/fluid-simulation-for-dummies.html)
 <br/> **Mike Ash**
 <br/> _Simple, step-by-step explanation of real-time 3D Fluid Dynamics._
 
-
 * [Karl Sims' Fluid Flow Tutorial](http://www.karlsims.com/fluid-flow.html)
 <br/>**Karl Sims**
-
 
 * [Robust Contact Creation for Physics Simulations](https://steamcdn-a.akamaihd.net/apps/valve/2015/DirkGregorius_Contacts.pdf)
 <br/>**Dirk Gregorious - Valve Software**  
