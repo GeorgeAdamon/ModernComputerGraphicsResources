@@ -327,6 +327,10 @@ _School of Computing, National University of Singapore_
 <br/>**Christopher Oat, Joshua Barczak, Jeremy Shopf**
 <br/>_AMD_<br/>  
 
+* [Fast Parallel Surface and Solid Voxelization on GPUs](http://research.michael-schwarz.com/publ/files/vox-siga10.pdf)  
+**Michael Schwarz, Hans-Peter Seidel**  
+_Max-Planck-Institut Informatik_  
+
 * [Fast Parallel Construction of High-Quality Bounding Volume Hierarchies](https://research.nvidia.com/sites/default/files/pubs/2013-07_Fast-Parallel-Construction/karras2013hpg_paper.pdf)  
 **Tero Karras, Timo Aila**  
 _NVIDIA_  
