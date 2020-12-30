@@ -37,7 +37,7 @@ _Geometry-central is a modern C++ library of data structures and algorithms for 
 </br>_Extensive state-of-the-art C# computational geometry libraries by GradientSpace._
 
 * [GPU Radix Sort](https://github.com/mark-poscablo/gpu-radix-sort)  
-_CUDA implementation of parallel radix sort using Blelloch scan._  
+_CUDA implementation of parallel radix sort using Blelloch scan by [Mark Poscablo](https://github.com/mark-poscablo)._  
 
 * [JustCoding - Advanced Algorithms](https://github.com/justcoding121/Advanced-Algorithms)
 <br/>_100+ algorithms & data structures generically implemented in C# by Jehonathan Thomas._
@@ -49,7 +49,7 @@ _CUDA implementation of parallel radix sort using Blelloch scan._
 </br>_Great variety of algorithmic design tools for Unity, Houdini and Rhino/Grasshopper by Junichiro Horikawa._
 
 * [NVIDIA Kaolin](https://github.com/NVIDIAGameWorks/kaolin)
-<br/>_A PyTorch Library for Accelerating 3D Deep Learning Research _
+<br/>_A PyTorch Library for Accelerating 3D Deep Learning Research._
 
 * [Keijiro Takahashi](https://github.com/keijiro)
 </br>_State-of-the-art, high-performance creative coding tools and effects implemented in Unity3d by Keijiro Takahashi._
