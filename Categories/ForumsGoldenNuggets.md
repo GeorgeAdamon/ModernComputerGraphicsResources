@@ -21,7 +21,15 @@
   > How do I get the value of a specific bit in said byte? Ideally an extension method would look the most elegant and returning a bool would make the most sense to me.
 
 ---
+* [**How to compare two shapes?**](https://stackoverflow.com/a/22166032)  
+**Original Question** 
+  > Is there a way to compare two geometric shapes (or any two more generic data structures), without using the brute force when a tolerance is involved?
+  > 
+  > The brute force (that is comparing each value of each object against each value of the other object) works but it's slow, and I can't use it.
+  > 
+  > I tried sorting the data and comparing two sorted collections. It's fast, but it only works with zero tolerance. As soon as I add the tolerance I get lost. The problem is that two values can be identical when I compare and different when I sort.
 
+---
 * [**Is generating a .PTX file a must?**](https://forums.developer.nvidia.com/t/is-generating-ptx-file-a-must/82662/4)  
 **Original Question**  
   > Is there a way to prevent the app from generating external .ptx file and integrate it into .exe itself, somehow?
