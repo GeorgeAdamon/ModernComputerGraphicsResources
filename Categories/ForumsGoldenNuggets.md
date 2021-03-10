@@ -37,3 +37,11 @@
   > For example:
   > 
   > I have my .exe and 3 dlls (glad, glfw3, sutil_7_sdk) from optix sdk samples and I’d like the .exe without the need to have the .ptx file with it. Is it possible?  
+  >
+---
+
+* [**Mod of negative number is melting my brain**](https://stackoverflow.com/a/6400477)
+**Original Question**  
+  > I'm trying to mod an integer to get an array position so that it will loop round.
+  > Doing `i % arrayLength` works fine for positive numbers but for negative numbers it all goes wrong
+
