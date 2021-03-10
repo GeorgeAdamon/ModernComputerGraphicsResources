@@ -40,7 +40,7 @@
   >
 ---
 
-* [**Mod of negative number is melting my brain**](https://stackoverflow.com/a/6400477)
+* [**Mod of negative number is melting my brain**](https://stackoverflow.com/a/6400477)  
 **Original Question**  
   > I'm trying to mod an integer to get an array position so that it will loop round.
   > Doing `i % arrayLength` works fine for positive numbers but for negative numbers it all goes wrong
