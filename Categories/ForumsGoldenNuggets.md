@@ -43,5 +43,23 @@
 * [**Mod of negative number is melting my brain**](https://stackoverflow.com/a/6400477)  
 **Original Question**  
   > I'm trying to mod an integer to get an array position so that it will loop round.
-  > Doing `i % arrayLength` works fine for positive numbers but for negative numbers it all goes wrong
+  > Doing `i % arrayLength` works fine for positive numbers but for negative numbers it all goes wrong.  
+  > [...]  
+  > so i need an implementation of    
+  > 
+  > `int GetArrayIndex(int i, int arrayLength)`  
+  >   
+  > such that:  
+  > 
+  >  `GetArrayIndex( 4, 3) == 1`  
+  >  `GetArrayIndex( 3, 3) == 0`  
+  >  `GetArrayIndex( 2, 3) == 2`  
+  >  `GetArrayIndex( 1, 3) == 1`  
+  >  `GetArrayIndex( 0, 3) == 0`  
+  >  `GetArrayIndex(-1, 3) == 2`  
+  >  `GetArrayIndex(-2, 3) == 1`  
+  >  `GetArrayIndex(-3, 3) == 0`  
+  >  `GetArrayIndex(-4, 3) == 2`  
+
+
 
