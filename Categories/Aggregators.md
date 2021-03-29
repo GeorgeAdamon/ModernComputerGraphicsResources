@@ -1,5 +1,8 @@
 Resource Aggregators
 ======
+* [3D Machine Learning](https://github.com/timzhang642/3D-Machine-Learning)  
+_Huge repository with links to 3D Machine Learning resources_
+
 * [Advances in Real-time Rendering (SIGGRAPH) 2009-Ongoing](http://advances.realtimerendering.com/)
 <br/>_Papers,videos and course material from the famous annual SIGGRAPH course, covering state-of-the-art techniques from the game development community, as well as innovating graphics methods and forward-looking research with the emphasis on practical implementations._
 
