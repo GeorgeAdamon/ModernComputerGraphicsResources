@@ -87,6 +87,9 @@ _Fantastic blog covering every conceivable aspect of .NET/COM/C++ interop._
 * [Minions Art](https://www.patreon.com/minionsart/posts)
 <br/>_Game Art tips & Unity shader tutorials._
 
+* [Nick Darnell](https://www.nickdarnell.com/)  
+_High End Computer Graphics Techniques (Voxelization, Hi-Z Culling etc) by Nick Darnell, Principal Programmer at Epic Games._
+
 * [NVIDIA GameWorks Blog](https://developer.nvidia.com/gameworks/blog)
 <br/>_High-level, high-quality Computer Graphics topics and tutorials by NVIDIA._
 
