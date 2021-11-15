@@ -294,6 +294,10 @@ _SCI Institute, University of Utah,ntel Corporation_
 <br/>**Luca Fascione, Johannes Hanika, Rob Pieké, Ryusuke Villemin, Christophe Hery, Manuel Gamito, Luke Emrose, André Mazzone**
 <br/>_Weta Digital, MPC, Pixar Animation Studios, Framestore, Animal Logic, Industrial Light & Magic_
 
+* [Physically-Based Real-Time Lens Flare Rendering](http://resources.mpi-inf.mpg.de/lensflareRendering/pdf/flare.pdf)  
+**Matthias Hullin, Elmar Eisemann, Hans-Peter Seidel, Sungkil Lee**  
+_MPI Informatik, Telecom ParisTech, Saarland University, Sungkyunkwan University_  
+
 * [Real-time Realistic Rendering and Lighting of Forests](https://hal.inria.fr/hal-00650120/file/article.pdf)
 <br/>**Eric Bruneton, Fabrice Neyret**
 <br/>_INRIA_
