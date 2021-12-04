@@ -20,6 +20,10 @@ Open Documents
 
 
 ### Computational Geometry
+* [Geometric Algorithms](https://www.cs.princeton.edu/courses/archive/spr04/cos226/lectures/geometry2.4up.pdf)  
+**Kevin Wayne, Princeton University**  
+_A good collection of geometry-related data-structures and algorithms_
+ 
 * [Geometric Tools Documentation](https://www.geometrictools.com/Documentation/Documentation.html)
 <br/>**David Eberly**
 <br/>_A very long list of documents explaining advanced mathematical, geometrical and computational concepts and techniques._
