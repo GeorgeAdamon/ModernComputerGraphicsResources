@@ -37,6 +37,9 @@ _A huge collection of algorithms, papers and examples related to Digital Morphog
 * [Self Shadow](https://blog.selfshadow.com/)
 <br/> _Excellent links to SIGGRAPH videos, presentations, papers and course material (!), since 2011._ 
 
+* [Cedric Guillemet - SDF](https://github.com/CedricGuillemet/SDF)  
+_Extensive collection of theories and implementations of SDF algorithms_
+
 * [Unity List](https://unitylist.com/)
 <br/>_Probably the best Unity3D open source search engine._
 
