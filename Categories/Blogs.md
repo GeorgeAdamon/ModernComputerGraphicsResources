@@ -15,6 +15,9 @@ Weblogs & Devlogs
 * [Alan Zucconi](https://www.alanzucconi.com/)
 <br/>_Multi-part advanced tutorials (Unity3d, HLSL shaders and beyond) & frequent shader showcases by Alan Zucconi._
 
+* [Alexander Ameye](https://alexanderameye.github.io/notes/rendering-outlines/)  
+_Clear and modern shader tutorials for Unity by Alexander Ameye. Brilliant collection of outline methods._
+
 * [Alexander Mutel](https://xoofx.com/)  
 _The personal website of .NET/C# guru/grand-master Alexander Mutel._  
 
