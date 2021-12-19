@@ -59,6 +59,10 @@ _Would you like to build a ray tracer that runs on your GPU using CUDA? If so, t
 <br/>**Ricardo Antonelli**
 <br/>_Geodesic raytracing in curved spacetime_
 
+* [Mechanics of Robust Stencil Shadows](https://www.gamedeveloper.com/programming/the-mechanics-of-robust-stencil-shadows)  
+**Eric Lengyel**  
+_Article presenting the intricacies of the entire stencil shadow algorithm and covering every mathematical detail of its efficient implementation._  
+
 
 * [Optimized Stencil Shadow Volumes](https://www.nvidia.com/docs/IO/8230/GDC2003_ShadowVolumes.pdf)
 <br/>**Cass Everitt, Mark J. Kilgard**
