@@ -99,6 +99,9 @@ _High End Computer Graphics Techniques (Voxelization, Hi-Z Culling etc) by Nick 
 * [Ingo Wald's Devblog](https://ingowald.blog/)
 <br/>_Raytracing, OPTIX, GPGPU computing and other nuggets of GPPU wisdom from industry expert Ingo Wald._
 
+* [Ricky Reusser](https://rreusser.github.io/)  
+_Advanced real-time scientific visualizations & simulations using state-of-the-art WebGL._
+
 * [Ronja's Shader Tutorials](https://www.ronja-tutorials.com/)
 <br/>_Modern Cg/HLSL shader tutorials implemented in Unity3d._
 
