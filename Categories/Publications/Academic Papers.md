@@ -257,6 +257,11 @@ _NVIDIA_
 <br/>**Henry Kang, Seungyong Lee, Charles K. Chui**
 <br/>_University of Missouri, POSTECH_ <br/>[ >> _Open-source C++ Implementation_ <<](https://github.com/SSARCandy/Coherent-Line-Drawing)
 
+ * [Computer-Generated Watercolor](https://maverick.inria.fr/Members/Cyril.Soler/DEA/NonPhotoRealisticRendering/Papers/p421-curtis.pdf)  
+ **Cassidy J. Curtis Sean E. Anderson, Joshua E. Seims Kurt W. Fleischery David H. Salesin**  
+ _University of Washington, Stanford University, Pixar Animation Studios_  
+ 
+
 * [Effective Toon-Style Rendering Control Using Scalar Fields](https://graphics.pixar.com/library/ToonRendering/paper.pdf)
 <br/>**Alex Harvill**
 <br/>_Pixar Animation Studios_.
