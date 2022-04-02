@@ -225,6 +225,10 @@ Department of Neuroscience, Baylor College of Medicine, Houston, TX, USA_
 <br/>**Matthias Muller, Nuttapong Chentanez, Tae-Yong Kim**
 <br/>_NVIDIA_
 
+* [Real-Time Simulation and Rendering of 3D Fluids](https://www.cs.cmu.edu/~kmcrane/Projects/GPUFluid/paper.pdf)  
+**Keenan Crane, Ignacio Llamas, Sarah Tari**  
+_University of Illinois, NVIDIA_
+
 * [Real-Time Fluid Dynamics for Games](http://www.dgp.toronto.edu/people/stam/reality/Research/pdf/GDC03.pdf)
 <br/>**Jos Stam**
 <br/> _alias|wavefront_
