@@ -5,7 +5,7 @@ Academic Papers
 ### [Computational Geometry](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-geometry-1)
 ### [Machine Learning & Neural Networks](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#machine-learning--neural-networks-1)
 ### [Physics & Material Simulation](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#physics--material-simulation-1)
-### [Computational Imaging / Rendering](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-imaging-1)
+### [Computational Imaging / Rendering](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#computational-imaging)
 ### [Volumetric Capturing](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#volumetric-capturing)
 ### [GPGPU Data Structures & Algorithms](https://github.com/GeorgeAdamon/ModernComputerGraphicsResources/blob/master/Categories/Publications/Academic%20Papers.md#gpgpu-data-structures--algorithms-1)
 ---
@@ -277,7 +277,9 @@ _HAL, INRIA_
 
 * [Electrostatic Halftoning](https://www.mia.uni-saarland.de/Publications/schmaltz-pp260.pdf)  
 **Christian Schmaltz, Pascal Gwosdek, Andrés Bruhn, Joachim Weickert**  
-_Mathematical Image Analysis Group, Saarland University_
+_Mathematical Image Analysis Group, Saarland University_  
+[_Supplementary Material_](https://www.mia.uni-saarland.de/Research/Electrostatic_Halftoning/index.shtml)  
+
  
 
 * [GPU Ray Tracing – Comparative Study of Ray-Triangle Intersection Algorithms](http://www.graphicon.ru/html/2012/conference/EN2%20-%20Graphics/gc2012Shumskiy.pdf)
