@@ -253,6 +253,11 @@ _NVIDIA_
 <br/>**The Kiet Lu, Zhiyong Huang**
 <br/>_School of Computing,National University of Singapore, Institute for Infocomm Research (I2R), A*STAR, Singapore_
 
+* [A Survey of Digital Stippling](https://hal.inria.fr/hal-01528484/file/Martin_2017_SDS.pdf)  
+**Domingo Martín, Germán Arroyo, Alejandro Rodríguez, Tobias Isenberg**  
+_HAL, INRIA_  
+
+
 * [Apparent Ridges for Line Drawing](http://persci.mit.edu/pub_pdfs/ApparentLines.pdf)
 <br/>**Tilke Judd, Fredo Durand, Edward Adelson**
 <br/>_MIT CSAIL, MIT Dept. of Brain and Cognitive Sciences_
@@ -269,6 +274,11 @@ _NVIDIA_
 * [Effective Toon-Style Rendering Control Using Scalar Fields](https://graphics.pixar.com/library/ToonRendering/paper.pdf)
 <br/>**Alex Harvill**
 <br/>_Pixar Animation Studios_.
+
+* [Electrostatic Halftoning](https://www.mia.uni-saarland.de/Publications/schmaltz-pp260.pdf)  
+**Christian Schmaltz, Pascal Gwosdek, Andrés Bruhn, Joachim Weickert**  
+_Mathematical Image Analysis Group, Saarland University_
+ 
 
 * [GPU Ray Tracing – Comparative Study of Ray-Triangle Intersection Algorithms](http://www.graphicon.ru/html/2012/conference/EN2%20-%20Graphics/gc2012Shumskiy.pdf)
 <br/>**Vladimir Shumskiy, Alexandre Parshin**
