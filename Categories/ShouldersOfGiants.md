@@ -67,6 +67,8 @@ Paul de Casteljau talks about his method in retrospect, in [Fundamental Developm
 
 [**Drebin**,Robert, **Carpenter**,Loren & **Hanrahan**,Pat. **Volume Rendering**](https://sci-hub.se/https://doi.org/10.1145/378456.378484)
 
+[**Brackbill**, J., **Kothe**, Douglas & **Ruppel**, H.M. **FLIP: A Low-Dissipation, Particle-in-Cell Method for Fluid Flow**](https://www.researchgate.net/publication/222452290_FLIP_A_Low-Dissipation_Particle-in-Cell_Method_for_Fluid_Flow)
+
 #### 1989
 [**Hart**.John C., **Sandin**,Daniel J., **Kauffman**,Louis H. **Ray Tracing Deterministic 3-D Fractals**](https://www.evl.uic.edu/hypercomplex/html/book/rtqjs.pdf)
 
